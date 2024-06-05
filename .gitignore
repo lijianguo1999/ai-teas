@@ -1,0 +1,12 @@
+# creds/env
+.env
+google-app-credentials.json
+
+# data/caches (going to commit graphs to allow viewing examples w/o running code locally)
+# **/graphs/**
+# !**/graphs/.gitkeep
+
+# misc
+.vscode
+.DS_Store
+__pycache__/
