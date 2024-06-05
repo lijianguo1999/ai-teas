@@ -45,6 +45,7 @@ class PaperAgent():
             return self.paper
         # Assesss if we're talking about review vs. single process since content focus will differ greatly
         self.paper.describes_process = self.assess_paper_type() 
+
         # IF describing a novel/single process
         if self.paper.describes_process == "single_process":
             # summaries about paper, novelty, tecnoeconomics described
@@ -61,7 +62,11 @@ class PaperAgent():
             self.paper.tags_doe = paper_tags.get("tags_doe")
             self.paper.tags_feedstocks = paper_tags.get("tags_feedstocks")
             self.paper.tags_target_product = paper_tags.get("tags_target_product")
+            # save paper to cache
+            self.save_paper()
+
         # IF review paper (or clearly not single process), skip
         else:
             print(f"[PaperAgent.process_paper] Paper is a review, not summarizing it.")
+
         return self.paper 
