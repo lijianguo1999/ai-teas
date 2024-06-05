@@ -33,10 +33,9 @@ class TEAEval():
 
 
 class TEASimulatorAgent():
-    def __init__(self, cache_path: str, maml: MAML):
+    def __init__(self, cache_path: str):
         self._tea_graph_path = cache_path
         self._tea_graph = None
-        self.maml: MAML = maml
         self.evaluations = []
 
     def load_tea_graph(self):
@@ -44,32 +43,32 @@ class TEASimulatorAgent():
         print("[TEASimulatorAgent.load_tea_graph]")
         # Create Graph Cache if None Exists
         if os.path.exists(self._tea_graph_path) == False:
-            print("[MAMLAgent.load_maml_graph] No MAML graph file found, creating one")
+            print("[TEASimulatorAgent.load_maml_graph] No MAML graph file found, creating one")
             with open(self._tea_graph_path, 'w') as file:
                 json.dump({}, file)
         # Load Graph Cache
         with open(self._tea_graph_path, 'r') as file:
             self._tea_graph = json.load(file)
 
-    def save(self, clear_prior: bool = False):
+    def save(self, maml: MAML, clear_prior: bool = False):
         """Save to disk"""
         print("[TEASimulatorAgent.save]")
-        if not self.maml.id:
+        if not maml.id:
             raise ValueError("Missing ID for paper, which the graph keys on currently")
         # --- either append or clear and make a new list
         evals_list = list(map(lambda s: s.json(), self.evaluations))
         if clear_prior:
-            self._tea_graph[self.maml.id] = evals_list
+            self._tea_graph[maml.id] = evals_list
         else:
             # ...ensure it has an arr
-            if self._tea_graph.get(self.maml.id) == None:
-                self._tea_graph[self.maml.id] = []
-            self._tea_graph[self.maml.id].extend(evals_list)
+            if self._tea_graph.get(maml.id) == None:
+                self._tea_graph[maml.id] = []
+            self._tea_graph[maml.id].extend(evals_list)
         # --- save to disk
         with open(self._tea_graph_path, 'w') as file:
             json.dump(self._tea_graph, file, indent=4)
 
-    def run(self, input_params: dict, levels: List[int], output_dir_path: str, clear_prior: bool = False) -> List[TEAEval]:
+    def run(self, maml: MAML, input_params: dict, levels: List[int], output_dir_path: str, clear_prior: bool = True) -> List[TEAEval]:
         """Run a MaML+Inputs through multiple TEA simulators and store results on self"""
         print("[TEASimulator.run_simulations]")
         # CACHE
@@ -81,22 +80,22 @@ class TEASimulatorAgent():
         # --- LEVEL 1
         if 1 in levels or levels == None:
             try:
-                result, exec_history = tea_simulator_level_1(self.maml, params=input_params)
-                tea_simulator_level_1_csv(self.maml, output_dir_path) # TODO: append CSV to tea
-                tea_eval = TEAEval(type="simulation", level=1, input_maml=self.maml, input_params=input_params, result=result, exec_history=exec_history)
+                result, exec_history = tea_simulator_level_1(maml, params=input_params)
+                tea_simulator_level_1_csv(maml, output_dir_path) # TODO: append CSV to tea
+                tea_eval = TEAEval(type="simulation", level=1, input_maml=maml, input_params=input_params, result=result, exec_history=exec_history)
                 self.evaluations.append(tea_eval)
             except Exception as lvl_1_err:
                 print(lvl_1_err)
         # --- LEVEL 7
         if 7 in levels or levels == None:
             try:
-                result = tea_simulator_level_7(self.maml, params=input_params, output_dir_path=output_dir_path)
-                tea_eval = TEAEval(type="simulation", level=7, input_maml=self.maml, input_params=input_params, result=result)
+                result = tea_simulator_level_7(maml, params=input_params, output_dir_path=output_dir_path)
+                tea_eval = TEAEval(type="simulation", level=7, input_maml=maml, input_params=input_params, result=result)
                 self.evaluations.append(tea_eval)
             except Exception as lvl_7_err:
                 print(lvl_7_err)
         # SAVE
         # --- save
-        self.save(clear_prior=clear_prior)
+        self.save(maml=maml, clear_prior=clear_prior)
         # --- return evals
         return self.evaluations
