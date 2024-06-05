@@ -1,0 +1,918 @@
+Phosphoric acid based pretreatment of switchgrass and fermentation of entire slurry to ethanol using a simplified process
+
+1 
+ Wu et al. 2018. Bioresource Technol. 251:171 -180 
+Doi.org/10.1016/j.biortech.2017.12.041  
+ 
+Phosphoric acid based pretreatment of switchgrass and fermentation of  entire  
+slurry to ethanol using a simplified process  
+ 
+ 
+Wei Wu1,2, Vanessa Rondon1,3, Kalvin Weeks3, Pratap Pullammanappallil2, Lonnie 
+O. Ingram1,3 and K. T. Shanmugam1* 
+ 
+ 
+1Department of Microbiology and Cell Science, 2 Department of Agricultural and Biological 
+Engineering, 3Stan Mayfield Biorefinery  
+ 
+University of Florida  
+Gainesville, Florida 32611  
+ 
+ 
+*Address correspondence to K. T. Shanmugam, shan@ufl.edu  
+  Telephone No: 352 -392-2490; FAX: 352 -392-5922  
+ 
+ 
+Running title: Phosphoric acid pretreatment of switchgrass  
+ 
+ 
+e-mail addresses of other authors  
+Wei Wu, weiwu@ufl.edu  
+Vanessa R ondon , vanerondon@gmail.com  
+Kalvin Weeks, kalvinfweeks@gmail.com  
+Pratap Pullammanappallil, pcpratp@ufl.edu  
+Lonnie O. Ingram, ingram@ufl.edu  
+  2 
+ Abstract  
+ 
+Switchgrass (Alamo) was pretreated with phosphoric acid (0.75 and 1%, w/w) at three 
+temperatures (160, 175 and 190 °C) and time (5, 7.5 and 10 min) using a steam gun. The slurry 
+after pretreatment was liquefied by enzymes and the released sugars were ferme nted in a 
+simultaneous saccharification and co -fermentation process to ethanol using ethanologenic 
+Escherichia coli  strain SL100. Among the three variables in pretreatment , temperature and time 
+were critical in supporting ethanol titer and yield. Enzyme hy drolysis significantly increased the 
+concentration of furans in slurries, apparently due to release of furans bound to the solids. The 
+highest ethanol titer of 21.2±0.3 g /L ethanol obtained at the pretreatment condition of 190 -1-7.5 
+(temperature -acid conce ntration -time) and 10% solids loading account ed for 190±2.9 g ethanol  
+/kg of raw switch grass . This converts to  61.7 gallons of ethanol per ton of dry switchgrass , a 
+value that is comparable to other published pretreatment conditions . 
+ 
+ 
+Keywords : Switchgrass; Fermentation; phosphoric acid pretreatment; ethanol; L+SScF   3 
+ 1.  Introduction  
+World consumption of petroleum in 201 6 was 9 7 million barrels per day and this is projected to 
+increas e at about 1.5% per year (US Energy Information Administratio n; EIA ). Even with new 
+discovery of oil reservoirs, world economy is still dependent on limited number of fossil fuels 
+exporting countries. Although several non -petroleum energy sources are available, transportation 
+still depends on liquid fuels derived from petro leum. In 2016 , 88% of transportation energy in 
+U.S.A. was derived from petroleum and this is about 70% of the total petroleum consumption  in 
+the country (EIA) . Gasoline accounted for 55% of the total energy used by the transportation 
+sector in U.S.A . and s upplementation of gasoline with renewable ethanol is expected to lower 
+this demand on petroleum . Due to c oncerns of climate change, energy independence, f inite 
+nature of oil, as well as economic security of the nation , developing sustainable sources of 
+energy and products have become an immediate objective of several countries, including U.S.A. 
+Renewable energy derived from biomass is  a substitute for fossil -based liquid transportation  fuel. 
+Biomass includes  all photosynthetic material s and can be converted  to fuels, chemicals or power.  
+Although petroleum is also derived  from biomass , fixation of CO 2 from the atmosphere to 
+produce this biomass and its utilization as fuel today are separated by millions of years. This 
+time differential in production of biomass and consumption of petroleum is the leading cause of 
+current environmental concerns . By coupli ng production and consumption of biomass, a 
+sustainable cyclic process with minimal environmental impact can be developed.  
+Ethanol is a liquid fuel produced by fermentation of sugars (sugarcane or sugar beet) or 
+starch in grain s of cereal crops. Due to its  relatively high octane number and high heat of 
+vaporization , ethanol can be readily  blend ed with gasoline  (Hahn -Hagerdal et al., 2006) . In 
+U.S.A ., corn is the dominant commercial feedstock of the ethanol industry that produces about 4 
+ 16 billion gallons per year (EIA) . As a food crop, grains used for ethanol produ ction competes 
+with its primary use as food and feed  (Zilberman et al., 2013) . In addition, fertile land is removed 
+from food production for fuel production  (Seyffarth, 2016) . To overcome these limitations and to 
+expand biofuel production  to lower petroleum consumption , research is focused on 
+lignocellulosic materials  as feedsto ck for bio fuel production in a sustainable way (Energy -EERE, 
+2015; Lynd et al., 2017) . Energy crops grown in marginal lands appeal as additional  sources of 
+biomass for biofuel production and switchgrass, a native plant of North America, appears to be 
+the most promising herbaceous energy crop (Keshwani & Cheng, 2009; Wright & Turhollow, 
+2010) . 
+Lignocellulosic biomass contains sugars in  the form of cellulose and hemicellulose  that 
+are embedded with lignin in a structurally rigid form  (Fengel &  Wegener, 1983) . Their natural 
+function to bear high mechanical loads  and resist chemical and enzymatic degradation  is not 
+compatible with its proposed use as feedstock for fuel production. Since industrially important 
+microorganisms require monomeric s ugars or oligosaccharides (2 -4 sugar moieties) as feedstock 
+for fermentation  to ethanol , the polysaccharides in the plant tissue need to be destabilized and 
+converted to constituent sugars.  Several pretreatment strategies  have been described to disrupt  
+the biomass structure to generate sugar monomers  (Tao et al., 2011) . Dilute acid at high 
+temperature is one of the methods that effectively hydrolyzes hemicellulose while also rendering 
+cellulose to enzyme hydrolysis  (Yang & Wyman, 2009) . Sulfuric acid , due to its low cost , is an 
+intensely studied catalyst  for biomass pretreatment , although this process requires complex 
+alloys to minimize corrosion of equipment in a biorefinery. Rel atively milder phosphoric acid  as 
+a catalyst for biomass pretreatment not only lowers the cost of equipment but also reduces the 
+amount of inhibitory compounds generated during pretreatment (Fontana et al., 1984; Geddes et 5 
+ al., 2010) . Presence of inhibitors in the pretreatment slurry demand additional process steps to 
+remove the inhibitors or microbial biocatalyst s that can metabolically convert the inhibitors to 
+less inhibitory  form before growth and fermentation.    
+A phosphoric acid based one pot fermentation process was developed and successfully 
+evaluated using sugar cane and sorghum bagasses (Geddes et al., 2013) . This process utilized the 
+entire slurry (solids and hydrolysate) from  pretreatment and after enzyme hydrolysis and SScF 
+(L+SScF) with Escherichia  coli strain SL100 yielded an average of  275 g ethanol per kg of dry 
+bagasse  (about 76% yield) . Phosphoric acid has also been used for pretreatment of corn stover  
+and corn cob  (Avci et al., 2013a; Satimanont et al., 2012) . Under conditions that are optimized 
+for each pretreatment of corn stover, the yield of ethanol from a phosphoric acid process was 26 
+g/L at 10% loading and this was not dissimilar  to 30 g/L ethanol (300 g/kg of stover) yield from 
+a sulfuric acid pretreatment process (Avci et al., 2013a; Avci et al., 2013b) . These studies show 
+that phosphoric acid pretreatment of biomass followed by appropriate amount of enzymes can 
+support  ethanol yields that are comparable to other pretreatment strategies  (Geddes et al., 2011) . 
+An additional advantage of phosphoric acid pretreatment is that the residual acid in the slurry can 
+serve as phosphate for growth of the fermenting microo rganism. Residual  phosphorus in the 
+stillage can be recovered and used as a fertilizer for plant growth (Geddes et al., 2013; de 
+Vasconcelos et al., 2013 ). In addition to being a microbial and plant nutrient, a dilute phosphoric 
+acid and steam pretreatment eliminates the need for solvent recovery steps that are needed in 
+other pretreatment s, such as , organosolv. With appropriate equipment, the pretreatment time and 
+temperature can be lower with phosphoric acid pretreatment compared to autohydrol ysis of 
+biomass (Kim et al., 2011) . These characteristics, along with lower inhibitor concentration in th e 
+slurry from the phosphoric acid and steam pretreatment compared to sulfuric acid pretreatment 6 
+ (Geddes et al., 2010) , support direc t utilization of the slurry  in a biorefinery  for fermentation to 
+ethanol with enzyme hydrolysis  but without expensive separation and/or detoxification 
+processes . This simple process is anticipated to lower both equipment and process costs in the 
+biorefinery.  
+Various pretreatment strategie s for swi tchgrass have been reported and t hese include 
+sulfuric acid/steam, ammonia, base, ionic liquids, etc. (Kim et al., 2011; Papa et al., 2015) . Many 
+of these pretreatment s are followed by additional steps of separation of solids  and liquids , 
+removal of the chemicals used in pretreatment, etc.  In this study, a phosphoric acid based 
+pretreatment of switchgrass modeled after a simplified process developed for sugar  cane bagasse  
+(Geddes et al., 2013)  is described . This process from biomass to ethanol contains only  three 
+steps; pretreatment with acid and steam, liquefaction with enzymes and SScF with ethanologenic 
+E. coli  strain SL100. This is the first phosphoric acid based simplified process for switchgrass as 
+a feedstock for production of ethanol that yielded about 190 g ethanol per kg of dry biomass.  
+ 
+2. Materials and Methods  
+2.1 Materials  
+Switchgrass (Alamo) ( Panicum virgatum  L) grown in Virginia, USA was harvested in Fall 2015 , 
+size reduced to about 1 inch,  and donated by Mr. Fred Circle (FDC enterprises, Inc.) for this 
+study. The biomass with a dry weight of 89.28±0.57% was stored in sacks at room temperature 
+in the UF Stan Mayfield Biorefinery. Enzyme Cellic CTec3 (230 FPU per ml) was provided by 
+Novozymes  (Franklinton, NC ). Phosphoric acid, potassium hydroxide and other chemicals were 
+from Fisher Scientific (Pittsburgh, PA).  
+2.2 Composition Analysis  7 
+ Composition of samples of raw switchgrass, biomass solids obtained after pretreatment and 
+fermentation w as determined  using a method developed by t he U.S. National Renewable Energy 
+Laboratory (NREL method) (Sluiter et al., 2012) .  
+2.3 Pretreatment  
+Twenty kg of r aw switchgrass in 4 kg (dry weight ) batches were soaked in 56 kg of phosphoric 
+acid solution at various concentrations (0, 0.75%, 1.0%; w /w) for 12 hours at room temperature. 
+Phosphoric acid  was based on the amount mixed with water prior to adding switchgr ass and 
+compensated for moisture in the biomass. Soaked switchgrass was dewatered using a CP -4 screw 
+press (Vincent Corporation, Tampa, FL) to 30 -50% dry weight. Phosphoric acid impregnated  
+and dewatered  biomass samples were combined, mixed , and separated into 500 g samples (dry 
+weight) for steam treatment  as described previously (Geddes et al., 2011; Palmqvist et al., 1996) . 
+The 500 g sample upon entry into the 10 L pressure chamber was rapidly heated by high pressure 
+steam to the needed temperature (160, 175, 180, and 190  °C) and  held for the required time (5, 
+7.5 and 10 min ). The time required to reach  190°C in the chamber was about 15 seconds while 
+operating temperatures that are less than 190°C was reached in less than 5 seconds. At the end of 
+pretreatment, the slurry was rapidly discharged into a bin at atmospheric pressure  and room 
+temperature  (≤10 seconds). A total of 20 kg of switchgrass was processed under each 
+pretreatment condition in several batches. Pretreated biomass samples (slurry) from all the 
+batches were pooled, mixed and stored at 4°C.  
+2.4 Characterization of the p retreated switchgrass  
+For deter mination of water insoluble solid (WIS), 5g of pretreated biomass slurry was washed 
+with 4L of deionized water using a Whatman Qualitative Filter Paper at a pore size 2 .5 μm under 8 
+ vacuum  to remove all the solubles, including free sugars and inhibitors . The solid residue was 
+dried to constant weight  before analysis .  
+For determination of the composition of the hydrolysate, about  10-15 g of pretreated 
+biomass slurry was pressed with RA Chand J210 manual citrus juicer. The pass -through was 
+centr ifuged for 12 minutes at 600 x g and the  supernatant (hydrolysate) was used for 
+determination of pH, density, conductivity, dry weight and composition of the hydrolysate.  
+To determine the composition of the slurry, a sample was dried at 60°C to constant 
+weight. The dried sample was cut and passed through a sieve with 0.841 mm opening  before 
+analysis .  
+2.5 Liquefaction of the  Slurry  
+Commercial cellulase (Cellic CTec3 ; 230 FPU/ml ) was added at the desired concentration to a 
+well-mixed sample of slurry (10% solids, w/v) at pH 5.0 (adjusted with NH 4OH) and the 
+carbohydrates were  partially saccharified ( liquefied ) with 11.5 FPU/g dry biomass at 50°C for 6 
+h at the optimum temperature and pH  for the enzymes  (Application Sheet for Cellic CTec3 from 
+Novozymes) , as before for sugar  cane bagasse slurry (Geddes et al., 2011)  to improve mixing of 
+the slurry .  
+2.6 Detoxification of Pretreated Slurry  
+The slurry from 190-1-7.5 pretreatment condition was not fermented by E. coli  strain SL100 
+when the solids concentration was increased to 15% due to a concomitant increase in inhibitors. 
+The slurry from this pretreatment condition was detoxified to remove some of the inhibitory 
+compounds  to aid growth and fermentation of strain SL100 . For detoxification , pH of the slurry 
+was adjusted to 9.0 with NH 4OH and incubated for 12 hours at 4 °C as described previously 9 
+ (Geddes et al., 2013) . During this incubation period, pH of the sample decreased to about 7.0 . 
+This slurry was used as detoxified material for L+SScF to ethanol.    
+2.7 Microbial biocatalyst and growth conditions  
+Ethanologenic E. coli  strain SL100 with higher level of tolerance to inhibitors in sugar cane 
+bagasse hydrolysate  was described previously (Geddes et al., 2013) . Strain SL100 can grow and 
+ferment in mineral salts  medium containing up to 50% of sugar cane bagass e hydrolysate (about 
+1.0 g/L of furfural). The growth medium used was mineral salts medium AM1 (Martinez et al., 
+2007) . Seed cultures for SScF were grown in AM1 medium with 60% switchgrass hydrolysate 
+from a pretreatment con dition of 180 -1-10 (filtered and filter sterilized) for 20 hours at 37°C 
+with 0.01 vvm aeration and pH control at 6.3 with 5N NH 4OH. This hydrolysate medium 
+contain ing 17.6 g/L of total sugars and 0.6 g/L of furans  was used for growing strain SL100 
+since this allowed adaptation of the ethanologen to switchgrass slurry. After 20 h of growth  to a 
+cell dry weight of 1.7 g/L , all the sugars were fermented to an ethanol titer of 4.9 g/L.   
+Fermentations were conducted in BioFlo 110 fermenters  (Eppendorf, Hauppauge, NY ) 
+using a 3L vessel with 2L working volume (37oC, 200 rpm). Liquefied slurry (10% solids  
+content ) in AM1 medium at pH 6.3 was supplemented with sodium meta -bisulfite (SMB, 2M) 
+before inoculation  to lower the t oxicity (Alriksson et al., 2011; Nieves et al., 2011a) . 
+Fermentations were started with 200 ml of seed culture. Cell density at the start of SScF was 
+0.17 g/L . After inoculation , the culture  at 37°C was aerated at 0.01 vvm (20 ml/min) to increase 
+the growth rate and support  rapid metabolic removal  of inhibitors in the slurry  (Nieves et al., 
+2011b) . Fermentation pH was maintained at 6.3 by automatic addition of 5N NH 4OH. Growth of 
+the culture and fermentation profile were monitored for 96 hours. Concentration of sugars, 
+ethanol and co -products in the medium  were determined and normalized to the starting culture 10 
+ volume of 2L after adjustment for volume change due to sample withdrawal and base addition. 
+Fermentations were conducted in triplicate and the mean and sta ndard deviation were calculated 
+from the fermentations profiles.  
+2.8 Analytical methods  
+Dry weight was determined using a moisture analyzer (Kern model MLB 50 –3; Balingen, 
+Germany). Hydrolysate composition was determined by HPLC (Agilent Technologies 1260 with 
+refractive index detector ). Sugars were separated using Aminex HPX -87P ion exclusion column 
+(300x7.8 mm ; Bio -Rad, Hercules, CA ) fitted with Carbo -Ca 4 guard column (4x3 mm ; 
+Phenomenex, Torrance, CA) operating at 80°C with water as the mobile phase (0.6 ml/min). 
+Organic acids and furans were determined by HPLC (Agilent Technologies 1260 HPLC 
+equipped with UV and refractive index  detecters,  in series) with Aminex HPX - 87H column 
+(Bio-Rad; 45 °C; 4 mM H2SO4 as the mobile phase , 0.4 ml/min flow rate). Ethanol was 
+determined by GC as described before using an Agilent Technologies 6890N gas chromatograph  
+(Geddes, et al., 2010).  
+ 
+3. Results and Discussion  
+The Alamo switchgrass  as received had a dry weight of 89%. The switchgrass had a total 
+carbohydrate content of 64% with glucan, xylan and arabinan accounting for 38, 22 and 4 % of 
+the dry weight of the biomass, respectively. This carbohydrate content translates to 716.4 g 
+fermentable monomeric s ugars per kg of dry switchgrass that can yield a theoretical amount of 
+365 g ethanol per kg of dry biomass. Soluble and insoluble lignin content of switchgrass w as 5 11 
+ and 23% , respectively , while the  ash content was 1.6 %. Except for the ash  content, these values 
+are comparable to the published values for various switchgrass  cultivars (Hu et al., 2010) .  
+3.1 Pretreatment   
+Phosphoric acid was used as the catalyst for pretreatment of switchgrass with high pressure 
+steam  as described for sugar  cane bagasse (Geddes et al., 2011)  and in the Methods section . 
+Slurry obtained after pretreatment contained both fibrous solids and liquid hydrolysate. Total 
+sugar s released during pretreatment and present in the hydrolysate varied from 15 to 72 g per kg 
+of biomass depending on the condition (Table 1) . A line ar relationship was observed between  
+temperature (acid concentration , 0.75% ; residence time,  5 min ) and the amount of xylose and 
+total sugar s released during pretreatment. Similar linear relationship of temperature and total 
+sugar release was also reported  for phosphoric acid pretreatment of sugar cane bagasse  (Geddes 
+et al., 2011) . However, the amount of sugar re leased from sugar cane bagasse was about 3-times 
+higher than from switchgrass  at similar pretreatment condition  suggesting the hardiness of 
+switchgrass compared to sugar cane bagasse. Similar less efficient hydrolysis of switchgrass to 
+glucose compared to corn stover was also reported by Serate et al. (Serate et al., 2015) . In 
+agreement with this hardiness of switchgrass, Avci, et al. reported that corn stover pretreatment 
+condition of 160 -1-10 (temperature -acid concentration -time) with phosphoric acid hydrolyzed 
+about 95  % of hemicellulose and the total sugar yield after pre treatment was 218.4 g per kg of 
+dry corn stover (Avci et al., 2013a) . Compared to a total sugar yield from switchgrass at 160 -1-
+7.5 of only 34 g/kg biomass (Table 1), sugar yiel d from corn stover was about 7 -times higher 
+than from switchgrass. Pretreatment of switchgrass using sulfuric acid (160-0.5-10) as the 
+catalyst  did hydrolyze about 80 -90% of hemicellulose compared to only about 10% of 12 
+ hemicellulose hydrolysis during phosph oric acid pretreatment (160-1-7.5) (Table 1) confirming 
+the milder nature of phosphoric acid (Kim et al., 2011) . 
+Due to the narrow range of acid concentration and time of pretreatment used in this study , 
+selected from  previous studies on sugar cane bagasse (Geddes et al., 2011; Geddes et al., 2010) , 
+these two variables had no significant effect on hydrolysis of carbohydrates . Among the various 
+pretreatment conditions tested in this study, the highest amount of sugars released was at 190 -1-
+7.5 accounting for about 5 2.8±2.0  g xylose per kg of switchgrass (about 21% of hemicellulose)  
+(Table 1) . The hydrolysate from this pretreatment condition also c ontained about 4 g furfural and 
+1.4 g hydroxymethyl furfural (HMF) to a total of 5.3 g furans per kg of switchgrass  (Table 2). 
+This is in agreement with  reported positive correlation between pretreatment temperature and 
+the concentration of sugar and inhibitor s in the slurry of  phosphoric acid pretreated sugar  cane 
+bagasse (Geddes et al., 2011) . In addition, acetate and formate were also present in the 
+hydrolysates.  
+3.2 Solids Content after pretreatment  
+With these pretreatment conditions, water insoluble solids correspondingly decreased as more 
+sugars are released from the biomass , primarily due to hydrolysis of hemicellulos e with xylose as 
+the dominant free sugar. This is also seen as a chan ge in the composition of biomass solids after 
+pretreatment  (Fig. 1) . In addition to a decrease in hemicellulose, soluble lignin also decreased 
+with increasing severity of pretreatment . These results are similar to decrease in hemicellulose in 
+water insolub le solids  reported with phosphoric acid treated bagasse or sulfuric acid treated 
+switchgrass (Geddes et al., 2010; Yang et al., 2009) .  
+3.3 Liquefaction  13 
+ Since the slurry contained both fibrous solids and hydrolysate, it was difficult to mix the slurry 
+even at 10% solids loading  for simultaneous saccharification and co -fermentation (SScF) . A 
+short period of cellul ase treatment (6 h) reduced  the average particle size of solids and improved 
+mixing of the slurry during SScF  (L+SScF) (Geddes et al., 2013) . In order to establish an 
+optimum concentration of Cellic CTec3 for liquefaction and further SScF, slurry from the 
+pretreatment  condition of 190 -1-7.5 was treated with various enzyme concentrations (3.45 to 
+17.25 FPU p er g dry biomass ; 1.5-7.5%, v/w ) for 6 hours at the optimum condition for Cellic 
+CTec3  (50°C; pH 5.0) . The  amount of glucose, xylose and arabinose released during this 
+liquefaction step was determined (Fig. 2 ). Glucose concentration in the slurry increased with 
+increasing enzyme concentration until the enzyme activity reached about 11.5 FPU / g dry 
+biomass. Further increase in the enzyme concentration had no significant  effect on cellulose 
+hydrolysis to glucose. An enzym e concentration of 11. 5 FPU per g biomass was used to saturate 
+hydrolysis of cellulose, the primary carbohydrate in switchgrass . The highest amount of glucose 
+released during 6 hours of enzyme hydrolysis with 1 1.5 FPU per g biomass at this pretreatment 
+was 154.8±5.3 g/kg biomass. Total glucose in the slurry at the end of liquefaction accounted for 
+39% of cellulose ( 164.2 ±1.4 g/kg of biomass) with about 9 5% from enzyme hydrolysis  (Table 
+1).  
+ This liquefaction step also increased xylose concentration in the slurry indicating the 
+presence of hemicellulose hydrolyzing activity in the enzyme mixture (Fig. 2). In contrast to 
+glucose release, xylose release during liquefaction saturated at about 7 .5 FPU/g switchgrass. 
+Increasing the enzyme concentration beyond this level only led to very small increase in free 
+xylose (about 10 g/kg) in the slurry.  Although about 20% of hemicellulose was hydrolyzed 
+during the 190 -1-7.5 pretreatment step, enzyme hydro lysis increased this to a total xylose yield 14 
+ of 56%. About 65% of the xylose in the slurry at the end of liquefaction was generated during 
+the liquefaction step.  Arabinose concentration in the slurry at the end of liquefaction was less 
+than 20 g /kg switchg rass. Among the various pretreatment conditions  tested in this study, 1% 
+acid gave the highest total sugar yield of about 0.46 ( 328.24±7 g/kg biomass ) of the theoretical 
+value  (Table 1) .  
+3.4 Furfural and HMF  
+Although phosphoric a cid pretreatment is milder than sulfuric acid  pretreatment , microbial 
+growth inhibitors, such as furfural, hydroxymethylfurfural , etc. , are still generated during 
+pretreatment of biomass (Geddes et al., 2010; Zaldivar et al., 1999; Zha et al., 2014) . Similar 
+results were also obtained with switchgrass  treated with sulfuric acid (Djioleu & Carrier, 2016) . 
+Concentration  of furans in the hydrolysate from the slurry was dependent on the severity of 
+phosphoric acid pretreatment (0.3 -5.3 g/kg of switchgrass) with 190 -1-7.5 generating the highest 
+amount (Table 2). However, the furan content of the liquid fraction of the slurries increased in all 
+pretreatment condition s after liquefaction with enzymes  (Table 2). For example, furan content of 
+hydrolysates from al l pretreatments at 175°C, was about 2 g of furans /kg of biomass irrespective 
+of the time or acid concentration. The furan content of the same samples after liquefaction for 6 
+hours with 11.5 FPU cellulase activity  (per g biomass)  increased to an average o f 5.0 (4.3 -6.2) 
+g/kg of biomass. T his increase was also dependent on the pretreatment temperature (Fig. 3). It is 
+unlikely that the liquefaction step at pH 5.0 and 50 °C for 6 h generated additional furans by 
+dehydrating sugars. Apparently, this increase is  due to release of furans generated during 
+pretreatment step from the solids  fraction  in the slurry to the liquid fraction as the carbohydrates 
+were hydrolyzed by the enzymes. This may reflect the fraction termed as pseudo -lignin 
+generated during acid -based pretreatment of carbohydrates in biomass (Hu et al., 2013; Kumar et 15 
+ al., 2013) . Hemicellulose (xylan) -derived -pseudo -lignin has be en reported to form at even 
+moderate severities of pretreatment as the case with phosphoric acid pretreatment at 160 -0.75-5. 
+This increase in furans used as an indicator here suggests that the concentration of other 
+inhibitors also increased after liquefaction. Due to large differences in pretreatment conditions, it 
+is difficult to compare the furan c ontent of switchgrass slurry from this study to other values in 
+the literature.  
+ Increase in acetate concentration after liquefaction is expected due to hemicellulose 
+hydrolysis while formate concentration actually decreased  at this step  (Table 2) .  
+3.5 Simultaneous saccharification and co -fermentation (SScF)  
+The pH of the slurries after liquefaction at 50 °C was raised from 5.0 to 6.3 with NH 4OH and the 
+sugars were fermented to ethanol using an ethanologenic E. coli  strain SL100. Strain SL100 
+ferments bot h hexoses and pentoses to ethanol simultaneously (Geddes et al., 2013) . 
+Temperature of SScF was 37°C, the optimum for E. coli  strain SL100. Although this temperature 
+is not optimum for fungal cellulase activity, the enzymes contin ued to be active at this 
+temperature at a lower level compared to the activity at the optimum temperature of 50 °C (Patel 
+et al., 2005) . This continued activity of the enzymes is expected to release additional sugars that 
+are also fermented to ethanol.  
+ A typical fermentation profile is presented in Fig. 4A. The liquefied slurry from a 
+pretreatment condition of 1 75-1-7.5 contained glucose,  xylose and arabinose at 122.2±4.3, 
+113.0±1.3 and 10.5±1.1 g/kg switchgrass, respectively , for a total sugar content of 245.6 ±11.3 
+g/kg dry switchgrass  (Table 1) . This slurry also contained f urfural and HMF at a c oncentration of 
+3.0±0.2 and 1.3±0.3 g/kg of  switchgrass, respectively  (Table 2) . At 10% solids loading, all the 
+glucose was fermented during the first 24 h. Fermentation of xylose was complete in about 48 h. 16 
+ There was no significant increase in ethanol after 48 h and the titer reached 17.2±0.01  g/L and 
+the ethanol yield was 154.8±0.03 g /kg of dry switchgrass  (Table 3) . Furfural (0.37±0.07 g/L) and 
+HMF (0.16±0.04 g/L) in the starting slurry were not detectable at 24 h. B ased on the amount of 
+carbohydrates in the solids  after fermentation , a total of 396 g  of fermentable sugars (per kg of 
+switchgrass ) was released by pretreatment (175 -1-7.5) and enzyme hydrolysis , and 150 g  (per kg 
+biomass) of this total was released during SScF  by the enzymes carried over from the 
+liquefaction step . In add ition to eth anol, small amount of acetate and lactate were also detected in 
+the broth.  Yield of ethanol for this pretreatment condition was 42% of the total carbohydrates in 
+the biomass and 77% of the amount of released sugars.  
+ Increasing the temperature of pretreatment to  190°C keeping the acid concentration and 
+time the same (190 -1-7.5) yielded the highest amount of total sugars (Table 1) . However, this  
+pretreatment condition  also generated the highest amount of furans  (5.3 g/kg of biomass) before 
+liquefaction  (Table 2 ; Fig. 3 ). Even a t 10% solid s loading, furfural (0.71±0.03 g/L) and HMF 
+(0.12±0.02 g/L) were present in the slurry at growth inhibitory concentration for strain SL100. It 
+took 48 h for strain SL100 to completely detoxify the furfural in the slurry  (Fig. 4B). Due to the 
+presence of fur fural, growth and glucose fermentation w ere minimal during the first 24 h and a 
+slight increase in glucose concentration in the medium at 24 h was due to continued hydrolysis of 
+cellulose by the enzymes . After about a 20 h lag, glucose fermentation was linear until all the 
+glucose was fermented by 72 h. At the end of th is experiment (96 h), about 4.5 g/L xylose was 
+left unfermented  in addition to about 3 g/L of galactose . At this pretreatment, ethanol titer was 
+21.2±0.3 g/L and ethanol  yield  was 190.4±2.9 g/kg of dry switchgrass. Yield of ethanol on the 
+basis of total carbohydrates in the switchgrass  was 52% , a slight increase over the values from 
+the 175°C pretreatment.  17 
+ Increasing the severity of pretreatment further is expected to  increase the concentration of 
+inhibitors and prolong the lag period before growth and fermentation of total slurry start even 
+with furfural tolerant E. coli  strain SL100 . Similar lag before fermentation due to furans present 
+in unfractionate d phosphoric acid treated corn stover hydrolysate was also reported for another 
+ethanologenic E. coli  (strain FBR5) (Avci et al., 2013a) . A combination of longer liquefaction 
+time and SScF at a higher temperature that favors enzyme hydrolysis using a thermotolerant 
+microbial biocatalyst could improve the yield of ethanol from switchgrass without the need for 
+increasing the severity of pretreatment. Increasing the fermentation tim e beyond 96 h is another 
+opportunity to increase ethanol titer without solids/liquids separation and/or detoxification of the 
+slurry, both requiring additional process steps.   
+3.6 Effect of enzyme concentration on L+SScF  of switchgrass slurry  
+Since enzymes play a critical role in carbohydrate hydrolysis, it is expected that the 
+ethanol titer and yield are dependent on enzyme concentration , a significant cost component of 
+cellulosic ethanol production (Gubiczaa et al., 2016; Lynd et al., 2017) . As described above, 
+yield of sugar s increased with increasing enzyme concentration with the slurry from 190 -1-7.5 
+and saturated at about 11.5 FPU cellulase of Ce llic CTec3 per g biomass (Fig. 2 ). As expected, 
+ethanol titer also saturated at this enzyme concentration. When the enzyme concent ration at the 
+liquefaction step was increased from 11.5 to 17.25 FPU/g biomass, the ethanol titer only 
+increased by 1. 4 g/L from 21.2±0.32 to 22. 6±0.04 g/L (Fig. 4). The ethanol yield fraction based 
+on the amount of sugars fermented at these enzyme concent rations averaged to 0.77±0.1 . For  all 
+pretreatment  condition s and at the enzyme concentration  of 11.5 FPU/g biomass, the ethanol 
+yield on the fermented sugars basis was 0.85 ±0.005 . Taking into account this conversion 18 
+ efficiency of sugars to  ethanol, the yi eld of ethanol at a pretreatment of 190 -1-7.5 and 11.5 FPU 
+/g biomass enzyme loading was 61% of the theoretical value.  
+3.7 Fermentation at higher solids content  
+To increase the ethanol titer in fermentations  with a goal of improving energy efficiency during 
+distillation , solids content was increased from 10% to 15%. Since the slurry was used directly in 
+these fermentations, the concentration of inhibitors also increased  to 1.25 g/L of furans (furfural 
++HMF) f rom 0.83 g/L  at the 10% solids loading . It should be noted that in addition to furans the 
+slurry contains several other inhibitory compounds at various concentrations. These chemicals 
+act synergistically to control bacterial growth. Strain SL100 did not gr ow or ferment the sugars 
+in the slurry at 15% solids content  due to the inhibitors . Upon detoxification as described in the 
+Methods section, the slurry was fermented to ethanol but the ethanol content of the broth was 
+22.57 g/L, a 1.32 g/L increase over th e titer at 10% solids loading. This is apparently due to poor 
+mixing of enzymes with solids as seen by the release  of about 300 g total sugars /kg of biomass 
+at 15% solids content compared to about 420 g total sugars /kg of biomass at 10% solids loading. 
+Non-productive binding of cellulases with lignin at higher solids loading is another possibility 
+for lower sugar yield . These results suggest that further improvement in ethanol titer can be 
+achieved by  reducing particle size for better mixing of the solids with enzymes combined with 
+removal of inhibitory compounds from the slurry by detoxification. These a dditional proce ss 
+steps , although beneficial,  are anticipated to  add to  the production cost of product, ethanol .   
+3.8 Mass balance  
+The solids remaining after pretreatment and L+SScF accounted for 4 8 to 68% of switchgrass 
+based on the pretreatment condition (Table 4). An average of 94% of lignin in the starting 
+switchgrass was recovered in the solids from all pretreatments after L+SScF. T he carbohydrate 19 
+ content of the solids varied from 31 to 57%  with the lower value from more severe pretreatment 
+condition while the higher value from less severe pretreatment. At the end of 6+96 hours of 
+L+SScF, all the released sugars in the slurries were fermented for most of the pretreatment 
+conditions except for th ree of the most severe pretreatment conditions tested (175 -1-10, 190 -
+0.75-5 and 190 -1-7.5). With these three pretreatment conditions, about 45 -50 g sugars per kg of 
+biomass , mostly pentoses,  remained unfermented at the end of 96 h (Table 5) . This is appare ntly 
+due to the lag before growth of strain SL100 started, resulting from  higher concentration of 
+inhibitors generated during the three pretreatment conditions. Based on the fermentation profile, 
+remaining sugars  at the end of 96 hours of SScF , lignin and ash, a mass balance of 94 to 100 % 
+of starting biomass was recovered in these pretreatment conditions  (Table 5).  
+ Various pretreatment conditions, such as AFEX, dilute acid (H 2SO 4), hot water or base 
+(NH 4OH), we re employed for switchgrass and the ethanol titer and yield from these studies can 
+be found in e -version of this paper online . In these studies, pretreated slurries were further 
+processed (solids/liquid separation, etc.) and the released sugars in hydrolys ates or from solids 
+alone  after enzyme hydrolysis were fermented. Among the various processes tested, AFEX 
+pretreatment led to highest ethanol titer and yield. The reported ethanol titers of dilute acid 
+processes were comparable to that of the phosphoric acid process described in this s tudy 
+although additional process steps were employed in these studies. It may be necessary to 
+minimize the process complexity to lower the final cost of ethanol produced from biomass  
+(Gubiczaa et al., 2016) . The three step process described here (Fig. 5) based on the L+SScF 
+process deve loped for sugar cane bagasse (Geddes et al., 2013)  using phosphoric acid has the 
+potential for cost-effective conversion of switchgr ass to fuels and chemicals.  
+4. Conclusion  20 
+  A simplified three step process for processing switchgrass to ethanol was adapted from 
+that of sugarcane bagasse (Fig. 5) (Geddes et al., 2013) . Switc hgrass  was pretreated with 
+phosphoric acid and high-pressure steam. Entire slurry without removing any of the components 
+was liquefied with enzymes and f erment ed by an ethanologenic E. coli . Enzyme s required for 
+optimal release of sugars during L+SScF  was about 12 FPU/g biomass. At this enzyme loading 
+and a pretreatment condition of 190 -1-7.5, the ethanol titer was 21.2±0.32 g/L at a solids loading 
+of 10% (w/v) and the ethanol yield was 190.4±2.92 g per kg of dry switchgrass .   
+5. Acknowledgement  
+This work was supported by funds from the U.S. Department of Energy’s Office of Energy Efficiency and 
+Renewable Energy, Bioenergy Technologies Office under award number, DE -PI0000031, the Florida 
+Department of Agriculture and Consumer Services and University of  Florida Agricultural Experiment 
+Station.  
+6. Conflict of Interest  
+Author s report no competing financial interest.  
+ 
+ 
+References  
+1. Alriksson, B., Cavka, A., Jonsson, L.J. 2011. Improving the fermentability of enzymatic 
+hydrolysates of lignocellulose through chemical in -situ detoxification with reducing 
+agents. Bioresour. Technol. , 102(2), 1254 -1263.  
+2. Avci, A., Saha, B.C., Dien, B .S., Kennedy, G.J., Cotta, M.A. 2013a. Response surface 
+optimization of corn stover pretreatment using dilute phosphoric acid for enzymatic 
+hydrolysis and ethanol production. Bioresour. Technol. , 130, 603 -612. 21 
+ 3. Avci, A., Saha, B.C., Kennedy, G.J., Cotta,  M.A. 2013b. Dilute sulfuric acid pretreatment of 
+corn stover for enzymatic hydrolysis and efficient ethanol production by recombinant 
+Escherichia coli  FBR5 without detoxification. Bioresour. Technol. , 142, 312 -319. 
+4. Djioleu, A., Carrier, D.J. 2016. Effe cts of dilute acid pretreatment parameters on sugar 
+production during biochemical conversion of switchgrass using a full factorial design. 
+ACS Sustainable Chem. Eng. , 4, 4124 -4130.  
+5. Energy -EERE, U. -D.o. 2015. Multiyear program Plan March 2015 update. 
+http://www.energy.gov/sites/prod/files/2015/03/f20/mypp_beto_march2015.pdf . 
+6. Fengel, D., Wegener, G. 1983. Wood—chemistry, ultrastructure, reactions . Walter de Gruyt er, 
+New York.  
+7. Fontana, J.D., Correa, J.B.C., Duarte, J.H. 1984. Aqueous phosphoric acid hydrolysis of 
+hemicelluloses from sugarcane and sorghum bagasses. . Biotechnol. Bioeng. Symp. , 14, 
+175-186. 
+8. Geddes, C.C., Mullinnix, M.T., Nieves, I.U., Hoffman,  R.W., Sagues, W.J., York, S.W., 
+Shanmugam, K.T., Erickson, J.E., Vermerris, W.E., Ingram, L.O. 2013. Seed train 
+development for the fermentation of bagasse from sweet sorghum and sugarcane using a 
+simplified fermentation process. Bioresour. Technol. , 128, 716-724. 
+9. Geddes, C.C., Mullinnix, M.T., Nieves, I.U., Peterson, J.J., Hoffman, R.W., York, S.W., 
+Yomano, L.P., Miller, E.N., Shanmugam, K.T., Ingram, L.O. 2011. Simplified process 
+for ethanol production from sugarcane bagasse using hydrolysate -resistant Escheric hia 
+coli strain MM160. Bioresour. Technol. , 102, 2702 -2711.  22 
+ 10. Geddes, C.C., Peterson, J.J., Roslander, C., Zacchi, G., Mullinnix, M.T., Shanmugam, K.T., 
+Ingram, L.O. 2010. Optimizing the saccharification of sugar cane bagasse using dilute 
+phosphoric acid  followed by fungal cellulases. Bioresour. Technol. , 101(6), 1851 -1857.  
+11. Gubiczaa, K., Nieves, I.U., Sagues, W.J., Bartaa, Z., Shanmugam, K.T., Ingram, L.O. 2016. 
+Techno -economic analysis of ethanol production from sugarcane bagasse using a 
+Liquefaction  plus Simultaneous Saccharification and co -Fermentation process. 
+Bioresour. Technol. , 208, 42-48. 
+12. Hahn -Hagerdal, B., Galbe, M., Gorwa -Grauslund, M.F., Liden, G., Zacchi, G. 2006. Bio -
+ethanol - the fuel of tomorrow from the residues of today. Trends Bio technol. , 24(12), 
+549-556. 
+13. Hu, F., Jung, S., Ragauskas, A. 2013. Impact of pseudolignin versus dilute acid -pretreated 
+lignin on enzymatic hydrolysis of cellulose. ACS Sustainable Chem. Eng. , 1, 62-65. 
+14. Hu, Z., Sykes, R., Davis, M.F., Charles Brummer , E., Ragauskas, A.J. 2010. Chemical 
+profiles of switchgrass. Bioresour. Technol. , 101(9), 3253 -3257.  
+15. Keshwani, D.R., Cheng, J.J. 2009. Switchgrass for bioethanol and other value -added 
+applications: a review. Bioresour Technol , 100(4), 1515 -23. 
+16. Kim, Y., Mosier, N.S., Ladisch, M.R., Pallapolu, V.R., Lee, Y.Y., Garlock, R., Balan, V., 
+Dale, B.E., Donohoe, B.S., Vinzant, T.B., Elander, R.T., Falls, M., Sierra, R., Holtzapple, 
+M.T., Shi, J., Ebrik, M.A., Redmond, T., Yang, B., Wyman, C.E., Warner , R.E. 2011. 
+Comparative study on enzymatic digestibility of switchgrass varieties and harvests 
+processed by leading pretreatment technologies. Bioresour. Technol. , 102(24), 11089 -
+11096.  23 
+ 17. Kumar, R., Hu, F., Sannigrahi, P., Jung, S., Ragauskas, A.J., Wym an, C.E. 2013. 
+Carbohydrate derived -pseudo -lignin can retard cellulose biological conversion. 
+Biotechnol Bioeng , 110(3), 737 -53. 
+18. Lynd, L.R., Liang, X., Biddy, M.J., Allee, A., Cai, H., Foust, T., Himmel, M.E., Laser, M.S., 
+Wang, M., Wyman, C.E. 2017. C ellulosic ethanol: status and innovation. Curr. Opin. 
+Biotechnol. , 45, 202 -211. 
+19. Martinez, A., Grabar, T.B., Shanmugam, K.T., Yomano, L.P., York, S.W., Ingram, L.O. 
+2007. Low salt medium for lactate and ethanol production by recombinant Escherichia 
+coli B. Biotechnology Letters , 29(3), 397 -404. 
+20. Nieves, I.U., Geddes, C.C., Miller, E.N., Mullinnix, M.T., Hoffman, R.W., Fu, Z., Tong, Z., 
+Ingram, L.O. 2011a. Effect of reduced sulfur compounds on the fermentation of 
+phosphoric acid pretreated sugarcane ba gasse by ethanologenic Escherichia coli . 
+Bioresour. Technol. , 102(8), 5145 -5152.  
+21. Nieves, I.U., Geddes, C.C., Mullinnix, M.T., Hoffman, R.W., Tong, Z., Castro, E., 
+Shanmugam, K.T., Ingram, L.O. 2011b. Injection of air into the headspace improves 
+ferment ation of phosphoric acid pretreated sugarcane bagasse by Escherichia coli  
+MM170. Bioresour. Technol. , 102(13), 6959 -6965.  
+22. Palmqvist, E., Hahn -Hagerdal, B., Galbe, M., Larsson, M., Stenberg, K., Szengyel, Z., 
+Tengborg, C., Zacchi, G. 1996. Design and op eration of a bench -scale process 
+development unit for the production of ethanol from lignocellulosics. Bioresour. 
+Technol. , 58, 171 -179. 
+23. Papa, G., Rodriguez, S., George, A., Schievano, A., Orzi, V., Sale, K.L., Singh, S., Adani, F., 
+Simmons, B.A. 2015.  Comparison of different pretreatments for the production of 24 
+ bioethanol and biomethane from corn stover and switchgrass. Bioresour. Technol. , 183, 
+101-110. 
+24. Patel, M.A., Ou, M., Ingram, L.O., Shanmugam, K.T. 2005. Simultaneous saccharification 
+and co -fermentation of crystalline cellulose and sugar cane bagasse hemicellulose 
+hydrolysate to lactate by a thermotolerant acidophilic Bacillus  sp. Biotech. Prog. , 21, 
+1453 -1460.  
+25. Satimanont, S., Luengnaruemitchai, A., Wongkasemjit, S. 2012. Effect of temperat ure and 
+time on dilute acid pretreatment of corn cobs. Int. J. Chem. Biol. Eng. , 6, san333 -337. 
+26. Serate, J., Xie, D., Pohlmann, E., Donald, C., Jr., Shabani, M., Hinchman, L., Higbee, A., 
+McGee, M., La Reau, A., Klinger, G.E., Li, S., Myers, C.L., Boone , C., Bates, D.M., 
+Cavalier, D., Eilert, D., Oates, L.G., Sanford, G., Sato, T.K., Dale, B., Landick, R., 
+Piotrowski, J., Ong, R.G., Zhang, Y. 2015. Controlling microbial contamination during 
+hydrolysis of AFEX -pretreated corn stover and switchgrass: effec ts on hydrolysate 
+composition, microbial response and fermentation. Biotechnol. Biofuels , 8, 180.  
+27. Seyffarth, A.R. 2016. The impact of rising ethanol production on the brazilian market for 
+basic food commodities: an econometric assessment. Environ. Reso urce Econ. , 64, 511 -
+536. 
+28. Sluiter, A., Hames, B., Ruiz, R., Scarlata, C., Sluiter, J., Templeton, D., Crocker, D. 2012. 
+Determination of structural carbohydrates and lignin in biomass: laboratory analytical 
+procedure (LAP). NREL/TP -510-42618 , 
+http://www.nrel.gov/biomass/analytical_procedures.html . 
+29. Tao, L., Aden, A., Elander, R.T., Pallapolu, V.R., Lee, Y.Y., Garlock, R.J., Balan, V., Dale, 
+B.E., Kim, Y., Mosier, N.S., Ladisch, M.R ., Falls, M., Holtzapple, M.T., Sierra, R., Shi, 25 
+ J., Ebrik, M.A., Redmond, T., Yang, B., Wyman, C.E., Hames, B., Thomas, S., Warner, 
+R.E. 2011. Process and technoeconomic analysis of leading pretreatment technologies for 
+lignocellulosic ethanol production using switchgrass. Bioresour. Technol. , 102(24), 
+11105 -11114.  
+30. Wright, L., Turhollow, A. 2010. Switchgrass selection as a “model” bioenergy crop: a history 
+of the process. Biomass Bioenergy , 34, 851 -868. 
+31. Yang, B., Wyman, C.E. 2009. Dilute acid and autohydrolysis pretreatment. Methods in 
+Molecular Biology: Biofuels , 581, 103 -114. 
+32. Yang, Y., Sharma -Shivappa, R.R., Burns, J.C., Cheng, J. 2009. Saccharification and 
+fermentation fo dilute -acid-pretreated  freeze -dried switchgrass. Energy fuels 23, 5626 -
+5635.  
+33. Zaldivar, J., Martinez, A., Ingram, L.O. 1999. Effect of selected aldehydes on the growth and 
+fermentation of ethanologenic Escherichia coli . Biotechnol. Bioeng. , 65(1), 24 -33. 
+34. Zha, Y., Westerh uis, J.A., Muilwijk, B., Overkamp, K.M., Nijmeijer, B.M., Coulier, L., 
+Smilde, A.K., Punt, P.J. 2014. Identifying inhibitory compounds in lignocellulosic 
+biomass hydrolysates using an exometabolomics approach. BMC Biotechnology , 14, 22. 
+35. Zilberman, D., Hochman, G., Rajagopal, D., Sexton, S., Timilsina, G. 2013. The impact of 
+biofuels on commodity food prices: assessment of findings. Amer. J. Agr. Econ , 95(2), 
+275-281. 
+   26 
+ Figure Legend  
+Fig. 1. Composition of fibrous solids after pretreatment of switchgrass with phosphoric acid at 
+the indicated conditions. The three numbers represent the temperature, acid concentration (w/w 
+of raw dry switchgrass) and time (min) of pretreatment.  “Raw” rep resents the composition of 
+untreated switchgrass.  
+Raw, untreated switchgrass.  
+Fig. 2. Effect of enzyme concentration on the amount of sugars released from pretreated 
+switchgrass during liquefaction  
+Switchgrass pretreated with phosphoric acid at 1% (w/w) for 7.5 min at 190°C was used for 
+enzyme hydrolysis for 6 h at 50°C and pH 5.0. “●”, glucose; “■”, xylose; “▲” , arabinose; “        
+“ represent the amount of sugars released during liquefaction;   “         “ represent total sugars in 
+the slurry that include s the amount of sugars released during pretreatment and enzyme hydrolysis 
+during liquefaction.  Sugar concentration is presented as % of total sugars from the carbohydrate 
+composition of switchgrass.  
+Fig. 3. Effect of pretreatment temperature and liquefacti on on production and release of furfural 
+and hydro xymethylfurfural (HMF) (furans)  
+(A) Phosphoric acid concentration, 0.75% (W/W); Time of pretreatment, 5 min; (B) Phosphoric 
+acid concentration, 1.0% (W/W); Time of pretreatment, 7.5 min;  “●”, before liquefaction; “■”, 
+after liquefaction;  “        “ , furfural concentration;  “         ” , con centration of furans 
+(furfural+HMF ). Values are average of three experiments.  
+Fig. 4. Fermentation profile of pretreated, liquefied switchgrass slurry (L+SScF).  27 
+ (A) pretreatment, 175 -1-7.5; enzyme concentration, 11.5 FPU per g dry biomass. (B) 
+pretreatmen t, 190 -1-7.5; enzyme concentration, 11.5 FPU per g biomass. (C) pretreatment, 190 -
+1-7.5; enzyme concentration, 17.25 FPU per g biomass.  
+Fig. 5. A three step switchgrass to ethanol process  with phosphoric acid and steam pretreatment 
+followed by L+SScF (enzy me hydrolysis and co -fermentation) of the resulting slurry to ethanol 
+using E. coli strain SL100. This process is based on the simplified process developed for sugar 
+cane bagasse (Geddes et al., 2011) . 
+Glucan, xylan  and arabinan represent the carbohydrates in the solids. Total sugars include all 
+fermentable sugars such as glucose, xylose, arabinose and galactose. “Other ” includes volatiles, 
+acetate as well as fermentation c o-products, such as lactate, CO 2, etc.   
+ 28 
+ Table 1. Effect of pretreatment and enzyme hydrolysis on sugar release  from switchgrass  
+         
+ Pretreatment  [sugar] (g/kg of dry biomass)     Fraction of carbohydrate hydrolyzed  
+ condition  Glucose  Xylose  Arabinose  Total sugars  Cellulose  Hemicellulose  Total  
+         
+ After pretreatment *       
+         
+ 160-0.75-5 3.4±0.5    5.3±0.6   6.3±0.3 15.0±2.5  0.01 0.05 0.02 
+ 160-1-7.5 4.3±0.3  23.2±0.3    6.5±0.7 34.0±2.2  0.01 0.10 0.05 
+ 175-0.75-5 4.8±0.5  23.6±1.6    7.4±0.4 35.8±3.0  0.01 0.11 0.05 
+ 175-1-5 5.0±2.0 23.9±3.2    7.7±1.2 36.6±5.6  0.01 0.11 0.05 
+ 175-1-7.5 5.9±2.3  28.4±3.5    8.7±1.5 43.0±6.4  0.01 0.13 0.06 
+ 175-1-10 6.3±3.0  35.0±2.9    8.7±1.0 50.0±5.5  0.02 0.15 0.07 
+ 190-0.75-5 7.0±0.5 38.5±0.9    9.3±0.4 54.7±2.6  0.02 0.16 0.08 
+ 190-1-7.5  9.4±3.5 52.8±2.0   10.2±2.0 72.4±5.6  0.02 0.21 0.10 
+         
+ After enzyme -mediated liquefaction **     
+         
+ 160-0.75-5    99.7±9.0   96.5±7.9 13.7±0.7  209.9±11.2  0.24 0.44 0.29 
+ 160-1-7.5 117.0 ±1.6 140.3±3.5 16.2±0.8 273.5±10.0  0.28 0.53 0.38 
+ 175-0.75-5 115.0±1.3  115.0±2.9 11.4±1.0 241.4±  5.2  0.27 0.43 0.34 
+ 175-1-5 116.1±2.6 116.0±5.2 11.0±0. 4 243.1±  9.0  0.27 0.43 0.34 
+ 175-1-7.5 122.2±4.3 113.0±1. 3 10.5±1.1 245.6±11. 3 0.29 0.42 0.34 
+ 175-1-10 143.4±3.0 139.2±5. 3 18.1±1.4 300.7±10.1 0.34 0.54 0.42 
+ 190-0.75-5 162.5±3. 4 110.7±3.4 12.5±0. 4 285.7±  8.9  0.38 0.42 0.40 
+ 190-1-7.5  164.2±5.5 146.5±1.4  17.5±1.2 328.2±  7.0  0.39 0.56 0.46 
+         
+The three numbers under pretreatment condition indicate the temperature, acid concentration (w/w) and time (min), respectivel y.  
+*The amount of sugars released after pretreatment at the indicated condition. ** The amount of sugars in the slurry after enzyme 
+treatment (5%, v/w; 11.5 FPU/g dry biomass) of the slurry for 6 h at 50°C and pH 5.0.  29 
+ Table 2. Release of inhibitors after phosphoric acid pretreatment of switchgrass and 
+enzyme hydrolysis of pretreated slurry   
+        
+ Pretreatment                   [Inhibitor] (g/kg dry biomass)   
+  Furfural  HMF  Acetate  Formate  Furfural 
++ HMF   
+Increase*  
+ After pretreatment       
+        
+ 160-0.75-5 0.2±0.2 0.1±0.03  0.7±0.1 3.6±0.5 0.3  
+ 160-1-7.5 1.2±0.3  0.2±0.03  1.4±0.2 3.7±0.5  1.4  
+ 175-0.75-5 1.5±0.2  0.3±0.05  1.5±0.2 3.9±0.5  1.8  
+ 175-1-5 1.5±0.5 0.3±0.08  1.7±0.2 4.3±0.3  1.8  
+ 175-1-7.5 1.7±0.5 0.3±0.04  1.9±0.3  4.8±0.2  2.0  
+ 175-1-10 1.7±0.5 0.3±0.03  2.0±0. 5 5.4±0.3  2.0  
+ 190-0.75-5 3.3±0.3  0.4±0.05  2.5±0.2  5.6±0.7 3.7  
+ 190-1-7.5 3.9±0.5  1.4±0.05  2.9±0.5  7.0±0. 0 5.3  
+        
+ After enzyme -mediated  liquefaction     
+        
+ 160-0.75-5 2.0±0.2 0.3±0.2 12.4±1.6 0.8±1.1  2.3 2.0 
+ 160-1-7.5 2.5±0. 5 0.5±0. 1 21.0±1.5 1.3±1.0  3.0 1.6 
+ 175-0.75-5 2.9±0.3  1.4±0.1  15.0±0. 7 2.7±0.5 4.3 2.5 
+ 175-1-5 3.7±0.4 1.5±0.3  18.8±1.9 2.0±0.2 5.2 3.4 
+ 175-1-7.5 3.0±0.2 1.3±0.3  16.7±1.2 0.3±0.2  4.3 2.3 
+ 175-1-10 4.9±0.1  1.3±0.1 23.5±3. 2 2.1±0.4  6.2 4.2 
+ 190-0.75-5 3.3±0.2  1.1±0.1  18.4±1.5 2.6±1.0 4.4 0.7 
+ 190-1-7.5  4.9±0.2  1.8±0.6 28.2±1. 2 2.8±0.4 6.7 1.4 
+ 
+Enzyme hydrolysis of pretreated slurry was at 50°C, pH 5.0 with 5% (v/w ; 11.5 FPU/g dry biomass ) Cellic CTec3. *Increase 
+represents the amount of furfural and hydroxymethylfurfural released during liquefaction of the slurry for 6 h.   30 
+          
+Table 3. Ethanol titer and yield after L+SScF of switchgrass slurry as a function of 
+pretreatment condition  
+        
+ Pretreatment  Ethanol titer  Ethanol yield  Ethanol yield *  Yield (released sugars)**   
+ condition  (g/L)  (g/kg switchgrass)  (theoretical ) Ethanol  Total products   
+        
+ 160-0.75-5    13.6±0.68 †    122.2±5.18 † 0.33 0.77 0.97  
+ 160-1-7.5 16.1±0.01  144.6±0.05  0.40 0.75 0.96  
+ 175-0.75-5 15.8±0.06  141.9±0.37  0.39 0.73 0.96  
+ 175-1-5 16.0±0.01  144.3±0.05  0.40 0.75 0.97  
+ 175-1-7.5 17.2±0.01  154.8±0.03  0.42 0.77 1.01  
+ 175-1-10 17.7±0.89  158.9±7.98  0.44 0.67 0.90  
+ 190-0.75-5 16.8±0.77  151.0±6.89  0.41 0.67 0.85  
+ 190-1-7.5   21.2±0.32 †   190.4±2.92 † 0.52 0.76 0.88  
+        
+See Table 1 for definition of pretreatment condition.  Fermentations were conducted for 96 h as detailed in the Methods section.  
+*Ethanol yield is expressed as  fraction of theoretical amount of ethanol expected (365.4 g ethanol/kg of switchgrass) from the 
+carbohydrates in the biomass (716.4 g total sugars/kg of switchgrass x 0.51).  
+**Yield of ethanol or total products (ethanol, acetate and lactate) is based on t he amount of sugars that was released before and during 
+SScF.  
+†Significance at p ≤ 0.05.   31 
+ Table 4. Composition of remaining solids after fermentation        
+           
+ Pretreatment 
+condition  Glucan  Xylan  Arabinan  Soluble 
+lignin  Insoluble 
+lignin  Ash Remaining fraction  
+  (g/kg dry switchgrass)  Total 
+carbohydrate  Total 
+lignin  Total 
+biomass  
+           
+  
+160-0.75-5 257.5  95.4   9.1  
+34.1  
+232.6  
+6.3 0.57 0.97 0.68 
+ 160-1-7.5  205.7   84.3  10.9  30.6  226.5  3.6  0.47  0.94  0.60  
+ 175-0.75-5 200.6  83.4 14.5 30.1 222.4 8.3 0.47 0.92 0.59 
+ 175-1-5 205.4  84.1 12.5 33.4 227.4  10.5 0.47 0.95 0.61 
+ 175-1-7.5 199.3  78.9   8.1 35.0 243.3 9.3 0.45 1.01 0.61 
+ 175-1-10  161.1   61.3   5.4  30.4  214.4  3.1  0.36  0.89  0.50  
+ 190-0.75-5 166.1  70.5  7.3 30.5 211.2 6.2 0.38 0.88 0.52 
+ 190-1-7.5 
+ 
+Untreated  144.5  
+ 
+381.0  47.8 
+ 
+222.0   8.5 
+ 
+35.9 26.7 
+ 
+47.5 222.7 
+ 
+226.9  3.1 
+ 
+1.6 0.31 
+  0.91 
+  0.48 
+  
+           
+See Table 1 for definition of pretreatment condition.  
+ 
+  32 
+ Table 5. Mass balance        
+          
+   Total sugar 
+fermented  Remaining 
+unfermented 
+free sugars  Remaining 
+sugars in 
+the solids* Total 
+carbohydrate** Total 
+lignin  Ash Total mass 
+recovered‡ Mass 
+Balance  
+                                              (g/kg dry switchgrass)  (%) 
+         
+          
+ 160-0.75-5 301.4  5.3 404.8  634.7  266.6  6.3 907.6  99.2 
+ 160-1-7.5 363.4  12.1 336.6  635.2  257.1  3.6 895.9  97.9 
+ 175-0.75-5 366.9  6.9 334.2  631.5  252.5  8.3 892.3  97.5 
+ 175-1-5 365.7  5.2 338.0  632.3  260.9  10.5 903.7  98.8 
+ 175-1-7.5 398.3  3.6 320.3  644.2  278.3  9.3      931.8   101.8 
+ 175-1-10 414.6  43.7 254.8  636.1  244.8  3.1 884.0 96.6 
+ 190-0.75-5 376.1  46.7 273.0  620.7  241.7  6.2 868.6  94.9 
+ 190-1-7.5 433.2  53.5 224.6  634.4  249.5  3.1 887.0  97.0 
+  
+       
+  Calculated  638.9  274.4  1.6      914.9  
+           
+     
+ *Remaining sugars in the solids is expressed as sugar equivalents (hexoses and pentoses).  
+**Total carbohydrate  is the sum of the amount fermented, remaining as free sugars (in the liquid fraction) and the 
+remaining carbohydrates in the solids, converted to  carbohydrate equivalent . The calculated amount of total 
+carbohydrate in  the biomass was 638.9 g/kg of raw switchgrass.   
+‡Total mass recovered did not include volatiles (30.9 g) and acetate (28.9 g) per kg of raw switchgrass.  
+         
+          
+ 
+  33 
+   
+34 
+   
+35 
+   
+36 
+   
+37 
+   
+38 
+ Phosphoric acid based pretreatment of switchgrass and fermentation of slurry 
+to ethanol using a simplified process  
+ 
+ 
+Wei Wu1,2, Vanessa Rondon1,3, Kalvin Weeks3, Pratap Pullammanappallil2, Lonnie 
+O. Ingram1,3 and K. T. Shanmugam1* 
+ 
+ 
+1Department of Microbiology and Cell Science, 2 Department of Agricultural and Biological 
+Engineering, 3Stan Mayfield Biorefinery  
+ 
+University of Florida  
+Gainesville, Florida 32611  
+ 
+ 
+ 
+ 
+ 
+ 
+Supplementary Information  
+ 
+ 39 
+ Table S1. Comparison of switchgrass process conditions on ethanol titer and yield.  
+Pretreatment   Fermenting   Enzyme     Ethanol Titer   Ethanol yield*          Comment      Reference  
+              Organism   Treatment        (g/L)          (g/kg dry biomass)  
+Switchgrass        
+H3PO 4,1%;  
+190°C; 7.5min E. coli  SL100  11.5 FPU/g 
+biomass  21.2±0.32   190.4±2.9 (52 %) 10% solids; 
+L+SScF – total 
+slurry  This study  
+Water ; 200°C, 
+10 min  S. cerevisiae  D5A  
+K. marxianus  IBM3  15 FPU/g glucan  
+15 FPU/g glucan  21.9 
+19.5   -    (91.7%) 
+  -    (80.7%) Washed solids  
+Washed solids  (Faga et al., 
+2010)  
+Water, 200 °C, 
+10 min  K. marxianus . 
+IMB3 ; 45°C  - 23 
+   -   (86.3%)  
+   8% w ashed solids  
+ (Pessani et al., 
+2011)  
+H2SO 4; 160 °C, 7 
+min S. cerevisiae  D5A  15 FPU/g 
+cellulose  - 105-130 ( -) Washed solids  (Sykes et al., 
+2016)  
+H2SO 4 S. cerevisiae  ATCC 
+24859  30 FPU/g 
+biomass; 72 h  - 83 (60%)  Hydrolysate after 
+enzyme treatment;   (Yang et al., 
+2009)  
+SO 2, water  S. cerevisiae  
+ATCC96581  10 FPU/g 
+cellulose  44.5 gal/ton    -  (71%)  Only glucan  (Ewanick & 
+Bura, 2011)  
+AFEX  S. cerevisiae Y-128 
+Z. mobilis  2032  - 
+- 35.3±0.5  
+39.0±1.2  176 (53.7%)  
+194 (59.4%)  SScF -Hydrolysate 
+after 5 days of 
+enzyme hydrolysis  (Ong et al., 
+2016)  
+AFEX  S. cerevisiae  424A  - 35.1 183.5  SScF + Tween 8 0 (Jin et al., 2010)  
+NH 4OH S. cerevisiae  30 FPU/ g 
+biomass  17.1 - 10% solids 
+loading; SScF  (Hector et al., 
+2011)  40 
+        
+ 
+Table S1. 
+Contd.  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+Corn Stover        
+H3PO 4 E. coli  FBR5  15 FPU/g 
+glucan, 72 h  26.4 g/L  - Hydrolysate after 
+enzyme treatment  (Avci et al., 
+2013)  
+AFEX  S. cerevisiae  424A  - 36.9 195.1  17.6% solids 
+loading; SScF  (Jin et al., 2013)  
+Bagasse        
+H3PO 4 E. coli SL100  10% (w/w 
+biomass)  24-32 280 (>80%)  Sugar cane 
+bagasse; L+SScF  (Geddes et al., 
+2013)  
+H3PO 4 E. coli SL100  10% (w/w 
+biomass)  24-32 280 (>80%)  Sorghum bagasse; 
+L+SScF  (Geddes et al., 
+2013)  
+*Values in parenthesis represent % 
+yield of ethanol based on calculated 
+total sugar content of biomass.  
+** data not available.        41 
+ References  
+ 
+Avci A, Saha BC, Dien BS, Kennedy GJ, Cotta MA. 2013. Response surface optimization of corn stover 
+pretreatment using dilute phosphoric acid for enzymatic hydrolysis and ethanol production. 
+Bioresour Technol 130:603 -612.  
+Ewanick S, Bura R. 2011. The effect of biomass moisture conte nt on bioethanol yields from steam 
+pretreated switchgrass and sugarcane bagasse. Bioresour Technol 102:2651 -2658.  
+Faga BA, Wilkins MR, Banat IM. 2010. Ethanol production through simultaneous saccharification and 
+fermentation of switchgrass using Saccharomy ces cerevisiae D(5)A and thermotolerant 
+Kluyveromyces marxianus  IMB strains. Bioresour Technol 101:2273 -2279.  
+Geddes CC, Mullinnix MT, Nieves IU, Hoffman RW, Sagues WJ, York SW, Shanmugam KT, Erickson JE, 
+Vermerris WE, Ingram LO. 2013. Seed train developme nt for the fermentation of bagasse from 
+sweet sorghum and sugarcane using a simplified fermentation process. Bioresour Technol 
+128:716 -724.  
+Hector RF, Dien BS, Cotta MA, Qureshi N. 2011. Engineering industrial Saccharomyces cerevisiae  strains 
+for xylose fe rmentation and comparison for switchgrass conversion. J Ind Microbiol Biotechnol 
+38:1193 -1202.  
+Jin M, Gunawan C, Balan V, Yu X, Dale BE. 2013. Continuous SSCF of AFEXTM pretreated corn stover for 
+enhanced ethanol productivity using commercial enzymes and Saccharomyces cerevisiae 424A 
+(LNH -ST). Biotech Bioeng 110:1302 -1311.  
+Jin M, Lau MW, Balan V, Dale BE. 2010. Two -step SSCF to convert AFEX -treated switchgrass to ethanol 
+using commercial enzymes and Saccharomyces cerevisiae 424A(LNH -ST). Bioresour Technol 
+101:8171 -8178.  
+Ong RG, Higbee A, Bottoms S, Dickinson Q, Xie D, Smith SA, Serate J, Pohlmann E, Jones AD, Coon JJ, 
+Sato TK, Sanford GR, Eilert D, Oates LG, Piotrowski JS, Bates DM, Cavalier D, Zhang Y. 2016. 
+Inhibition of microbial biofuel production in dro ught -stressed switchgrass hydrolysate. 
+Biotechnol Biofuels 9:237.  
+Pessani NK, Atiyeh HK, Wilkins MK, Bellmer DD, Banat IB. 2011. Simultaneous saccharification and 
+fermentation of Kanlow switchgrass by thermotolerant  Kluyveromyces marxianus  IMB3: The 
+effect  of enzyme loading, temperature and higher solid loadings. Bioresour Technol 102:10618 -
+10624.  
+Sykes VR, Allen FL, Mielenz JR, Stewart Jr CN, Windham Mt, Hamilton CY, Rodriguez Jr. M, Yee KL. 2016. 
+Reduction of ethanol yield from switchgrass infected with r ust caused by Puccinia emaculata . 
+Bioenerg REs 9:239 -247.  
+Yang Y, Sharma -Shivappa RR, Burns JC, Cheng J. 2009. Saccharification and fermentation fo dilute -acid-
+pretreated freeze -dried switchgrass. Energy fuels 23:5626 -5635.  
+ 
+ 

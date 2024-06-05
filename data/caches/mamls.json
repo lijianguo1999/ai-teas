@@ -1,0 +1,250 @@
+{
+    "https://doi.org/10.1002/bbb.1640": {
+        "id": "https://doi.org/10.1002/bbb.1640",
+        "paper_id": "https://doi.org/10.1002/bbb.1640",
+        "title": "Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane",
+        "process_feedstock": "sugarcane",
+        "process_flow": [
+            {
+                "type": "pretreatment_alkaline_pretreatment",
+                "description": "Alkaline pretreatment, a critical step in bio-industrial processes, particularly in the production of biofuels like biodiesel and ethanol from lipid-producing sugarcane, involves the use of alkaline substances to break down complex biomass materials into simpler forms that are more easily processed in subsequent steps. This pretreatment alters the structural and chemical composition of biomass, increasing its accessibility to enzymes or chemicals involved in the production of biofuels. Specifically, the pretreatment process could involve the application of substances like sodium hydroxide or lime to adjust pH levels, break down lignin barriers, and disrupt the crystalline structure of cellulose, making the cellulose and hemicellulose more amenable to hydrolysis and fermentation. Within the context provided, though, there doesn't appear to be a direct mention of a novel approach or significant innovation regarding alkaline pretreatment specifically for the lipid-producing sugarcane in question. However, the broader workflow involves innovative steps in lipid and sugar extraction, and in the co-production of biodiesel and ethanol, implying that any pretreatment process would be optimized as part of this integrated approach, albeit not explicitly stated in the provided text.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "conversion_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "soluble_sugars",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "fermentation_cellulosic_fermentation",
+                "description": "Fermentation in the context of cellulosic bio-industrial processes, particularly within the scope of biodiesel and ethanol co-production from lipid-producing sugarcane as detailed by Huang, Long, and Singh (2016), involves the transformation of sugars extracted from sugarcane into ethanol using yeast. Following sugar extraction and purification where juice is treated to remove impurities, the concentrated sugar solution is cooled and introduced into fermenters. Yeasts then act on this sugar to produce ethanol alongside CO2, under controlled temperatures to optimize the fermentation efficiency. The novelty in this processing step lies not only in the harnessing of lipid-producing sugarcane, which is a genetically modified variant designed to concurrently accumulate lipids for biodiesel production and sugars for ethanol fermentation, but also in the integration of this process with biodiesel production from the same feedstock. This integrated approach enables the co-production of two biofuels, optimizing resource utilization and potentially reducing costs and waste, thereby presenting a sustainable alternative to traditional biofuel feedstocks like soybeans, with increased output per unit of land.\n\nThe process described efficiently combines the conversion of sugars to ethanol with the extraction and transformation of lipids to biodiesel, showcasing a biorefining approach that leverages the biochemical capacities of lipid-producing sugarcane. This innovative use of lipid-containing sugarcane potentially offsets some of the energy and resource intensivity typically associated with biofuel production by offering a dual output from a single crop.",
+                "options": {
+                    "fermentation_method": null
+                },
+                "parameters": [
+                    {
+                        "name": "conversion_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "separation.ethanol_purification",
+                "description": "A separation process where ethanol is purified from the fermentation broth, often involving distillation and other purification techniques.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            }
+        ],
+        "process_target": "ethanol"
+    },
+    "https://doi.org/10.1186/s13068-020-01837-2": {
+        "id": "https://doi.org/10.1186/s13068-020-01837-2",
+        "paper_id": "https://doi.org/10.1186/s13068-020-01837-2",
+        "title": "Variation in sugarcane biomass composition and enzymatic saccharification of leaves, internodes and roots",
+        "process_feedstock": "sugarcane",
+        "process_flow": [
+            {
+                "type": "pretreatment_hot_water_pretreatment",
+                "description": "Hot water pretreatment, also recognized as hydrothermal treatment or autohydrolysis, is a commonly used method in the bio-industrial process to make biomass more amenable to subsequent enzymatic saccharification for biofuel production. This treatment involves exposing biomass to water at high temperatures without the addition of chemicals, which leads to the hydrolysis of hemicellulose into soluble sugars and the alteration of lignin structure. Through these modifications, the cell wall's recalcitrance is reduced, enhancing the accessibility of cellulose to enzymes. This pretreatment is particularly appealing due to its relatively low cost, simplicity, and absence of toxic chemicals, making it environmentally friendly. It acts by utilizing the self-ionization of water under high temperature and pressure conditions to catalyze the hydrolysis of the biomass. However, the study described does not introduce any novel insights specifically about hot water pretreatment itself but focuses on the variation in sugarcane biomass composition and its effects on enzymatic saccharification efficiency across different plant tissues, namely leaves, internodes, and roots. It demonstrates how organ-specific compositional differences affect the biomass's response to enzymatic breakdown, highlighting the importance of understanding biomass composition in optimizing bio-refinery processes for biofuel and biomaterial production.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "solids_loading",
+                        "unit": "weight_percentage"
+                    }
+                ],
+                "output": {
+                    "name": "soluble_sugars",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "fermentation_saccharification",
+                "description": "The study by Mason et al. (2020) evaluated the variability in biomass composition and enzymatic saccharification across different sugarcane tissues: leaves, internodes (immature and mature), and roots, from two commercial sugarcane genotypes. The research identified significant variations in the composition of alcohol-soluble components, soluble sugars, cellulose, hemicellulose, lignin, and other cell wall components among the different plant tissues, which in turn impacted their enzymatic saccharification efficiency. Notably, mature internodes exhibited a higher alcohol-soluble component, primarily constituting sucrose, compared to leaves and roots. Additionally, distinct differences in hemicellulose and lignin compositions were observed across the tissue types, suggesting differential control of these fractions in each organ type. The study underscores the influence of tissue-specific biomass composition on the efficiency of saccharification, which is critical for optimizing sugarcane as a feedstock for biofuels and other bioproducts within a biorefinery context. The novelty of this research lies in its comprehensive analysis of saccharification efficiency across different sugarcane tissues, highlighting the potential for targeted genetic manipulation or breeding strategies to enhance biomass conversion efficiency by optimizing the composition of specific sugarcane tissues.",
+                "options": {
+                    "fermentation_method": null
+                },
+                "parameters": [
+                    {
+                        "name": "conversion_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "soluble_sugars",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "separation.ethanol_purification",
+                "description": "A separation process where ethanol is purified from the fermentation broth, often involving distillation and other purification techniques.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "distillation_efficiency",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            }
+        ],
+        "process_target": "ethanol"
+    },
+    "https://doi.org/10.1016/j.biortech.2017.12.041": {
+        "id": "https://doi.org/10.1016/j.biortech.2017.12.041",
+        "paper_id": "https://doi.org/10.1016/j.biortech.2017.12.041",
+        "title": "Phosphoric acid based pretreatment of switchgrass and fermentation of entire slurry to ethanol using a simplified process",
+        "process_feedstock": "switchgrass",
+        "process_flow": [
+            {
+                "type": "pretreatment_dilute_acid_pretreatment",
+                "description": "The study by Wu et al. (2018) presents a novel approach to the bio-industrial production of ethanol from lignocellulosic biomass, specifically switchgrass, leveraging a phosphoric acid-based pretreatment followed by enzyme hydrolysis and simultaneous saccharification and co-fermentation (SScF) using an engineered Escherichia coli strain. This approach is distinctive because it utilizes phosphoric acid for the pretreatment process, as opposed to more commonly used sulfuric acid, and integrates the saccharification and fermentation steps into a single, streamlined process. The optimization of the pretreatment conditions\u2014acid concentration, temperature, and time\u2014was aimed at maximizing ethanol yield while minimizing the production of inhibitory compounds that could adversely affect microbial fermentation. Notably, the process achieves a comparable or superior yield of ethanol to those reported using other pretreatment methods or biomass types, indicating the efficacy of this method. The use of phosphoric acid not only reduces the corrosiveness of the process, potentially lowering equipment costs, but also integrates well with enzyme hydrolysis and the fermentation capabilities of the chosen microbial strain. The successful fermentation of the whole pretreated and enzymatically liquefied slurry, without the need for solid-liquid separation or detoxification steps, marks a significant advancement in the field, offering a potentially more cost-effective and simplified pathway to bioethanol production from lignocellulosic biomass.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "severity_factor",
+                        "unit": "dimensionless"
+                    }
+                ],
+                "output": {
+                    "name": "soluble_sugars",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "fermentation_simultaneous_saccharification_and_cofermentation",
+                "description": "The study conducted by Wu et al. (2018) on phosphoric acid-based pretreatment of switchgrass and fermentation to ethanol employs a novel, integrated bio-industrial process known as L+SScF (Liquefaction plus Simultaneous Saccharification and Co-Fermentation). This process involves the pretreatment of switchgrass with phosphoric acid at varying conditions, followed by enzymatic hydrolysis (liquefaction) and microbial fermentation in a single, streamlined operation. This approach is distinctive because it uses the entire pretreated slurry (including solids and hydrolysate) for ethanol production, circumventing the need for solid-liquid separation, detoxification, or additional nutrient supplementation. A notable finding of this research is the identification of optimal pretreatment conditions (190\u00b0C, 1% phosphoric acid, 7.5 minutes) and enzyme loading (approximately 12 FPU/g biomass), which resulted in an ethanol yield of 190.4\u00b12.9 g per kg of dry switchgrass. This represents a significant efficiency in converting switchgrass to ethanol, with an ethanol titer reaching 21.2\u00b10.3 g/L at 10% solids loading. The process advantages include reduced equipment corrosion, lower inhibitor formation compared to sulfuric acid pretreatment, and the potential for phosphate recovery. This simplified L+SScF process, adaptable from earlier work on sugarcane bagasse and sorghum bagasses, underscores a significant step forward in lignocellulosic biofuel production, offering a more economically and environmentally sustainable alternative to traditional bioethanol production methods.\n",
+                "options": {
+                    "fermentation_method": null
+                },
+                "parameters": [
+                    {
+                        "name": "conversion_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "separation.ethanol_purification",
+                "description": "A separation process where ethanol is purified from the fermentation broth, often involving distillation and other purification techniques.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "distillation_efficiency",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            }
+        ],
+        "process_target": "ethanol"
+    },
+    "https://doi.org/10.3389/fenrg.2018.00129": {
+        "id": "https://doi.org/10.3389/fenrg.2018.00129",
+        "paper_id": "https://doi.org/10.3389/fenrg.2018.00129",
+        "title": "Bioconversion of Pelletized Big Bluestem, Switchgrass, and Low-Diversity Grass Mixtures Into Sugars and Bioethanol",
+        "process_feedstock": "switchgrass",
+        "process_flow": [
+            {
+                "type": "pretreatment_low_moisture_ammonium_hydroxide_pretreatment",
+                "description": "The bio-industrial process described in the original research focuses on the bioconversion of pelletized big bluestem, switchgrass, and low-diversity grass mixtures into sugars and bioethanol, highlighting the potential for these biomass sources in sustainable energy production. This process notably includes low-moisture ammonium hydroxide (LMA) pretreatment. Pelletizing the biomass effectively increased bulk density, facilitating easier handling and processing. The LMA pretreatment, a novel approach within this context, involves treating low-moisture biomass with ammonium hydroxide, offering benefits over traditional pretreatments through its operation under mild conditions and its avoidance of excessive water use. Following pretreatment, the biomass underwent hydrolysis with cellulases to break down into fermentable sugars, with subsequent fermentation converting these sugars into ethanol. The use of LMA pretreatment stands out as an innovation in this process, aimed at improving the efficiency of biomass conversion to biofuels by enhancing the digestibility of the biomass while potentially reducing the energy input and environmental impact associated with biomass pretreatment.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "ammonia_loading",
+                        "unit": "g NH3 per gram biomass"
+                    }
+                ],
+                "output": {
+                    "name": "dry_biomass",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "fermentation_cellulosic_fermentation",
+                "description": "The bioconversion of pelletized big bluestem, switchgrass, and low-diversity grass mixtures into sugars and bioethanol explores an innovative approach in the bio-industrial fermentation process, particularly focusing on cellulosic fermentation. This original research conducted by Dien et al. and published in Frontiers in Energy Research, elucidates the potential of these warm-season grasses harvested from marginal farmland for biomass production for ethanol. The novelty of this processing step lies in the pelletization of harvested biomass without the addition of binders at a commercial feed operation, increasing the bulk density significantly (by 407% on average) across all biomass samples, effectively facilitating storage, handling, and transportation logistics. Furthermore, the study embarks on comparing chemical characteristics and the bioconversion efficiencies post-pelletizing, indicating slight reductions in glucan and xylan contents, yet maintaining or improving overall sugar yields from enzymatically hydrolyzed pellets versus non-pellets, regardless of the pre-treatment method employed (liquid hot water or low-moisture ammonium hydroxide). Another pivotal aspect of this study is the utilization of these pelletized grass mixtures without compromising the theoretical ethanol yield, hence presenting an appealing avenue for bioethanol production from lignocellulosic biomass.",
+                "options": {
+                    "fermentation_method": null
+                },
+                "parameters": [
+                    {
+                        "name": "conversion_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            },
+            {
+                "type": "separation.ethanol_purification",
+                "description": "A separation process where ethanol is purified from the fermentation broth, often involving distillation and other purification techniques.",
+                "options": {},
+                "parameters": [
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "distillation_efficiency",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "distillation_extraction_rate",
+                        "unit": "%"
+                    }
+                ],
+                "output": {
+                    "name": "ethanol",
+                    "unit": "tonne/day"
+                }
+            }
+        ],
+        "process_target": "ethanol"
+    }
+}

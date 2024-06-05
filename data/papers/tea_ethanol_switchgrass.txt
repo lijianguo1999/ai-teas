@@ -1,0 +1,1165 @@
+Bioconversion of Pelletized Big Bluestem, Switchgrass, and Low-Diversity Grass Mixtures Into Sugars and Bioethanol
+
+ORIGINAL RESEARCH
+published: 04 December 2018
+doi: 10.3389/fenrg.2018.00129
+Frontiers in Energy Research | www.frontiersin.org 1 December 2018 | Volume 6 | Article 129Editedby:
+J.RichardHess,
+IdahoNationalLaboratory(DOE),
+UnitedStates
+Reviewedby:
+NickJohnNagle,
+NationalRenewableEnergy
+Laboratory(DOE),UnitedStates
+NalladuraiKaliyan,
+UniversityofGeorgia,UnitedStates
+KamalakantaSahoo,
+ForestProductsLaboratory(USDA),
+UnitedStates
+*Correspondence:
+BruceS.Dien
+bruce.dien@ars.usda.gov
+Specialtysection:
+Thisarticlewassubmittedto
+BioenergyandBiofuels,
+asectionofthejournal
+FrontiersinEnergyResearch
+Received: 08May2018
+Accepted: 16November2018
+Published: 04December2018
+Citation:
+DienBS,MitchellRB,BowmanMJ,
+JinVL,QuartermanJ,SchmerMR,
+SinghVandSliningerPJ(2018)
+BioconversionofPelletizedBig
+Bluestem,Switchgrass,and
+Low-DiversityGrassMixturesInto
+SugarsandBioethanol.
+Front.EnergyRes.6:129.
+doi:10.3389/fenrg.2018.00129Bioconversion of Pelletized Big
+Bluestem, Switchgrass, and
+Low-Diversity Grass Mixtures Into
+Sugars and Bioethanol
+BruceS.Dien1,2*,RobertB.Mitchell3,MichaelJ.Bowman1,VirginiaL.Jin4,
+JoshuaQuarterman1,MartyR.Schmer4,VijaySingh2,5andPatriciaJ.Slininger1,2
+1BioenergyResearch,USDA-ARS,NationalCenterforAgricul turalUtilizationResearch,Peoria,IL,UnitedStates,2Members
+oftheDOECenterforAdvancedBioenergyandBioproductsInno vation,UniversityofIllinois,Urbana-Champaign,Urbana, IL,
+UnitedStates,3Wheat,SorghumandForageResearchUnit,USDA-ARS,Univers ityofNebraska,Lincoln,NE,UnitedStates,
+4AgroecosystemManagementResearchUnit,USDA-ARS,Univer sityofNebraska—East,Lincoln,NE,UnitedStates,
+5DepartmentofAgriculturalandBiologicalEngineering,Un iversityofIllinoisatUrbana-Champaign,Urbana,IL,United States
+Three crops of warm-season grasses are being developed for b iomass production on
+northern rain-fed marginal farmland: big bluestem (BBS), s witchgrass (SG), and a low
+diversity mixture of grasses (LDM). In this study, biomass h arvested from established
+ﬁeldswerecomparedforpelletizationandsubsequentconve rsiontosugarsandethanol.
+Each biomass was successfully pelletized to similar bulk de nsities without adding a
+binder at a commercial feed operation. Pelletizing increas ed the bulk density by 407%
+on average and was equally effective on all three biomass sam ples (528–554 kg/m3).
+Chemical analysis of the samples indicated that glucan and x ylan contents were slightly
+reducedduringpelletizing(by23and16g/kg,respectively ),aswellastheoreticalethanol
+yields, which are based upon total carbohydrate contents. P ellets and milled straws
+werepre-treatedwitheitherliquidhot-waterorlow-moist ureammoniumhydroxide(LMA)
+andsubsequentlyhydrolyzedwithcellulases.Glucoseandt otalsugaryieldsweresimilar
+for non-pellets and pellets using either pre-treatment; ca rbohydrates present in pellets
+were more efﬁciently recovered compared to non-pellets. LM A pretreated samples were
+separately hydrolyzed and fermented to ethanol using Scheffersomyces stipitis yeast.
+Hydrolysis recovered 69.7–76.8% of the glucose and 66.5–73 .3% of the xylose across
+allsamples.Glucoseyieldswere251–279g/kg,dbandweresi gniﬁcantlylowerforSGas
+comparedtotheotherbiomasssamples.Recoveredsugarswer efermentedtoethanolat
+77.7–86.7%oftheoreticalyield.Finalethanolyields(245 .9–275.5L/Mg,db)weresimilar
+for all of the grasses and estimated to equate to production l evels for BBS, LDM, and
+SG of 1,952, 2,586, and 2,636l of ethanol per ha, respectivel y.
+Keywords: bioethanol, bioenergy crops, pellets, sugars, g rassesDien et al. Bioconversion of Pelletized Grasses
+INTRODUCTION
+Perennial warm-season (C4) grasses have been proposed as a
+sustainable resource for producing sugars, chemicals, and f uels
+using thermo-chemical and biochemical processes. The U.S.
+has suﬃcient resources to grow an estimated 171 Tg yr−1
+of biomass from bioenergy grasses by 2022 ( Turhollow et al.,
+2014). Perennial warm-season grasses are favored for biomass
+production because of their high productivities and low input
+requirements. In the case of switchgrass (SG, Panicum virgatum
+L.),ithasbeencalculatedthatitsconversiontofuelethan olwould
+reduce greenhouse gas emissions by 94% compared to gasoline,
+andthebioethanolwouldhaveatotalnetenergybalanceof54 0%
+(Schmeretal.,2008 ).Perennial,warmseasongrassesareidealfor
+inclusion in rainfed systems with variable precipitation bec ause
+of their high water use eﬃciency and developed deep rooting
+systems which also serve to stabilize and improve soil quality
+(Liebig et al., 2008; Blanco-Canqui et al., 2017 ). They are also
+nutrient-useeﬃcientbecausenitrogenandessentialeleme ntsare
+translocated to the soil, roots, and rhizomes during and aft er
+senescence( Vogeletal.,2002;Mulkeyetal.,2008 ).
+The United States Department of Agriculture has an ongoing
+long-term project to develop biomass varieties of native prai rie
+grasses for growth on marginal lands in the Great Plains and
+UpperMidwest( Andersonetal.,2016 ).Developmentofsuitable
+cultivars is particularly diﬃcult because they need to perfor m
+well on marginal (e.g., low productivity, high erosion potent ial,
+low proﬁtability) rain-fed farmland to minimize land use
+change from growing row crops. Therefore, in addition to high
+production, other important traits include drought resistan ce,
+quick,anddependableestablishment,resistancetolodging , low-
+nutrient demands, resistance to pathogens and insects, and
+high winter survival rates (e.g., over-wintering) ( Sarath et al.,
+2008). Breeding and management research requires a long-term
+commitment because of the need to study establishment and
+multiple production years on these traits. U.S.D.A., through i ts
+northern bioenergy centers, is developing and evaluating th ree
+native prairie-based bioenergy cropping systems: switchgras s,
+big bluestem ( Andropogon gerardii Vitman), and a low-diversity
+grassmixture( Andersonetal.,2016 ).
+Of these perennial bioenergy crops, SG is perhaps the most
+highly developed as judged by past ﬁeld studies ( McLaughlin
+andKszos,2005;Moore etal.,2014 ),availablebiomasscultivars,
+traditional, and molecular breeding research ( Lipka et al., 2014;
+Vogel et al., 2014; Biswal et al., 2018 ), and other available tools
+(e.g.,NIRcalibrations)( Vogeletal.,2011;Serapigliaetal.,2017 ).
+Big bluestem (BBS) is a bioenergy crop of growing interest
+because of its high productivity, good genetic diversity, an d
+ecological role as the dominant prairie species ( Moore et al.,
+2014;Zhangetal.,2015 ).YetdevelopmentofBBSasabioenergy
+crop has lagged considerably behind that of SG ( Zhang et al.,
+2015). Finally,there is interest in cultivatingpastures contai ning
+multiplespeciestoemulatenaturalprairiesforpossibleecolog ical
+beneﬁts ( Tilman et al., 2006 ). However, it is a challenge to
+develop a mixture of grasses that maintains both diversity a nd
+high production over multiple years and cuttings. The crops
+selected here represent a signiﬁcant advance over previouslycultivated grasses. For example, Liberty SwitchgrassTMis the
+ﬁrst bioenergy developed variety released by the USDA ( Vogel
+et al., 2014 ), following a long breeding and selection process
+for high productivity and good over-wintering survival, and is
+only presently being evaluated in commercially relevant ﬁeld
+plots. Likewise, the BBS crop used for this study is a mixture
+of two cultivars to maximize yield and stand health. There
+is also a need for further testing of polyculture plantings of
+grassesforbioenergyproductiongiventhesparsityofpaststu dies
+usingdeﬁnedgrassmixturesinverylimitedgeographicalgro wth
+regions (Robertson et al., 2017 ). Here, we describe a relevant
+mixture of grasses based on established high production gras ses
+amenable to cutting and processing to value-added products.
+This unique low diversity mixture (LDM) is comprised of BBS,
+indiangrass ( Sorghastrum nutans (L.) Nash), and sideoats grama
+[Boutelouacurtipendula (Michx.)Torr.].
+Each has shown good establishment and persistence in
+production ﬁelds located on marginal rain-fed farmland locat ed
+in northeastern Nebraska ( Blanco-Canqui et al., 2017 ). Earlier
+research established that all three crops were equally beneﬁc ial
+forimprovingsoilquality( Blanco-Canquietal.,2017 ).
+However,conversionofharvestedbiomasstoethanolrequir es
+transportingthebiomasstothebioreﬁnerygate,pre-treatin gitto
+deconstruct the cell wall structure, extracting the carbohy drates
+asfermentablesugarsusingcellulasesandotherrelatedenz ymes,
+and fermenting the freed sugars to ethanol or other biofuels
+(for a review: Dien and Bothast, 2009 ). Therefore, the suitability
+of a bioenergy crop depends on more than solely crop yield.
+This study evaluates the performance of these three promising
+bioenergycropsforpre-processingandbioconversiontoethan ol.
+Amajorimpedimenttousingherbaceousbioenergycropsfor
+industrial-scaled bioconversion is solving the logistica l supply
+challenge of getting the biomass to the bioreﬁnery gate ( Hansen
+et al., 2015 ). Bioreﬁneries are projected to be very large and
+to require considerable quantities of biomass to operate at
+cost-eﬀective scales. For example, U.S. Department of Energy
+(DOE) cellulosic ethanol cost estimates are based upon a
+plant consuming 2,000 metric ton/day ( Humbird et al., 2011 ).
+Meanwhile,choppedorbaledgrassisdiﬃculttostore,transport ,
+and process on the front end because it has low-bulk density
+and poor ﬂow properties. This challenge can be addressed
+by densifying and reforming the biomass. There are several
+availablemethodsfordensifyingandreformingbiomassofw hich
+the pellet mill and briquette press are the most popular that
+are compatible with biochemical conversion ( Tumuluru et al.,
+2011). A pellet mill has several advantages in terms of low
+machine maintenance, eﬃcient, and eﬀective densiﬁcation, an d
+pellets have better handling properties compared to briquettes
+(Tumuluruetal.,2011 ).Itisalsothemostcommondensiﬁcation
+methodusedforbiochemicalprocesses.Inthisstudy,pelletsw ere
+comparedtonon-pellets(e.g.,baledbiomass).Furthermore,t his
+study is unique in that an ongoing commercial feed mill was
+usedtomanufacturethepellets.Useofapre-existingcommercia l
+plant located nearby can save on capital costs (if also used for
+processing forages) and as done here allows for processing to b e
+trialed on a multi-ton scale, which is also aﬀorded by the scale
+ofthecropﬁeldtrialconductedhere.Asuccessfuloutcomefr om
+Frontiers in Energy Research | www.frontiersin.org 2 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+usingacommercialfeedmillisuncertainbecauseunlikefor ages,
+which are harvested green (for example Guretzky et al., 2011 ),
+bioenergy crops (as discussed later) are typically harvested at
+senescence.
+While none of the bioenergy cultivars evaluated here, and
+especially the LDM, have been previously evaluated in this
+format,theliteraturesupportsourchoicetoincludeapelleti zing
+stepinthisstudy.Numerouspaststudieshavesoughttoevalu ate
+the interaction of pelletization and bioconversion processe s.
+Priorstudieshaveincludedcornstover( Theerarattananoonetal.,
+2012; Ray et al., 2013; Bals et al., 2014; Hoover et al., 2014 ),
+switchgrass ( Rijal et al., 2012; Wolfrum et al., 2017 ), or post-
+harvest created mixes of biomass ( Shi et al., 2013; Wolfrum
+et al., 2017 ). Two of these studies pelletized corn stover with
+ammonium ﬁber expansion (AFEX) pre-treatment ( Bals et al.,
+2014; Hoover et al., 2014 ). Other studies used a conventional
+pelletizingprocessfollowedbyeitherpre-treatmentswithdi lute-
+acid (Rijal et al., 2012; Ray et al., 2013; Wolfrum et al., 2017 ),
+ionic liquids ( Shi et al., 2013 ), or ammonium hydroxide at room
+temperature ( Rijal et al., 2012 ). Much of the literature concerns
+theinﬂuenceofpelletsonchemicalcompositionandbiochemic al
+conversion.Thisisunderstandablegiventhatpelletizingb iomass
+involves heating and high-pressure steps likely to alter the
+chemical and certainly the physical nature of the biomass ( Stelte
+et al., 2012 ). Results from compositional analyses are somewhat
+mixed with studies reporting either no eﬀect by pelletization
+(Theerarattananoonetal.,2012;Wolfrumetal.,2017 )oraslight
+reductioninglucoseand/orxylosecontents( Rijaletal.,2012;Ray
+et al., 2013; Shi et al., 2013; Bals et al., 2014 ). Results for sugar
+or ethanol yields are somewhat more promising with studies
+reportingeitherthesameorslightincreasesinyieldsusing pellets
+vs. non-pellets. To our knowledge, this is the ﬁrst study that we
+are aware of to process bioenergy crops using a commercial-
+scaledfeedmill.ItisalsotheﬁrsttoreportonprocessingofL DM
+biomassandamixtureofBBS.
+Pre-treatment is the heart of the ethanol production process
+and is among its most expensive unit operations ( Lynd et al.,
+2017). We have chosen to compare the crops using two pre-
+treatmenttechniques:liquidhotwater(LHW)andlow-moist ure
+ammonium hydroxide (LMA). Liquid hot-water, as its name
+implies, reacts biomass in the presence of hot-water (e.g., 18 0–
+200◦C) (Mosier et al., 2005a ). It has been a popular choice in
+the literature because it combines some of the advantages of
+an acid catalyzed pre-treatment without the disadvantages o f
+using a mineral acid ( Mosier et al., 2005b ). It also generally
+produces lower amounts of inhibitors compared to dilute-acid
+pre-treatment. LMA is relatively new and involves treating lo w-
+moisturebiomasswithammoniumhydroxide( Kimetal.,2016 ).
+It is of interest because it employs a static reactor and does n ot
+require a dewatering step. We included both pre-treatments to
+evaluate the biomass samples using both acid and base based
+pre-treatments.
+To summarize, in this study established production ﬁelds of
+BBS, LDM, and SG were harvested, ﬁeld dried, and formed into
+round bales. Biomass yields for BBS, LDM, and SG were 7.4,
+9.4, and 9.6 Mg/ha, respectively. The bales were transported
+to a nearby alfalfa feed operation and converted into pellets.These pellets were characterized for bulk density and chemical
+composition. Ground and pelletized biomasses were pre-treated
+with LHW and LMA. LHW pre-treated samples were evaluated
+forenzymaticconversiontosugarsandLMApre-treatedsamples
+for conversion to sugars and ethanol, the latter using a yeast
+that is capable of fermenting both glucose and xylose. The goal
+was to determine which crop(s) is most suited as a feedstock for
+bioethanolproduction.
+MATERIALS AND METHODS
+Chemicals and Media
+All media and chemicals were research grade and purchased
+from either Fisher Scientiﬁc or Sigma Aldrich Chemicals.
+The enzymes used were commercial formulations of cellulases
+(140mgprotein/mlCTEC3,NovozymesInc.)andhemicellulase s
+(HTEC2, 109mg protein/ml). Enzyme activities were measured
+using previously reported methods ( Dien et al., 2008 ). The yeast
+Scheﬀersomycesstipitis Y-50871(ARSCultureCollection,Peoria,
+IL) was used for fermentations. This strain has been extensi vely
+evolved and selected for ethanol fermentation of glucose/xy lose
+sugars prepared from alkaline pre-treated biomass ( Slininger
+etal.,2015 ).
+Biomass Samples and Pelletizing
+The sample set included BBS, Liberty SG, and a LDM consisting
+ofBBS,indiangrass,and“Butte”sideoatsgrama.BBSwassee ded
+as an equal blend of “Bonanza”and “Goldmine” and indiangras s
+as an equal blend of “Scout” and “Warrior,” both on a pure live
+seed basis. The grasses were harvested in November 2013 from
+established ﬁelds after the ﬁrst killing frost using commercial
+ﬁeld-scaleequipment.GrasswasharvestedwithaJohnDeer4990
+forage harvester equipped with a John Deere 990 rotary head
+into windrows then packaged into net-wrapped round bales,
+using a John Deere 569 MegaWide round baler with net wrap,
+immediately after harvest. Bale weights ranged from 1,450 to
+1,750pounds.PlotswerelocatednearMead,NE( Blanco-Canqui
+etal.,2017 ).
+Approximately 18Mg of each feedstock was coarsely ground
+and pelletized by our commercial partner Dehy Alfalfa Mills
+(Lyons, NE). Large amounts of each biomass were processed to
+demonstratetheycanbeprocessedatacommercialplant.Round
+bales were transported to the plant where they were sequential ly
+milled using a tub grinder, and hammer mill. Milled biomass
+was dried in a ring drier, steam conditioned, and pelletized
+using a ring die pellet mill ( Figure1). The pellet mill settings
+were ¼” (6.35mm) pellet diameter with a length of 3/8” −1 1/4”
+(9.525–31.75mm).
+Hammer Milling, Energy Usage, and
+Particle Size Determinations
+Samples were tested for ﬁne grinding as is required for some
+biomass conversion technologies (e.g., fast pyrolysis). Pelle tized
+andrawbiomasssamplesweregroundtopassthrougha2.0mm
+screenusingahammermill(1100W,modelMHM4,GlenMills,
+Clifton, NJ). Energy usage required for milling was determine d
+using an electrical meter. The distribution of particle sizes was
+Frontiers in Energy Research | www.frontiersin.org 3 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+FIGURE 1 | (A) Commercial feed plant that pelletized biomass samples (Deh y
+Alfalfa Mills, Lyons, NE). (B)Industrial pellet mill used for this study. Pellets
+were formed without the use of a binder.
+determined by passing the ground biomass through a series of
+screens with increasingly ﬁne meshes and afterwards weighi ng
+the amounts retained on each screen; particles that passed
+through the smallest screen size (e.g., 38 µm) were classiﬁed as
+ﬁnes. Particle sizes were determined using a sonic shifter ( ATM
+modelLP3,AdvanTech,NewBerlin,WI)equippedwithU.S.no.
+30, 40, 60, 120, 325, and 400 screens (600, 425, 250, 125, 45, a nd
+38µmopenings).
+Physical and Chemical Characterization
+Bulk densities were measured by ﬁlling a tared 600ml Pyrex
+beakerwithpelletsanddividingtheweightofthebiomassbyt he
+ﬁlled volume. The volume of the beaker was determined based
+uponﬁllingitwithanequalvolumeofwater.Eachmeasurement
+wasperformedintriplicate.
+Mass, length, and diameter distributions of pellets were
+determined by measuring 100 individual pellets using an
+analytical balance and calibrated caliper. Mean densities we re
+determined by measuring the individual volume and mass for
+18pelletsforeachbiomass.Volumewascalculatedbymeasuri ng
+thediameterandheightusingacalibratedcaliperandcalcul ated
+assumingeachpelletwascylindricalinshape.
+Moisture contents were measured by monitoring weight loss
+after samples had been dried at 105◦C for 18h. Chemical
+composition of water/ethanol extracts, structural carbohy drates,
+and lignin analysis was conducted using the two-stage acid
+digestion method ( Sluiter et al., 2008 ). Soluble sugars (sucrose,
+glucose, and fructose) and starch were measured as previouslyreported ( Dien et al., 2006 ). Each sample was analyzed in
+duplicate.
+Pre-treatments
+LHW pre-treatments were conducted as previously described
+(Serapiglia et al., 2017 ). Brieﬂy, milled samples were pre-treated
+at 10% w/w solids in sealed serum bottles. Serum bottles (2 ea .)
+were placed in stainless steel reactors, which were ﬁtted int o an
+infrared reactor system and heated to 190◦C for 15min before
+beingwater-cooledto40◦C.Reactorswereheatedat2.5◦C/min.
+LMA pre-treatments were conducted as follows. Milled
+biomass(6.0gdrybasis)andconcentratedammoniumhydroxi de
+solution (4.9ml of 28%w/w ammonia content) were placed in
+a steel mini-reactor and immediately sealed with a screw cap
+steel lid. The reactor was mixed at 30◦C for 40min at 6 rpm
+(clockwise followed by counter-clockwise) using a computer
+controlled infra-red reactor system (Mathis Labomat model
+BFA12,Switzerland).Oncemixed,thereactorwasplaceduprig ht
+in a static heating oven set to 110◦C and incubated for 72h. The
+reactor was removed from the oven, allowed to cool, and the
+contentstransferredtoaPyrexTMtray,whichhadbeenplacedin
+a chemical fume hood. The ammonia was allowed to evaporate
+for 36–48h. The biomass was brieﬂy milled (e.g., 30–60s) in a
+coﬀeemilltoremoveclumpsthatmighthaveformedduringpre-
+treatment. An aliquot was used to determine moisture content
+priortoenzymaticdigestionandsubsequentlydiscarded.
+Enzymatic Digestion and Fermentation
+Enzymatic sugar release assays were modiﬁed from the method s
+of the National Renewable Energy Laboratory (NREL, Golden,
+CO,USA)andrunat3%w/wsolidsin0.1Msodiumcitratebuﬀer
+(pH=4.8).Samplesweresacchariﬁedusingcellulase(CTEC326
+mg/g glucan) and xylanase (HTEC2 0.96 mg/g forage). Thymol
+(25µg/L) was added to prevent spoilage. The reactions were
+gentlymixed(50rpm)andincubatedat50◦Cfor72h.
+Yeast were routinely grown in YPD (yeast extract, peptone
+and dextrose medium formulated per L: 10g yeast extract,
+20g peptone, and 20g dextrose) supplemented with agar when
+preparing solid media (Bacto agar, 15 g/l). YP (yeast extract a nd
+peptone) was sterilized by heating at 121◦C for 15min in an
+autoclave (15min cycle) and supplemented with ﬁlter steriliz ed
+glucose solution (400 g/l). Hydrolysates were ﬁlter sterili zed and
+likewisesupplementedwithYPwithoutinclusionoftheglucose.
+Separate hydrolysis and fermentation (SHF) was used
+for converting the biomass into ethanol. Hydrolysis and
+fermentation was performed using 50ml Corning PyrexTMglass
+wide-mouth screw cap bottles. The bottles were sealed with
+solid orange caps during hydrolysis and substituted with sili con
+foam caps for fermentation. For hydrolysis, 3.75g of LMA pre-
+treated and air-dried biomass was diluted in 30.25ml of dH 2O
+and adjusted to a pH of 4.8–5.0. Cellulase (CTEC3, 36 mg/
+g gucan) and xylanase (HTEC2, 4.2 mg/g forage) were added
+and biomass digested at 50◦C, while mixing at 150 rpm for
+72husingashaker/incubator(Innova,NewBrunswickScient iﬁc,
+NJ, USA). Bottles were cooled to 30◦C before adding 2.75ml
+of 10x YP and sodium phosphate buﬀer (pH 6.5, 0.1M). The
+medium was inoculated with S. stipitis to a beginning OD 600=
+Frontiers in Energy Research | www.frontiersin.org 4 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+1.0. Fermentations were sampled at 72 and 96h for sugars and
+fermentationproducts.
+The seed culture was prepared by transfer of a colony freshly
+grown on solid media into 10ml of YPD. The pre-seed culture
+was grown over-night and 1ml transferred to a 50ml culture,
+whichlikewisewasgrownovernight,andthecellsharvested ,and
+concentrated to an OD 600=50 with distilled H 2O. Pre-cultures
+weregrownat30◦Cwithmixingat150rpminErlenmeyerﬂasks
+sealedwithporoussiliconplugsusingashaker/incubator.
+Analytical Methods
+Sugars and fermentation production were determined using
+high performance liquid chromatography (HPLC). Samples
+were injected (20 µL) onto a Spectra System HPLC system
+(Thermo Electron Corporation, CA, USA) equipped with an
+auto-injector, isocratic pump, column heater, refractive in dex
+detector, and computer running analysis software Chromques t
+ver2.5(ThermoElectronCorporation).Analyteswereseparat ed
+usingeitheranorganicacidcolumn(AminexHPX-87HColumn,
+300×7.8mm, Bio Rad Laboratories, Inc., Hercules, CA, USA)
+with 5mM sulfuric acid as the mobile phase at 65◦C or sugar
+column (Aminex HPX-87P Column, 300 ×7.8mm, Bio Rad
+Laboratories)withwaterat80◦C.Flowratesofthemobilephases
+were 0.6 ml/min for both column separations. Galactose and
+xylose were determined by values from the sugar column and
+correlated with those measured using the organic acid colum n,
+on which the two sugars co-elute. Glucose and arabinose were
+taken as the average between the two runs. Acetic acid, ethan ol,
+and glycerol were measured using the organic acid column.
+Enzyme protein contents were measured using the Bradford
+proteinassay( Bradford,1976 ).
+Yieldsandconversioneﬃciencieswerecalculatedasdescri bed
+(Dien,2010 ).
+Results were tested for signiﬁcant diﬀerences ( p<0.05)
+using a 2-way ANOVA on biomass type and form (SigmaPlot
+13.0, Systat Software, Inc.). Pairwise multiple comparisons were
+analyzed using the Holm-Sidak method (SigmaPlot 13.0, Syst at
+Software, Inc.). All experiments included 2 or 3 levels of
+replicationasindicatedinthetext.
+RESULTS
+Pelletization
+Big bluestem, switchgrass, and a low-diversity prairie gras s
+mixture, which consisted of BBS, indiangrass, and sideoats
+grama, were separately pelletized at a commercial pellet feed
+mill using ∼18 metric tons of each biomass. Diﬀerences in bulk
+density are visually contrasted in Figure2. The straws were
+condensed from a beginning density of 128–133 kg/m3to a
+ﬁnal density of 528–554 kg/m3, which is a 407% increase in
+bulk density across all biomasses. Pellet mean diameters (6 .52–
+6.58mm) were close to the speciﬁed diameter (6.35mm) with
+relatively low standard deviations (1.41–1.57%). A signiﬁc ant
+diﬀerence was detected between the mean diameter of LDM vs.
+SGpellets( p<0.05)(Table1).Thedistributionsofpelletweights
+and lengths had large standard deviations and were skewed to
+the right ( Table1). For example, relative standard deviations forpelletweightswere36.2–40.0%.LDMpelletsweighedmorethan
+BBS and SG pellets ( p<0.05), however signiﬁcance diﬀerences
+werenotobservedamongpelletlengths.Finally,BBSpelletswer e
+less dense (0.98 ±0.08 g/ml, p<0.05) than either LDM (1.06 ±
+0.05)orSG(1.08 ±0.07g/ml)pellets.
+Composition and Milling
+Compositions of the grasses were measured before and after
+pelletization and had mass closures of 91.5–95.8% ( Table2).
+Glucan and xylan contents (337 and 221 g/kg, db, respectively )
+werewithintherangeofpreviouslyreportedresultsforpost-fr ost
+harvested switchgrass (309–385 g/kg, db and 200–246 g/kg, d b),
+albeit toward the lower end ( Dien et al., 2006, 2013; Kim et al.,
+2011; Rijal et al., 2012; Wolfrum et al., 2017 ). BBS glucan and
+xylan contents (340.1 and 199.6 g/kg, db) are in agreement wi th
+NREL published results (362 and 212 g/kg, db) ( Wiselogel et al.,
+1996).
+Pelletization led to compositional changes for the grasses.
+Biomass samples are prepared for compositional analysis by
+extracting soluble material with water and ethanol solutio ns.
+It is notable that pelletizing increased water-ethanol extr actable
+material by 3–5% w/w across all three of the biomasses.
+Pelletizing also decreased glucan and xylan contents by 1–3%
+w/w. Diﬀerences in glucan and xylan contents between non-
+pelletsandpelletswerestatisticallysigniﬁcant( p<0.05)foreach
+biomasstype.However,acidinsolubleandsolublelignincon tents
+wereunaﬀectedbypelletization.Maximumortheoreticaletha nol
+yields are calculated based upon carbohydrate contents ( Dien,
+2010). As a result, theoretical ethanol yields were lower for
+pellets (∼400 g/kg) vs. non-pellets (slightly >400 g/kg) ( p<
+0.05)(Figure3).Maximumethanolyieldsfrompelletedbiomass
+were comparable to each other ( p>0.05) and similar to that
+of corn stover, as calculated from average compositional dat a
+published by the U.S. DOE ( Humbird et al., 2011 ). Reduction
+incarbohydratecontentsrepresentsanaddedcostincurredfr om
+pelletizing.
+The pellets were ground using a hammer mill to reduce
+experimental sampling error with conversion. The pellets milled
+more uniformly than the non-pellets. The ground pellets
+contained 8.1 and 4.1% fewer 180 micron particles and ﬁnes
+thanthenon-pellets,respectively( Table3).BBSpelletsandnon-
+pellets took much less energy to mill than LDM and SG ( p<
+0.05) even though all had similar lignin contents. While fur ther
+testing is warranted, favorable milling characteristics m ight be
+animportantadvantageforbioconversionifgrindingisrequ ired
+priortopre-treatment.
+Pre-treatment and Low-Solids Enzymatic
+Conversion
+The biomass samples were next evaluated for neutral sugar
+yields using either LHW or LMA pre-treatment followed by
+digestion with cellulases and hemicellulases. LHW (also ter med
+hydrothermal) pre-treatment consists of simply heating the
+biomass to a high temperature in water. The natural acidity of
+water,whichisenhancedasthewaterisheated,actsasacata lyst.
+Following the LHW pre-treatment, the whole hydrolysate is pH
+adjusted to pH 5.0 and digested with a commercial cellulose
+Frontiers in Energy Research | www.frontiersin.org 5 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+FIGURE 2 | (A) Bulk densities visually compared for 25g of pelletized and c oarsely milled grass samples. (B)Graph showing differences in bulk densities between
+pelletized and coarsely ground samples and among different grasses. Densities were the same across crop and signiﬁcantl y different between pellets and non-pellets
+(p < 0.001). Legend: dark green is ground; green is pelletize d, and cross is the ratio of bulk densities (right hand axis).
+and hemicellulose preparations to end hydrolyze cell wall
+carbohydratestosaccharides.Glucoseyields(perkgofbegi nning
+biomass) were 262–357 g/kg and the yield of total fermentabl e
+sugars (e.g., glucose, galactose, and xylose) were 438–530 g/kg
+(Figure4A ). This represented 70–98% of the available glucan
+and72–91%ofthetotalfermentablesugars( Figure4B ).Glucose
+and total sugar yields were either not impacted or improved by
+pelletization ( p<0.05). Total sugar yields were ranked LDM >
+BBS>SG(p<0.05;Figure4A ).Ammonium based pre-treatments operate by a diﬀerent
+chemistry than LHW. The alkaline pH partially dissolves
+hemicellulose and cleaves some lignin cross linkages. In the
+special case of true grasses (Poaceae or Gramineae), alkali
+is thought to also improve digestibility by saponiﬁcation of
+arabinoseferulicacidesterbondslinkingligninandxylan (Vogel,
+2008). Following LMA pre-treatment, ammonia was removed
+by evaporation and the hydrated whole hydrolysate treated
+with commercial enzymes to extract the monosaccharides. Fo r
+Frontiers in Energy Research | www.frontiersin.org 6 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+TABLE 1 | Physical properties of pellets1.
+Sample2Mean Standard deviation Kurtosis
+MASS (mg)3
+BBS 250a100 1.14
+LDM 279b101 0.836
+SG 230a86 0.794
+Diameter (mm)4
+BBS 6.55a,b0.103 −0.846
+LDM 6.58a0.094 0.413
+SG 6.52b0.092 0.080
+Length (mm)5
+BBS 9.05 1.96 0.776
+LDM 9.70 2.51 0.032
+SG 9.39 2.24 0.752
+1Basedupon100pellets.
+2BBS,bigbluestem;LDM,lowdiversitymixture;SG,switchgrass.
+3Differentlettersaresigniﬁcantlydifferent(p <0.05)forlogtransformedmass.
+4Differentlettersaresigniﬁcantlydifferent(p <0.05)fordiameter.
+5Nosigniﬁcantdifferences(p <0.05)foundforlength.FailedShapiro-Wilknormalitytest.
+LMA pre-treated and sacchariﬁed samples, glucose yields (per
+kg of beginning biomass) were 272–326 g/kg and the yield of
+total fermentable sugars were 451–510 g/kg ( Figure5A ). This
+represented 68–89% of the available glucan and 71–87% of the
+total fermentable sugars ( Figure5B ). Glucose and total sugar
+yields were either not impacted or improved by pelletization ( p
+<0.05).Totalsugaryieldsforpelletsdidnotvarywithspecies (p
+>0.05)andwereslightlyhigherforBBSandSGthanLDM( p<
+0.05)fornon-pellets( Figure5A ).
+Overall, yields were higher and more consistent across gras s
+samples for the LMA vs. LHW pre-treatment. For either pre-
+treatment,pelletizationwaseitherfavorableorneutralfo rglucose
+andtotalsugaryields.
+Ethanol Fermentation
+Next, ethanol yields were compared following SHF. To
+prepare biomass for ethanol fermentation, the diﬀerent biomas s
+feedstockswerepre-treatedwithLMAandthewholehydrolysat e
+sacchariﬁed at 10% w/w solids. LMA was selected over LHW
+because sugar yields using the former were more consistent
+across the diﬀerent biomass feedstocks. The hydrolysate was
+supplemented with nutrients, and fermented to ethanol using S.
+stipitisyeast.
+Pre-treatment and enzymatic hydrolysis (e.g., pre-
+fermentation) recovered 69.7–76.8% and 70.1–77.1% of the
+available glucose and xylose, respectively ( Table4). Glucose
+yields were slightly but signiﬁcantly ( p<0.05) lower for
+SG vs. the other two grasses, as was also observed for LHW
+pre-treatment. Xylose yields did not vary among species ( p>
+0.05).
+Glucose and xylose yields [g/kg, db] were reduced 6.4 and
+9.4, respectively, for pellets vs. non-pellets averaged across
+all biomasses ( p<0.05). This reduced yield can be directly
+attributed to the lower sugar contents observed for pellets v s.non-pelletsbecausepelletsweremoredigestibleforglucose( p<
+0.05, 3.3% greater glucose eﬃciency for pellets vs. non-pellet s)
+and not statistically diﬀerent for xylose eﬃciencies ( p>0.05).
+Overall, eﬃciencies at which free sugars were recovered were
+less than observed for the low-solids hydrolysates, which is to
+be expected because of increases in concentration of soluble
+enzymeinhibitors(aceticacid,ligninderivedaromatics, etc.)and
+end-productinhibition.
+Ethanol titers were 18.8–20.5 g/L of fermentation culture
+followingthe96hfermentationsandyieldsweresimilarbetw een
+pellets and non-pellets for the entire biomass set ( Table4).
+Glucose was exhausted within the ﬁrst 48h (data not shown)
+and residual xylose was on average 4.7 ±2.0 g/L. Glucose was
+fermentedpriortoxylose(datanotshown)aspreviouslyreport ed
+(Slininger et al., 2015 ). The ethanol yields were 77.7–86.7% of
+theoreticalbasedonthebeginningconcentrationsofglucos eand
+xylose.Ethanoltitersandyieldeﬃcienciesforthepelletsan dnon-
+pellets were similar; indicating that pelletizing did not dimi nish
+thevalueofthegrassesasafermentationcarbonsource.Ove rall,
+process yields were 194.0–217.4g of ethanol per kg of biomass
+(db).Ethanolyieldsandeﬃcienciesweresimilarforallthr eegrass
+crops.
+DISCUSSION
+Composition and Pre-processing
+Acrossthegroundgrasses,therewasnosigniﬁcantdiﬀerence sfor
+glucan or xylan contents. Switchgrass did contain more acet ate
+(35.7 g/kg vs. 29.7 g/kg), which is important because it can
+adversely aﬀect fermentation. In addition, lignin content w as
+lower for LDM (169.3 g/kg) compared to the other two grasses.
+Most important, all three grass crops had similar theoretical
+ethanol yields on a mass basis and for non-pellets this value
+exceededthatofcornstover( Figure3).
+If the biomass needs to be trucked to the factory gate,
+densifying should allow for more eﬃcient transport. Trucks
+operate most eﬀectively when ﬁlled with cargo to their weight
+limit. For a truck with a trailer volume of 70–90 m3, this
+requires a minimum bulk density of 270–320 kg/m3(Thoreson
+et al., 2010 ). The mean bulk densities for the three pelletized
+biomass samples (528–554 kg/m3) consistently exceed this limit
+(Figure2).Incontrast,priortocompacting(128–135kg/m3),the
+truckswouldbeoperatingat <50%eﬃciency.Thedenserpellets
+are also expected to be more convenient to store vs. round bale s
+or chopped grass or at least this was found to be the case in this
+laboratory.
+Bulk densities of grasses for diﬀerent presentations are
+reviewed by Sokhansanj et al. (2009) . Ground SG (1.5mm
+loose ﬁll) has a bulk density of 120 kg/m3, like that reported
+here. Round baled SG is compressed to 140–180 kg/m3. Pellets
+(6.24mm diameter) are reported as 500–700 kg/m3, though a
+value below 400 kg/m3has also been reported ( Gilbert et al.,
+2009). Pellet densities reported here fall within the accepted
+range. Pellet properties vary based upon biomass feed moisture
+and particle size as well as process temperature and pressure
+(Tumuluru et al., 2011 ). Presumably, properties would also vary
+with harvest maturity ( Tumuluru et al., 2011 ) and in that regard
+Frontiers in Energy Research | www.frontiersin.org 7 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+TABLE 2 | Chemical Compositions for coarse milled and pelletized gra ss samplesa.
+Biomass GlucanbXylanbGalactan Arabinan Acetate Klason
+ligninbASLcSoluble
+sugarsStarch Extractable Sum
+mg/g mg/g mg/g mg/g mg/g mg/g mg/g mg/g mg/g mg/g mg/g
+BBS 340.1 ±5.7 199.6 ±4.8 8.3 ±0.2 24.7 ±2.1 29.7 ±3.6 190.4 ±0.9 13.2 ±0.4 13.8 ±0.5 0.7 ±0.3 132.2 938.4
+BBS Pellets 319.9 ±4.6 187.8 ±3.3 9.2 ±0.0 25.5 ±1.9 28.3 ±2.5 187.1 ±0.9 12.8 ±1.7 12.8 ±0.5 1.5 ±0.3 161.7 932.3
+LDM 357.0 ±4.1 211.9 ±2.0 8.3 ±0.1 27.2 ±1.1 29.7 ±0.2 169.3 ±13. 13.0 ±1.5 14.7 ±0.1 1.1 ±0.3 98.9 915.3
+LDM Pellets 328.4 ±5.4 195.8 ±4.2 9.0 ±0.0 25.3 ±1.0 31.9 ±2.0 176.2 ±3.8 12.4 ±0.1 15.2 ±0.4 0.5 ±0.7 156.5 935.6
+SG 337.8 ±3.3 221.1 ±2.9 8.2 ±0.3 25.2 ±2.4 35.7 ±0.0 198.0 ±5.2 13.1 ±0.1 11.7 ±0.5 2.7 ±1.3 117.8 956.9
+SG Pellets 316.9 ±5.3 205.4 ±4.3 9.6 ±0.2 25.5 ±2.0 31.6 ±1.6 191.2 ±3.5 13.3 ±0.4 10.3 ±0.1 1.6 ±1.0 141.4 934.8
+aCompositions,exceptextractablematerial,arebaseduponduplicatesam plesandvaluesaregivenonadryweightbasis.Beginningsample%dryne ss(govendrybiomass/gbeginning
+biomass)was:(BBS)95.4%,(BBS-Pellets)93.1%,(LDM)98.2%,(LDM-Pell ets)92.8%,(SG)96.4%,and(SG-Pellets)94.8%.Standarddeviationswere0.03–0.59%.
+bInteractions were not signiﬁcant (p <0.05) for any biomass component. For glucan and xylan, main components wer e signiﬁcant (p <0.001) and for Klason Lignin only differences
+amonggrassesweredifferent(p =0.005).
+cAcidsolublelignin.
+FIGURE 3 | Calculated maximum ethanol yields for pelletized and non-p elletized grass samples and comparison to expected yield fr om corn stover. Ethanol yields
+were calculated based upon carbohydrate contents assuming 100% recovery of neutral sugars using previously reported m ethods (Dien, 2010 ). Corn stover
+carbohydrate composition is based upon results from a large sampling study ( Humbird et al., 2011 ).
+SG pellets destined for feed would be harvested at an earlier
+maturity toimprove nutritivevalue. However, post-frost har vest
+isfavoredforbioenergycropsbecausenutrientsaretranslo cated
+tothesoilpost-frost( Dienetal.,2006 ).Inforagesystems,grasses
+areoftencutmultipletimesthroughoutaseasonbecauseharv est
+maturity is known to play a signiﬁcant role in determining
+feed quality. Likewise, harvest maturity can aﬀect mass-bas ed
+conversion yields ( Dien et al., 2006, 2013 ). In this study, grasses
+wereharvestedafterakillingfrost.Intemperateregions,a single
+annualharvestisrequiredtomaintainhealthyhighlyproduc tive
+stands of switchgrass ( Sanderson et al., 1999; Monti et al., 2008;MitchellandSchmer,2012 ).Singlecutsystemsalsoconsumeless
+energy than multiple harvest systems ( McLaughlin and Kszos,
+2005). While biomass yield is maximum at post-anthesis stage,
+post-frost harvest is recommended with ∼50–60% of shoot
+nitrogen remobilized to the rhizomes ( Sarath et al., 2014 ). This
+minimizes soil nutrient removal ( Dien et al., 2006; Sarath et al.,
+2014) and helps to ensure a healthy productive stand, especially
+whenunderdroughtconditions( MitchellandSchmer,2012 ).
+Therefore, further studies are warranted to determine the
+eﬀect of harvest maturity on pellet processing and feed value
+in the event of dual use for SG. BBS has similar reported bulk
+Frontiers in Energy Research | www.frontiersin.org 8 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+TABLE 3 | Particle reduction using a hammer mill equipped with a 2mm sc reena.
+Biomass Fines
+(%)180Micronb
+(%)250Micron
+(%)425Micron
+(%)600 Micron
+(%)Energyc
+(kwh/kg)
+BBS 6.3 6.5 20.1 22.7 39.4 0.102
+BBS pellets 6.3 7.4 20.6 15.9 49.8 0.078
+LDM 15.6 12.8 22.8 12.2 36.8 0.164
+LDM pellets 5.8 8.9 22.2 15.1 44.1 0.248
+SG 8.5 28.5 13.9 17.1 34.0 0.242
+SG pellets 5.9 7.1 21.3 16.2 46.6 0.198
+aSizedistributionsarebasedupontriplicatesamples.
+bAmountofparticles(%w/w)retainedonsizedscreen.
+cEnergyrequiredforgrindingwassigniﬁcantlydifferentacrossspe cies(p=0.027).
+densities as SG: 46.6 kg/m3for chopped straw and 467–618
+kg/m3forpellets( Theerarattananoonetal.,2012 ).Animportant
+advantage of manufacturing pellets is the possibility of maki ng
+a uniform feedstock using multiple readily available sources of
+biomass ( Shi et al., 2013; Wolfrum et al., 2017 ), for a highly
+favorable supply logistics outcome ( Ray et al., 2017 ). This study
+demonstrates that it is likewise possible to manufacture pell ets
+using heterogeneous grasses harvested from a ﬁeld planted wit h
+multipleplantspecies.
+Forming pellets led to small but signiﬁcant ( p<0.05)
+decreases in glucans (2.6% on average) and xylans (1.7%) for
+all the feedstocks. Most, but not all ( Theerarattananoon et al.,
+2012; Wolfrum et al., 2017 ), previous studies also reported
+decreased glucan (1–4%) and xylose (2–4%) contents for pellets
+compared to beginning straws ( Rijal et al., 2012; Ray et al.,
+2013; Shi et al., 2013; Bals et al., 2014 ). Varied results are not
+surprisingbecausepelletizinginvolvesacombinationofhea tand
+high pressure to compress biomass and form durable pellets.
+Formation of durable pellets depends upon operating above
+the glass transition state for lignin and forming cross link ages
+between carbohydrates, lignin, and other plant cell componen ts
+(Kaliyan and Morey, 2010; Tumuluru et al., 2011 ). Decreased
+glucan and xylan contents did not appear to be correlated with
+feedstock type. The techniques used here might also overlook
+changes in lignin composition. Combinations of carbohydrat es
+and lignin extractives form compounds termed pseudo-lignin,
+which are detected as Klason lignin ( Sannigrahi et al., 2011 ).
+Likewise, scale did not play a role, though this study is the ﬁr st
+to use pellets made by an existing commercial plant. Finally,
+the reader is cautioned that observed decreases in carbohyd rate
+contents are near the practical detection limits of standard
+analytical methods (1–3% relative standard deviations) us ed
+to determine composition ( Templeton et al., 2010 ), which is
+compounded in the case of mixtures by the opportunity for
+additionalsamplingerror.
+Conversion of Biomass to Sugars and
+Ethanol
+Conversionyieldswerenextmeasuredbypre-treatingpellets and
+non-pelletsandmeasuringglucoseandxylosereleasedfollow ing
+enzymatic hydrolysis. Two pre-treatments were selected forthis study: liquid hot-water and low moisture ammonium
+pre-treatments. LHW involves pre-treating biomass at high
+temperatures solely with water ( Mosier et al., 2005a ). LHW was
+selected because it avoids the use of a mineral catalyst (e.g.,
+sulfuric acid), has been reported to minimize the formation o f
+furfural because xylan is not hydrolyzed all the way to xylose
+(Mosier et al., 2005b ), and has been successfully applied in
+the past to switchgrass ( Kim et al., 2011 ). LMA is similar to
+low moisture anhydrous ammonium pre-treatment (LMAA)
+(Yoo et al., 2011 ) but in which ammonium is added as a
+concentrated ammonium hydroxide solution. LMA was selected
+as a representative alkaline pre-treatment because it is simpl e to
+implement, and ammonia pre-treated biomass does not require
+extensive conditioning prior to fermentation ( Dien et al., 2013 ).
+Biomassistreatedasamoistsolidandisincubatedinastati coven
+following a brief mixing step. It is envisioned that the ammoni a
+andbiomasswillbemixedbeforebeingincubatedinalargesta tic
+tank in order to save energy and capital costs ( Nghiem et al.,
+2016). Two pre-treatment technologies were selected because
+they reﬂect two diﬀerent chemistries (e.g., acid and base). LH W
+and LMA pre-treated samples were assayed for sugar yields in
+low-solids digestions. LMA pre-treated samples were also used
+for two-stage high solids hydrolysis and ethanol fermentati on
+(SHF).
+LHW proved to be an eﬀective pre-treatment. Across
+all samples, 72.5–81.8% of total neutral carbohydrates were
+recovered as monosaccharides following treatment with
+cellulasesandhemicellulases.ApriorstudyalsousingLHWand
+switchgrass with similar analytical methods reported a high er
+glucose yield ( >80% glucan vs. 70% here) and a comparable
+xylan yield ( >80% xylan vs. 76% here) ( Kim et al., 2011 ). The
+higher yield in this prior study could have arisen from using
+diﬀerent SG varieties, a higher pre-treatment temperature
+(200◦C vs. 190◦C), and a longer enzymatic hydrolysis time (168
+vs.96h).
+This is the ﬁrst study that we are aware of to apply
+LMA/LMAA to SG ( Kim et al., 2016 ), and the glucose and
+xylose recoveries reported here (85% of glucan and 76% of
+xylan) are favorable compared to those reported using other
+ammonia based pre-treatments with SG. One study that used
+dilute ammonium hydroxide at lower solids (15%) and higher
+temperatures (170◦C for 20min) than here, reported glucose
+Frontiers in Energy Research | www.frontiersin.org 9 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+FIGURE 4 | (A) Yield of neutral sugars from pelletized and non-pelletized samples pretreated with liquid hot-water pretreatment fol lowed by enzyme hydrolysis using
+commercial cellulases and hemicellulases. Results are mea n of triplicate runs and error bars are standard deviations. Different lower-case letters represent signiﬁcant
+differences based upon pellet vs. non-pellets and differen t capital letters represent signiﬁcant differences based up on species for either pelleted or non-pelleted
+samples (p<0.05).(B)Sugar yield efﬁciencies (e.g., % sugars recovered) from pell etized and non-pelletized samples pretreated with liquid h ot-water pretreatment
+followed by enzyme hydrolysis using commercial cellulases and hemicellulases. Results are mean of triplicate runs and error bars are standard deviations. Legend:
+reported on ﬁgure. Different lower-case letters represent s igniﬁcant differences based upon pellet vs. non-pellets and different capital letters represent signiﬁcant
+differences based upon species for either pelleted or non-p elleted samples ( p<0.05).
+Frontiers in Energy Research | www.frontiersin.org 10 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+FIGURE 5 | (A) Yield of neutral sugars from pelletized and non-pelletized samples pretreated with LMA pretreatment followed by enzym e hydrolysis using commercial
+cellulases and hemicellulases. Results are mean of triplic ate runs and error bars are standard deviations. Different l ower-case letters represent signiﬁcant differences
+based upon pellet vs. non-pellets and different capital let ters represent signiﬁcant differences based upon species fo r either pelleted or non-pelleted samples ( p<
+0.05).(B)Sugar yield efﬁciencies (e.g., % sugars recovered) from pell etized and non-pelletized samples pretreated with liquid h ot-water pretreatment followed by
+enzyme hydrolysis using commercial cellulases and hemicel lulases. Results are mean of triplicate runs and error bars a re standard deviations. Different lower-case
+letters represent signiﬁcant differences based upon pellet vs. non-pellets and different capital letters represent si gniﬁcant differences based upon species for either
+pelleted or non-pelleted samples ( p<0.05).
+Frontiers in Energy Research | www.frontiersin.org 11 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+TABLE 4 | Separate hydrolysis and fermentation results for LMA pretr eated biomassa.
+Hydrolysis Fermentation
+Biomass Glucose
+yieldbXylose
+yieldbGlucose
+efﬁciencybXylose
+efﬁciencybXylose Acetate Glycerol Ethanol Fermentation
+efﬁcencydEthanol
+yieldb
+g/kgcg/kgc% yield % yield g/l g/l g/l g/l %yield l/Mgc
+BBS 279.2 ±10.0 181.9 ±8.4 73.9 ±2.6%77.1%±3.6%5.5±4.3 1.7 ±0.1 0.4 ±0.2 18.8 ±0.6 79.7 ±4.8%264.0±26.3
+BBS Pellets 272.9 ±1.4 166.1 ±2.4 76.8 ±0.4%74.3%±1.1%3.3±2.5 1.4 ±0.1 0.4 ±0.0 20.3 ±1.2 83.9 ±5.6%266.1±19.4
+LDM 276.8 ±7.0 175.2 ±13.1 69.8 ±1.8%70.1%±5.2%6.7±3.0 1.6 ±0.1 0.5 ±0.1 20.3 ±1.3 85.0 ±11.2%275.5±27.2
+LDM Pellets 270.5 ±1.0 169.6 ±5.0 74.1 ±0.3%72.9%±2.2%6.5±5.0 1.5 ±0.3 0.4 ±0.1 20.5 ±0.8 77.7 ±5.3%245.9±19.3
+SG 261.7 ±1.9 184.1 ±2.5 69.7 ±0.5%70.7%±1.0%4.5±2.7 1.9 ±0.1 0.4 ±0.1 19.7 ±1.2 85.5 ±2.7%275.0±11.1
+SG Pellets 255.2 ±1.7 177.4 ±1.2 72.5 ±0.5%72.7%±0.5%5.7±1.0 1.7 ±0.1 0.5 ±0.1 18.9 ±0.8 86.7 ±7.4%270.9±22.7
+aAverage ±standarddeviationoftriplicates.
+bGlucose yields were different for crops (p <0.001) and form (p =0.022). Xyloses yields were different for form (p =0.013). Ethanol yields and titers were not signiﬁcantly
+different(p >0.05)amongthesamples.Glucoseefﬁcienciesweredifferentfors pecies(p <0.001)andform(p <0.001).Xyloseefﬁcienciesweredifferentforspecies(p =0.041).
+cBaseduponbeginningbiomass(e.g.,gramsofproductperkgofbiomass).
+dFermentationEfﬁcienciesarebaseduponﬁnalethanoltiters(adjusted forenzymeblank)andbeginningglucoseandxyloseconcentrations.
+andxylosehydrolysiseﬃcienciesof66.9–90.5%and60.1–84 .2%,
+respectively( Dienetal.,2013 ).LMAappearstobemoreeﬀective
+than dilute ammonium hydroxide when pre-treating similar
+maturity SG; the higher values from the other study were for
+the SG samples harvested at mid-maturity. Another study that
+compared both AFEX (50% solids, 140–150◦C, 20min) and
+soaking in aqueous ammonia (SAA) (11.5% solids ammonium
+hydroxidesolution,90◦C,24h)pre-treatments,observedslightly
+lower results: ∼80% glucose and ∼65% xylose yields ( Kim et al.,
+2011). SAA has also been tested on pelletized SG (14% solids,
+60◦C,6h,0.9gNH 3:1.0gbiomass)withglucoseandxyloseyields
+of up to 95.2 and 77.6%, respectively. Our yields for LMA SG
+pellets are slightly lower for glucose (88.2%) and slightly hi gher
+forxylose(81.1%).Still,LMAisviewedasatechnicaladvance to
+SAA(Kimetal.,2016 ).Thereductionofwateraﬀordedbyusing
+LMA (or AFEX) facilitates recovery of ammonia, avoids energy
+wasted heating excess water during pre-treatment, and reduc es
+thewaterfootprintoftheprocess.
+A signiﬁcant advantage of LMA pre-treatment is that
+hydrolyzedsugarscanbefermentedtoethanolwithoutrequi ring
+a conditioning step to remove inhibitors, as is often requir ed
+in the case of dilute-acid pre-treatment. LMA biomasses were
+converted to ethanol using a two-stage process: biomass was
+hydrolyzed to sugars and the sugars fermented to ethanol. A
+two-stageprocessallowedforoptimaltemperaturestobeapplied
+for enzymatic hydrolysis (50◦C) and fermentation (30◦C). The
+overall ethanol conversion eﬃciencies on a beginning bioma ss
+basis were 63.7–71.1%, which includes ineﬃciencies incurre d
+during hydrolysis and fermentation. Overall ethanol eﬃcie ncies
+represent an advance from a prior study by this laboratory
+using SG pre-treated with dilute ammonium hydroxide and
+aSaccharomyces cerevisiae engineered for xylose fermentation
+(41.0–56.4%oftheoretical)( Dienetal.,2013 ).
+Comparison of Sugar and Ethanol Yields
+for Pellets and Non-pellets
+Noreductioninconversionyieldswereobservedforpelleted and
+non-pelleted samples for the low-solids digestion assays or f orethanol yields. However, a 2 and 5% reduction in glucose and
+xylose yields (g/kg biomass, db), respectively was signiﬁca nt (p
+<0.05) following the high-solids LMA hydrolysis even though
+hydrolysis eﬃciencies were mostly higher for pellets vs. non-
+pellets. Diﬀerences in results between the low and high solids
+hydrolysatescanbecausedbyconcentrationofsolubleinhi bitors
+in the latter. Ethanol yields were the same for pellets and non-
+pellets,whichsuggeststhatsugarhydrolysiscontinuedduri ngthe
+fermentationandthattheﬁnalextentofhydrolysiswasthesa me
+forpelletsandnon-pellets.
+This conclusion that pelletization does not reduce
+bioconversion yields agrees with other related studies. St udies
+that use dilute-acid or ionic liquid did not observe a signiﬁ cant
+diﬀerence in product yields between non-pellets and pellets
+(Rijaletal.,2012;Theerarattananoonetal.,2012;Rayetal. ,2013;
+Shi et al., 2013; Wolfrum et al., 2017 ) with one exception. Corn
+stover pellets treated with a low severity dilute acid, washe d,
+and converted using SSF gave a higher ethanol yield eﬃciency
+(84% of theoretical) vs. the ground straw (68% of theoretica l)
+(Rayetal.,2013 ).However,inthesamestudy,whenapilotscale
+dilute-acid reactor was used, no diﬀerence was observed unde r
+optimal reaction conditions. In general, high severity or mo re
+eﬀective pre-treatments (e.g., ionic liquid) would hide subtl e
+diﬀerences in biomass properties associated with pelletizing.
+A study applying ammonium pre-treatment conducted at
+ambient temperature using switchgrass did not reveal any
+diﬀerences in glucan conversion, but xylan conversion was
+increased 10% ( Rijal et al., 2012 ). A previously mentioned study
+that used SAA reported a 76% improvement in glucose yield
+from pelletizing ( Nahar and Pryor, 2014 ). Processes that used
+AFEX pre-processed pellets did not report improved hydrolysis
+sugar yields, perhaps, because AFEX is a highly eﬀective pre-
+treatment on herbaceous biomass in general. However, one of
+the AFEX studies emphasized that lower adsorption of water
+by the pellets compared to the straw led to a more eﬃcient
+hydrolysis at high-solids because biomass did not need to be
+fed into the reactor over time ( Bals et al., 2014 ). We have also
+observed noticeably more free water is present following hig h-
+solids dilute-acid pre-treatment of SG pellets vs. ground stra w
+Frontiers in Energy Research | www.frontiersin.org 12 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+(personal observation by Dien). In summary, pelletizing does
+not lower product yields and might slightly promote conversio n
+eﬃciency.
+Theaforementionedlogisticaladvantageshavetobebalanc ed
+against the added cost and energy inputs associated with
+making pellets. A typical bioreﬁnery is expected to be scaled
+to process 2,000 Mg/day of biomass. At this scale, baled SG
+is estimated to cost $80.64 /Mg at the factory gate and baling
+and transport will consume equivalent to 8.5% of the higher
+heating value (HHV) of the biomass. In contrast to baled SG,
+pellets are estimated to cost less ($71.76/Mg) and consume
+less energy (7.8% HHV) ( Sokhansanj et al., 2009 ). The major
+energy used to make pellets goes to drying the biomass. It
+has been suggested adapting the process for bioenergy crops
+to increase drying eﬃciency can aﬀord considerable energy
+and cost savings ( Lamers et al., 2015 ). However, densifying the
+biomass may be necessary to reduce ﬁnancial risks associate d
+with relying on a regional feedstock. In other words, increa sed
+investor risk has an associated cost and eliminating this ri sk
+is expected to more than make up for the cost of pelletizing
+(Hansenetal.,2015 ).
+Comparison of Feedstocks
+There was no signiﬁcant diﬀerence among the samples based
+uponethanolyieldsfollowingSHF.However,standarddeviat ions
+tendtobehigherforfermentationstudiesthanforthebegin ning
+hydrolysis step perhaps because of the added yeast fermentati on
+step. In this case, BBS and LDM had signiﬁcantly higher glucos e
+yields compared to that of SG. Xylose yields were similar amon g
+the grasses. The 3-year average biomass yields for BBS, LDM,
+and SG were 7.4, 9.4, and 9.6 Mg/ha. Therefore, diﬀerences
+in conversion yields are minor compared to those observed
+for biomass production. These crop productivities translate to
+ethanol production levels of 1,952, 2,586, and 2,636l of etha nol
+perha.
+CONCLUSION
+Three new ﬁeld grown bioenergy grass crops were compared
+for composition, response to commercial scaled pelleting,
+and processing to sugars and ethanol. LDM had a higher
+glucan content than either BBS or SG ( p≤0.01) but no
+diﬀerences were observed for total fermentable carbohydrat es
+and ethanol yields per ton of biomass. On a land basis, theestimatedproductivitieswere1,952,2,586,and2,636lofet hanol
+perha.
+The use of pellets compared to straw does not impact sugar
+and ethanol yields. This was found to be the case with LHW
+(sugars) and LMA (sugars and ethanol) pre-treatments. We did
+see a slight reduction in glucan and xylan contents associate d
+with the pellets ( p=0.014), which agrees with most but not all
+prior reports. The conﬂicting conclusions might be attribute d
+to (in this case) use of a commercial scale feed plant and likely
+variation in conditions used to form pellets across studies. T his
+study demonstrates the promise of BBS, LDM, and SG for
+bioenergyproductionandnotablydemonstratestheirprocessi ng
+fromﬁeldthroughfermentation.Futureresearchwillbedire cted
+at evaluating additional production years of the LDM and to
+further improve biomass yields for BBS, so it is comparable to
+theothertwocropsusedinthisstudy.
+AUTHOR CONTRIBUTIONS
+BD and RM performed several experiments and drafted the
+manuscript.PSaidedinfermentations.VSperformedthemilli ng
+experiment. All authors gave critical comments and helped to
+preparetheﬁnalmanuscript.
+FUNDING
+ThisworkwasfundedbytheAgriculturalResearchService(ARS,
+USDA), DOE Center for Advanced Bioenergy and Bioproducts
+Innovation(U.S.DepartmentofEnergy,OﬃceofScience,Oﬃce
+ofBiologicalandEnvironmentalResearchunderAwardNumber
+DE-SC0018420 and by the Agriculture and Food Research
+Initiative Competitive Grant no. 2011-68005-30411 from the
+USDANationalInstituteofFoodandAgriculture.Anyopinions,
+ﬁndings, and conclusions or recommendations expressed in th is
+publication are those of the author(s) and do not necessarily
+reﬂecttheviewsoftheU.S.DepartmentofEnergy.
+ACKNOWLEDGMENTS
+PatriciaJ.O’BryanandVictoriaNguyenfortechnicalhelp,De bra
+Palmquist for statistical help, Novozymes Inc. for supplying t he
+enzymes, Ben Fann, Bill Bickmeier, Jordan Leach, and Suanne
+Kallis for ﬁeld work and transporting bales, and Dehy Alfalfa
+Millsforprocessingthebiomasstopellets.
+REFERENCES
+Anderson, W. F., Sarath, G., Edme, S., Casler, M. D., Mitchell, R. B ., Tobias,
+C. M., et al. (2016). Dedicated herbaceous biomass feedstock g enetics and
+development. BioEnergyRes .9,399–411.doi:10.1007/s12155-015-9709-8
+Bals,B.D.,Gunawan,C.,Moore,J.,Teymouri,F.,andDale,B.E.(2 014).Enzymatic
+hydrolysis of pelletized AFEXTM-treated corn stover at high solid loadings.
+Biotechnol.Bioeng. 111,264–271.doi:10.1002/bit.25022
+Biswal,A.K.,Atmodjo,M.A.,Li,M.,Baxter,H.L.,Yoo,C.G.,Pu ,Y.,etal.(2018).
+Sugar release and growth of biofuel crops are improved by downregulation
+of pectin biosynthesis. Nat. Biotechnol . 36, 249–257 doi: 10.1038/
+nbt.4067Blanco-Canqui, H., Mitchell, R. B., Jin, V. L., Schmer, M. R., and E skridge, K. M.
+(2017). Perennial warm-season grasses for producing biofuel and e nhancing
+soil properties, an alternative to corn residue removal. GCB Bioenergy 9,
+1510–1521.doi:10.1111/gcbb.12436
+Bradford, M. M. (1976). A rapid and sensitive method for the quanti tation
+of microgram quantities of protein utilizing the principle of protein-
+dye binding. Anal. Biochem. 72, 248–254. doi: 10.1016/0003-2697(76)90
+527-3
+Dien, B. S. (2010). “Mass balances and analytical methods for bi omass
+pretreatment experiments,” in Biomass to Biofuels: Strategies for Global
+Industries , eds A. A. Vertès, N. Qureshi, H. P. Blaschek, and H. Yukawa
+(WestSussex:JohnWiley&Sons,Ltd),213–231.doi:10.1002/ 9780470750025
+Frontiers in Energy Research | www.frontiersin.org 13 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+Dien, B. S., and Bothast, R. J. (2009). “A primer for lignocellulose b iochemical
+conversion to fuel ethanol,” in The Alcohol Text Book ,5th edn, eds W.
+M. Ingledew, D. R. Kelsall, G. D. Austin, and C. Kluhspies (Nottingh am:
+NottinghamUniversityPress),541
+Dien, B. S., Jung, H.-J. G., Vogel, K. P., Casler, M. D., Lamb, J. F. , Iten, L., et al.
+(2006). Chemical composition and response to dilute-acid pretreatmen t and
+enzymaticsacchariﬁcationofalfalfa,reedcanarygrass,andswitc hgrass.Biomass
+Bioenergy 30,880–891.doi:10.1016/j.biombioe.2006.02.004
+Dien, B. S., O’Bryan, P. J., Hector, R. E., Iten, L. B., Mitchell, R . B., Qureshi, N.,
+et al. (2013). Conversion of switchgrass to ethanol using dilut e ammonium
+hydroxide pretreatment: inﬂuence of ecotype and harvest maturity. Environ.
+Technol.34,1837–1848.doi:10.1080/09593330.2013.833640
+Dien, B. S., Ximenes, E. A., O’Bryan, P. J., Moniruzzaman, M., Li, X. -L., Balan,
+V., et al. (2008). Enzyme characterization for hydrolysis of AFEX a nd liquid
+hot-water pretreated distillers’ grains and their conversion to e thanol.Biores.
+Technol.99,5216–5225.doi:10.1016/j.biortech.2007.09.030
+Gilbert, P., Ryu, C., Shariﬁ, V., and Swithenbank, J. (2009). Eﬀ ect of process
+parameters on pelletisation of herbaceous crops. Fuel88, 1491–1497.
+doi:10.1016/j.fuel.2009.03.015
+Guretzky, J. A., Biermacher, J. T., Cook, B. J., Kering, M. K., and Mosali,
+J. (2011). Switchgrass for forage and bioenergy: harvest and n itrogen rate
+eﬀects on biomass yields and nutrient composition. Plant Soil . 339, 69–81.
+doi:10.1007/s11104-010-0376-4
+Hansen, J. K., Jacobson, J. J., Caﬀerty, K. G., Lamers, P., and R oni, M. (2015).
+Quantifying Supply Risk at a Cellulosic Bioreﬁnery . No. INL/CON-15-34705.
+Falls,ID:IdahoNationalLab.(INL).
+Hoover, A. N., Tumuluru, J. S., Teymouri, F., Moore, J., and Gresham, G. (2014).
+Eﬀect of pelleting process variables on physical properties and sugar yie lds of
+ammoniaﬁberexpansionpretreatedcornstover. Biores.Technol. 164,128–135.
+doi:10.1016/j.biortech.2014.02.005
+Humbird,D.,Davis,R.,Tao,L.,Kinchin,C.,Hsu,D.,Aden,A.,e tal.(2011). Process
+Design and Economics for Biochemical Conversion of Lignocel lulosic Biomass to
+Ethanol: Dilute-Acid Pretreatment And Enzymatic Hydrolysis Of C orn Stover .
+Golden,CO:NationalRenewableEnergyLaboratory(NREL).
+Kaliyan,N.,andMorey,R.V.(2010).Naturalbindersandsolidbri dgetypebinding
+mechanisms in briquettes and pellets made from corn stover and switchg rass.
+Biores.Technol. 101,1082–1090.doi:10.1016/j.biortech.2009.08.064
+Kim, J. S., Lee, Y., and Kim, T. H. (2016). A review on alkaline pretreatme nt
+technology for bioconversion of lignocellulosic biomass. Biores. Technol. 199,
+42–48.doi:10.1016/j.biortech.2015.08.085
+Kim, Y., Mosier, N. S., Ladisch, M. R., Pallapolu, V. R., Lee, Y., Ga rlock, R., et al.
+(2011). Comparative study on enzymatic digestibility of switchg rass varieties
+and harvests processed by leading pretreatment technologies. Biores. Technol.
+102,11089–11096.doi:10.1016/j.biortech.2011.06.054
+Lamers, P., Roni, M. S., Tumuluru, J. S., Jacobson, J. J., Caﬀerty, K. G., Hansen, J.
+K.,etal.(2015).Techno-economicanalysisofdecentralizedbio massprocessing
+depots.Biores.Technol. 194,205–213.doi:10.1016/j.biortech.2015.07.009
+Liebig, M. A., Schmer, M. R., Vogel, K. P., and Mitchell, R. B. (200 8). Soil carbon
+storage by switchgrass grown for bioenergy. Bioenergy Research 1, 215–222.
+doi:10.1007/s12155-008-9019-5
+Lipka, A. E., Lu, F., Cherney, J. H., Buckler, E. S., Casler, M. D., a nd
+Costich, D. E. (2014). Accelerating the switchgrass ( Panicum virgatum L.)
+breeding cycle using genomic selection approaches. PLoS ONE 9:e112227.
+doi:10.1371/journal.pone.0112227
+Lynd, L. R., Liang, X., Biddy, M. J., Allee, A., Cai, H., Foust, T., et al. (2017).
+Cellulosic ethanol: status and innovation. Curr Opin Biotechnol . 30, 202–211.
+doi:10.1016/j.copbio.2017.03.008
+McLaughlin,S.B.,andKszos,L.A.(2005).Developmentofswitch grass(Panicum
+virgatum) as a bioenergy feedstock in the United States. Biomass Bioenergy 28,
+515–535.doi:10.1016/j.biombioe.2004.05.006
+Mitchell,R.,andSchmer,M.(2012). SwitchgrassHarvestandStorage .Switchgrass:
+Springer.
+Monti, A., Bezzi, G., Pritoni, G., and Venturi, G. (2008). Long -term productivity
+of lowland and upland switchgrass cytotypes as aﬀected by cutting f requency.
+Biores.Technol. 99,7425–7432.doi:10.1016/j.biortech.2008.02.034
+Moore,K.J.,Birrell,S.,Brown,R.C.,Casler,M.D.,Euken,J.E.,Ha nna,H.M.,etal.
+and others. (2014). Midwest vision for sustainable fuel produc tion.Biofuels5,
+687–702.doi:10.1080/17597269.2015.1015312Mosier, N., Hendrickson, R., Ho, N., Sedlak, M., and Ladisch, M. R . (2005a).
+Optimization of pH controlled liquid hot water pretreatment of corn stove r.
+Biores.Technol. 96,1986–1993.doi:10.1016/j.biortech.2005.01.013
+Mosier,N.,Wyman,C.,Dale,B.,Elander,R.,Lee,Y.,Holtzapple,M., etal.(2005b).
+Featuresofpromisingtechnologiesforpretreatmentoflignocellulosicb iomass.
+Biores.Technol. 96,673–686.doi:10.1016/j.biortech.2004.06.025
+Mulkey, V., Owens, V., and Lee, D. (2008). Management of warm-sea son grass
+mixtures for biomass production in South Dakota USA. Biores. Technol. 99,
+609–617.doi:10.1016/j.biortech.2006.12.035
+Nahar, N., and Pryor, S. W. (2014). Reduced pretreatment severity a nd enzyme
+loading enabled through switchgrass pelleting. Biomass Bioenergy 67, 46–52.
+doi:10.1016/j.biombioe.2014.04.027
+Nghiem, N. P., Senske, G. E., and Kim, T. H. (2016). Pretreatment of c orn
+stover by low moisture anhydrous ammonia (LMAA) in a pilot-scale reacto r
+and bioconversion to fuel ethanol and industrial chemicals. Appl. Biochem.
+Biotechnol .179,111–125.doi:10.1007/s12010-016-1982-2
+Ray, A. E., Hoover, A. N., Nagle, N., Chen, X., and Gresham, G. L. (20 13).
+Eﬀect of pelleting on the recalcitrance and bioconversion of dilute -acid
+pretreated corn stover under low-and high-solids conditions. Biofuels4,
+271–284.doi:10.4155/bfs.13.14
+Ray, A. E., Li, C., Thompson, V. S., Daubaras, D. L., Nagle, N. J., a nd Hartley, D.
+S. (2017). “Biomass blending and densiﬁcation: impacts on feeds tock supply
+and biochemical conversion performance.”in Biomass Volume Estimation and
+ValorizationforEnergy, ed,J.S.Tumuluru(Rijeka:InTech),15.
+Rijal, B., Igathinathane, C., Karki, B., Yu, M., and Pryor, S. W. (2012). Combined
+eﬀect of pelleting and pretreatment on enzymatic hydrolysis of switchg rass.
+Biores.Technol. 116,36–41.doi:10.1016/j.biortech.2012.04.054
+Robertson, G. P., Hamilton, S. K., Barham, B. L., Dale, B. E., Izaurra lde,
+R. C., Jackson, R. D., et al. (2017). Cellulosic biofuel contribut ions to
+a sustainable energy future: choices and outcomes. Science356:eaal2324
+doi:10.1126/science.aal2324
+Sanderson, M. A., Read, J. C., and Reed, R. L. (1999). Harvest management of
+switchgrass for biomass feedstock and forage production. Agron. J. 91, 5–10.
+doi:10.2134/agronj1999.00021962009100010002x
+Sannigrahi, P., Kim, D. H., Jung, S., and Ragauskas, A. (2011). P seudo-
+lignin and pretreatment chemistry. Energy Environ. Sci. 4, 1306–1310.
+doi:10.1039/C0EE00378F
+Sarath, G., Baird, L. M., and Mitchell, R. B. (2014). Senescence, dormancy
+and tillering in perennial C4 grasses. Plant Sci. 217, 140–151.
+doi:10.1016/j.plantsci.2013.12.012
+Sarath, G., Mitchell, R. B., Sattler, S. E., Funnell, D., Pedersen, J. F., Graybosch,
+R. A., et al. (2008). Opportunities and roadblocks in utilizing forag es and
+small grains for liquid fuels. J. Ind. Microbiol. Biotechnol. 35, 343–354.
+doi:10.1007/s10295-007-0296-3
+Schmer,M.R.,Vogel,K.P.,Mitchell,R.B.,andPerrin,R.K.(2008) .Netenergyof
+cellulosicethanolfromswitchgrass. Proc.Nat.Acad.Sci.U.S.A. 1052,464–469.
+doi:10.1073/pnas.0704767105
+Serapiglia, M. J., Dien, B. S., Boateng, A. A., and Casler, M. D. (2 017). Impact
+of harvest time and switchgrass cultivar on sugar release through e nzymatic
+hydrolysis. BioEnergyRes. 10,377–387.doi:10.1007/s12155-016-9803-6
+Shi, J., Thompson, V. S., Yancey, N. A., Stavila, V., Simmons, B. A. , and Singh, S.
+(2013).Impactofmixedfeedstocksandfeedstockdensiﬁcation onionicliquid
+pretreatmenteﬃciency. Biofuels4,63–72.doi:10.4155/bfs.12.82
+Slininger, P. J., Shea-Andersh, M. A., Thompson, S. R., Dien, B. S., Kurtzman, C.
+P., Balan, V., et al. (2015). Evolved strains of Scheﬀersomyces stipitis achieving
+high ethanol productivity on acid-and base-pretreated biomass hy drolyzate
+at high solids loading. Biotechnol. Biofuels 8:60. doi: 10.1186/s13068-015-0
+239-6
+Sluiter,A.,Hames,B.,Ruiz,R.,Scarlata,C.,Sluiter,J.,Templeto n,D.,etal.(2008).
+Determination of structural carbohydrates and lignin in biomass. Lab. Anal.
+Proc.1617,1–16.
+Sokhansanj, S., Mani, S., Turhollow, A., Kumar, A., Bransby, D., Lynd, L., et al.
+(2009). Large-scale production, harvest and logistics of switc hgrass (Panicum
+virgatum L.) – current technology and envisioning a mature technology.
+BiofuelsBioproductsBioreﬁning 32,124–141.doi:10.1002/bbb.129
+Stelte,W.,Sanadi,A.R.,Shang,L.,Holm,J.K.,Ahrenfeldt,J.,an dHenriksen,U.B.
+(2012). Recent developments in biomass pelletization–A review. BioResources
+7,4451–4490.
+Frontiers in Energy Research | www.frontiersin.org 14 December 2018 | Volume 6 | Article 129Dien et al. Bioconversion of Pelletized Grasses
+Templeton, D. W., Scarlata, C. J., Sluiter, J. B., and Wolfrum, E. J. (20 10).
+Compositional analysis of lignocellulosic feedstocks. 2. method un certainties.
+J.Agri.FoodChem. 58,9054–9062.doi:10.1021/jf100807b
+Theerarattananoon, K., Xu, F., Wilson, J., Staggenborg, S., Mck inney, L., Vadlani,
+P.,etal.(2012).Eﬀectsofthepelletingconditionsonchemicalc ompositionand
+sugaryieldofcornstover,bigbluestem,wheatstraw,andsorghum stalkpellets.
+BioprocessBiosyst.Eng. 35,615–623.doi:10.1007/s00449-011-0642-8
+Thoreson,C.P.,Darr,M.J.,andWebster,K.E.(2010).“Cornsto verdensiﬁcation
+methods and their large-scale logistical impacts—preliminary analysis ,”in
+AmericanSocietyofAgriculturalandBiologicalEngineers (Pittsburgh,PA).
+Tilman, D., Hill, J., and Lehman, C. (2006). Carbon-negative biofu els
+from low-input high-diversity grassland biomass. Science314, 1598–1600.
+doi:10.1126/science.1133306
+Tumuluru, J. S., Wright, C. T., Hess, J. R., and Kenney, K. L. (2011) .
+A review of biomass densiﬁcation systems to develop uniform feeds tock
+commodities for bioenergy application. Biofuels Bioproducts Bioreﬁning 5,
+683–707.doi:10.1002/bbb.324
+Turhollow, A., Perlack, R., Eaton, L., Langholtz, M., Brandt, C., D owning, M.,
+et al. (2014). The updated billion-ton resource assessment. Biomass Bioenergy
+70,149–164.doi:10.1016/j.biombioe.2014.09.007
+Vogel, J. (2008). Unique aspects of the grass cell wall. Curr. Opin. Plant Biol. 113,
+301–307.doi:10.1016/j.pbi.2008.03.002
+Vogel, K., Mitchell, R., Casler, M., and Sarath, G. (2014). Regist ration of
+‘Liberty’switchgrass. J.PlantRegis. 8,242–247.doi:10.3198/jpr2013.12.0076crc
+Vogel, K. P., Brejda, J. J., Walters, D. T., and Buxton, D. R. (200 2).
+Switchgrass biomass production in the Midwest USA. Agron. J. 94, 413–420.
+doi:10.2134/agronj2002.0413
+Vogel, K. P., Dien, B. S., Jung, H. G., Casler, M. D., Masterson, S . D., and
+Mitchell, R. B. (2011). Quantifying actual and theoretical eth anol yields
+for switchgrass strains using NIRS analyses. BioEnergy Res. 4, 96–110.
+doi:10.1007/s12155-010-9104-4Wiselogel, A., Shaine T., Johnson, D. (1996). “Biomass feedsto ck resources and
+composition.” in Handbook on Bioethanol: Production and Utilization, 1 edn ,
+edsC.Wyman(Washington,DC:CRCpress),105–118.
+Wolfrum,E.J.,Nagle,N.J.,Ness,R.M.,Peterson,D.J.,Ray,A.E .,andStevens,D.
+M. (2017). The eﬀect of biomass densiﬁcation on structural suga r release and
+yieldinbiofuelfeedstockandfeedstockblends. BioEnergyResearch 10,478–487.
+doi:10.1007/s12155-017-9813-z
+Yoo, C. G., Nghiem, N. P., Hicks, K. B., and Kim, T. H. (2011). Pretrea tment
+of corn stover using low-moisture anhydrous ammonia (LMAA)
+process. Biores. Technol. 102, 10028–10034. doi: 10.1016/j.biortech.2011.
+08.057
+Zhang, K., Johnson, L., Vara Prasad, P. V., Pei, Z., and Wang, D. (2015). Big
+bluestem as a bioenergy crop: A review. Renew. Sustain. Energy Rev. 52,
+740–756doi:10.1016/j.rser.2015.07.144
+Disclaimer: The mention of trade names or commercial products in this article
+is solely for the purpose of providing speciﬁc information and does not i mply
+recommendation or endorsement by the U.S. Department of Agriculture. USD A
+isanequalopportunityproviderandemployer.
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relations hips that could
+beconstruedasapotentialconﬂictofinterest.
+Copyright © 2018 Dien, Mitchell, Bowman, Jin, Quarterman, Schme r, Singh and
+Slininger. This is an open-access article distributed unde r the terms of the Creative
+Commons Attribution License (CC BY). The use, distribution or reproduction in
+otherforumsispermitted,providedtheoriginalauthor(s)a ndthecopyrightowner(s)
+are credited and that the original publication in this journ al is cited, in accordance
+with accepted academic practice. No use, distribution or re production is permitted
+whichdoesnotcomplywiththeseterms.
+Frontiers in Energy Research | www.frontiersin.org 15 December 2018 | Volume 6 | Article 129

@@ -1,0 +1,550 @@
+
+303
+Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane H Huang, S Long, V Singh
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+Biodiesel production by transesterifi cation
+Biodiesel production from the extracted lipids follows 
+the process model developed in a previous study.2 Th e 
+process consists of transesterifi cation, biodiesel purifi -
+cation, and glycerol recovery and purifi cation (Fig. 1). 
+Transesterifi cation of the lipids with methanol, catalyzed 
+by sodium methoxide, is conducted as a continuous reac-
+tion in a stirred tank reactor at 60 °C. Th e transesterifi ca-
+tion process continuously converts lipids and methanol to 
+biodiesel and glycerol. Following a 1 h transesterifi cation 
+reaction, a continuous centrifuge is used to remove the 
+glycerol-rich coproduct phase, which is sent to the glycerol 
+recovery unit. Th e biodiesel stream, which also contains 
+unreacted methanol and lipids, is fed to a second reac-
+tion tank, wheremore sodium methoxide and methanol 
+are added. Th e second transesterifi cation reaction is con-
+ducted for1 hr. A transesterifi cation effi  ciency of 90% was 
+assumed for each of the two transesterifi cation-reactions, 
+which resulted inan overall effi  ciency of 99% based on the 
+lipid content.2, 36 Th e unreacted methanol is recovered 
+by vacuum evaporation followed by condensation for 
+recycling.
+Th e crude biodiesel stream is washed with hydrochloric 
+acid and water to neutralize the catalyst (sodium meth-
+oxide) and convert any soap to free fatty acids, thereby 
+reducing the fl uid emulsifying tendencies. A continuous 
+centrifuge is then used to separate the biodiesel from the 
+aqueous phase. A vacuum drying process is applied to 
+reduce the water content to 450 ppm. Th e crude glycerol 
+stream is treated with the same process (hydrochloric acid 
+and then caustic solution), and the processed crude glyc-
+erol has a purity of 80%.2
+Ethanol production by fermentation
+As in a modern sugarcane plant, the sugar solution is con-
+centrated to 20% solute through a multiple eff ect evapora-
+tor (Fig. 1). Th e concentrated sugar solutionis cooled to 
+32  °C and fed into the fermenters, where a fermentation 
+process with yeast is conducted. During fermentation, 
+yeasts convert the sugars to ethanol and carbon dioxide. 
+Cooling water is continuously provided to keep the fer-
+mentation temperature at 32 °C. Aft  er fermentation, the 
+wine (water, ethanol, and yeast mix) is sent to centrifuges 
+to separate the yeasts, which are treated with sulfuric acid 
+solution to prevent bacterial contamination and recycled 
+for use in further fermentation batches.
+Aft  er removing the yeasts, the wine is sent to the distil-
+lation process to recover the ethanol. Before being sent 
+to the distillation column, the wine is preheated in heat 
+the harvest machines, to prevent potential damage to the 
+mill tandem, i.e. several crushing and extraction units 
+in sequence. No washing is carried out on the lipid-cane 
+prior to crushing due to the high sugar and lipid losses 
+that would result from washing mechanically harvested 
+lipid-cane prior to extraction.30
+Lipid/sugar extraction
+Shredders are used to cut the lipid-canestem to enhance 
+the lipid and sugar extraction in the extraction step 
+(Fig. 1). Th e juice extraction of the shredded lipid-cane 
+follows the current well-established mechanical method 
+(mill tandem) in sugarcane industry, with the assistance 
+of enzymatic hydrolysis. During the extraction, process 
+condensed water (imbibition water) at 60 °C is added at the 
+fi nal stage of the tandem to improve the lipid and sugar 
+recovery. Protease enzyme is added at 0.5% concentration, 
+to break down proteins, including oleosin that surrounds 
+the lipid bodies.32 Enzymes have been successfully applied 
+to enhance aqueous extraction of lipids from diff erent 
+biomass materials.33–35 Th e extracted juice contains water, 
+lipids, sugar, and impurities such as fi ber fragments, min-
+erals, and soil particles. A rotary screen is used to remove 
+the fi ber fragments from the juice; these are returned to 
+the mills for further recovery of lipids and sugar, and 
+the juice is sent to the clarifi cation process. Based on the 
+information collected from sugarcane and soybean pro-
+cessing plants, it is assumed that 90% of the lipids and 96% 
+of the sugar are extracted from the lipid-cane. A sensitivity 
+analysis is conducted to evaluate the eff ect of the extrac-
+tion effi  ciency on the process economic performance.
+Th e extracted juice is piped to a temporary storage tank 
+that provides  a constant feed to the juice treatment pro-
+cess (Fig. 1). Th e juice is heated from 35 to 70 °C, followed 
+by the addition of phosphoric acid to reduce the pH to 4.5 
+and followed by the addition of lime (calcium hydroxide) 
+to increase the pH to 7 to remove impurities by forming 
+calcium phosphate particles. A second heating is then 
+applied to the juice to increase the temperature to 105 °C 
+to remove dissolved air. Flocculant polymer is added to 
+separate fi ne fi ber fragments and soil particles from the 
+juice in a settling tank. Th e juice then separates into three 
+parts: lipids fl oating on the top, a sugar solution, and a 
+mud debris of solid particles at the bottom of the settling 
+tank. Th e mud is washed with fresh water to recover the 
+remaining sugar using a rotary vacuum fi lter. Th e washed 
+solution is recycled to the process prior to the settling 
+tank, and the remaining material on the fi lter, termed fi lter 
+cake, may be used as a component of animal feed or for 
+composting.27 19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+304
+H Huang, S Long, V Singh Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+To meet the target of 96 million-liters/yr for biodiesel 
+production, the required mass of soybeans to be crushed 
+is approximately 500 000 MT/yr. With an expected 330 
+working days per year, the required throughput is approxi-
+mately 1500 MT/day. Th e soybeans contain 13% water, 18% 
+lipids, 37% crude protein, 28% carbohydrates, and 4% ash. 
+Th e process includes two parts: (i) soybean crushing and 
+oil refi ning and (ii) biodiesel production from refi ned oil 
+(Fig. 2). Th e key parameters are provided in Table 3. Aft  er  
+receiving the soybeans, the fi rst step is to clean them to 
+remove foreign materials, such as stems, pods, dirt, sand, 
+and rocks, because such foreign materials reduce the oil 
+and protein content and adversely aff ect oil quality. Th e 
+cleaned soybeans are sent to a dehulling process to remove 
+their hulls, which are toasted and grinded before being 
+transported to a storage room. Aft  er the dehulling process, 
+the cracked soybeans are subjected to conditioning, fl ak-
+ing, and expending processes, which help extract oil in 
+the following extraction step. Th e soybean fl akes are then 
+sent to the oil extraction process, where hexane is used 
+as a solvent to extract the oil. Th e oil extraction effi  ciency 
+is assumed to be 95%, based on the data collected from a 
+soybean plant.  Th e hexane in the oil and the spent soy-
+bean fl akes is then evaporated and recycled. Th e spent soy-
+bean fl akes are ground to produce soybean meal and are 
+sold as animal feed. Th e hexane-free soy oil is referred to 
+as crude soy oil and is sent to the oil refi ning process.
+exchangers by the fl ow coming from the bottom of the 
+distillation column. Th e fi rst step in the ethanol recovery 
+is the distillation column, which captures nearly all of the 
+ethanol in the wine. Th e distillated ethanol solution con-
+tains almost an equal amount of water, so a second stage 
+of distillation (rectifi er column) is used. Upon completion 
+of this second stage, the distillate is approximately 90% 
+ethanol, and molecular sieves then remove further water 
+to provide ethanol of 99% purity (w/w). Th e bottom fl ow 
+from the distillation column, termed vinasse, contains 
+water and nutrients including protein, fi bers, and other 
+unfermentable chemicals. Th is material can be utilized for 
+both the irrigation and fertilization of the cane plantations 
+that surround the ethanol production facility.27
+Cogeneration system
+Bagasse, a byproduct of the lipid-cane process, is burned 
+to produce steam and generate electricity for the plant, 
+with the excess sold to the grid for additional revenue. 
+Th e cogeneration units comprise a combustor for burning 
+bagasse, a boiler for generating steam, and a turbogenerator 
+for converting thermal energy to electricity (Fig. 1). Such a 
+cogeneration system using wet biomass has been included 
+in aprocess model developed by the National Renewable 
+Energy Laboratory (NREL).31 Th e conceptual design and 
+technical data in the NREL report were utilized for the 
+simulation of the cogeneration unit in this study. 
+Bagasse with 50% moisture content is fed to the combus-
+tor to be burned to generate heat. Th e total heating value 
+is calculated by the imbedded combustor-modules in the 
+SuperPro Designer based on the material composition. Th e 
+boiler effi  ciency was assumed to be 80%.31 Flue gas leaving 
+the boiler preheats the air required to burn the bagasse. A 
+turbogenerator uses a multistage turbine with two steam 
+extraction ports and a fi nal condenser. Th e fi rst extracted 
+steam (1.48 MPa, 268 °C) is used to preheat the water 
+before entering the boiler. Th e second steam is extracted 
+at 0.44 MPa (152 °C) and is used in ethanol distillation, 
+juice heating, and other processes. Th e rest of the steam is 
+condensed at 10 kPa (45.8 °C) to maximally increase the 
+electricity production. 
+Soy-biodiesel process
+Th e soy-biodiesel process model is based on the model 
+developed by the USDA ARS (Agricultural Research 
+Service) research lab (unpublished). Th e capacity of the 
+soy-biodiesel plant was set to 96 million liters (25 million 
+gallons) biodiesel per year, which is the same as the capac-
+ity of the lipid-cane (20% lipid content) processing plant. 
+Table 3. Key parameters of the soy-biodiesel 
+process model.
+Parameter Value
+Impurities removed by cleaning 0.3% of soybean
+Soybean hull production 7% of soybean
+Hexane usage during extraction 4.2 L/MT soybean
+Solvent extraction temperature 60 °C
+Lipid extraction rate 95%
+Loss of lipids during purifi cation 2%
+Soybean hull moisture 12%
+Soybean meal moisture 12%
+Soybean meal protein content 50.0%
+Amount of phosphoric acid addition 0.1% of lipids
+Temperature of phosphoric treatment 70 °C
+Amount of caustic soda addition 0.2% of lipids
+Amount of washing water 15% of lipids
+Temperature of washing water during 
+purifi cation 
+85 °C
+Biodiesel purity 99.2%
+Crude glycerol purity 80% 19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+307
+Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane H Huang, S Long, V Singh
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+MT of sugarcane (Fig. 3). Th is number agrees with previ-
+ous studies, where the ethanol yield per MT of sugarcane 
+was between 82 and 93 liters.27, 29, 42, 45 Th ese results con-
+fi rm the validity of the data obtained from our model 
+and the assumptions considered. For the lipid-cane with 
+2% lipids, 6.0 liters of biodiesel and 79.9 liters of ethanol 
+were produced per MT of lipid-cane. As the lipid con-
+tent increases, the ethanol production decreases, but the 
+biodiesel production increases. Th is result makes sense 
+because more sugar was diverted to produce oil. For the 
+lipid-cane with 20% lipids, 60.1 liters of biodiesel can be 
+produced from each MT of lipid-cane, but no ethanol 
+was produced due to the little sugar remaining in the 
+lipid-cane. 
+Electricity from bagasse plays an important role in mod-
+ern sugarcane processing plants.46–48 In the sugarcane 
+plant, bagasse is burned to produce steam and electricity 
+for the plant,46 with the surplus electricity sold to the grid 
+to generate co-product credits. Th e steam and electric-
+ity requirements for the processes of soybean biodiesel, 
+sugarcane, and lipid-cane with 10 and 20% lipid contents 
+are shown in Table 7. It is worth notice that the steam 
+requirement for the lipid-cane with 20% lipid was sig-
+nifi cantly lower compared to that for the sugarcane and 
+lipid-cane with 10% lipid. Th is is because all sucrose has 
+been converted to TAGs in this scenario and so there is 
+no fermentation or ethanol evaporation when lipid-cane 
+with 20% lipid, so the steam usage was low. Th e electric-
+ity used by the sugarcane and lipid-cane processing plants 
+were between 50 000 and 53 000 MWh per year, which 
+corresponded to approximately 31 to 33 MWh per MT of 
+sugarcane processed. It is should be noted that due to the 
+combustion of bagasse, no external energies (i.e., fossil 
+fuel) is needed at modern the sugarcane processes. Th is 
+makes sugarcane process self-sustainable in energy.29
+Th e surplus electricity production is approximately 61 
+kWh per MT of sugarcane (Fig. 3). Th is number is slightly 
+lower than the previously reported value of 68 kWh per 
+MT of sugarcane.29 According to the UNICA report, up 
+to 96 kWh total electricity (electricity used in the  process 
+Table 6. Project Total Capital Investment (million $) for the processes.
+Sections Soybean 
+Biodiesel
+Sugarcane 
+0% lipids
+Lipid-cane 
+2% lipids
+Lipid-cane 
+5% lipids
+Lipid-cane 
+10% lipids
+Lipid-cane 
+20% lipids
+Feedstock handling 8.5 2.5 2.5 2.5 2.5 2.5
+Oil/sugar extraction/purifi cation 9.1 7.8 8.2 8.4 8.6 9.2
+Ethanol fermentation 0.0 10.0 10.0 8.5 7.5 0.0
+Biodiesel production 3.5 0.0 1.4 2.3 3.4 5.3
+Burner, turbo-generation 0.0 27.7 29.7 31.5 36.0 41.8
+Storage 5.3 0.8 1.3 1.7 2.0 1.7
+Utilities (e.g. cooling tower) 0.3 1.5 1.7 1.7 1.9 2.7
+Total equipment cost 26.6 50.3 54.9 56.6 61.9 63.2
+Fixed capital investment 
+(3×total equipment cost)
+79.9 151.0 164.7 169.8 185.7 189.5
+Working capital|
+(5% of fi xed capital investment)
+4.0 7.5 8.2 8.5 9.3 9.5
+Total capital investment 83.9 158.5 172.9 178.3 195.0 199.0
+aFor the soybean biodiesel process, the oil/sugar extraction and purifi cation sections includes coproduct processing (soybean hulls and 
+soybean meal).
+Figure 3. Main product and coproduct (surplus electricity) 
+yields from each MT of normal sugarcane and lipid-cane. 19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+308
+H Huang, S Long, V Singh Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+was lower than that from soybean. Th e remaining sugar 
+in the 2% lipid-cane was fermented to produce ethanol 
+at a production cost of $0.46/liter, which could further 
+improve the economics of the lipid-cane process. With the 
+increase in lipid content, both the biodiesel and ethanol 
+production costs from the lipid-cane decreased accord-
+ingly. As the lipid content increased to 5%, the biodiesel 
+and ethanol production costs decreased to $0.84 and 
+$0.44/liter, respectively. Th e lower production cost of lipid-
+cane is primarily attributed to the lower feedstock cost 
+of lipid-cane compared with that of soybean. As the lipid 
+content increased to 20%, the biodiesel production cost 
+further decreased to $0.59/liter, which made it competitive 
+with petroleum diesel. 
+Th e details of the unit production costs of processes with 
+diff erent feedstocks are shown in Table 8. For conciseness, 
+only the production costs from soybean, normal sugar-
+cane, and lipid-cane with lipid contents of 10 and 20% are 
+plus surplus electricity) can be generated using the lat-
+est extraction-condensation technology.28 With the 
+increase in lipid content, the surplus electricity production 
+increases substantially due to the higher fraction of fi ber 
+in the lipid-cane. Furthermore, only 90% of the lipids in 
+the lipid-cane were extracted in the extraction process, 
+where as the rest 10% of the lipids remained in bagasse 
+and was burned in the cogeneration system, which further 
+increased the electricity production.
+Th e resulting unit production costs for biodiesel and 
+ethanol are shown in Fig. 4. Th e biodiesel production cost 
+from soybeans is estimated to be $1.08/liter. In the USA, 
+the bulk petroleum diesel fuel prices during 2013 were 
+generally in the range of $0.82‒0.98/liter,9 which was lower 
+than the production cost of the soy biodiesel estimated 
+here. Th is fi nding indicates the economic diffi  culty of the 
+soy biodiesel process without policy support. Th e biodiesel 
+production cost from 2% lipid-cane was $0.89/liter, which 
+Table 7. Utility utilization for the processes of soybean and sugarcane (0, 10, and 20% lipids).
+Utilities Soybean Sugarcane (0% lipid) Lipid-cane (10% lipid) Lipid-cane (20% lipid)
+Electricity (Mw-h) 24,232 50,187 52,644 52,687
+Steam (MT) 0a 686,056 656,000 102,609
+Natural gas (MT) 9,001 0b 0 b 0 b
+aSteam is generated by burning natural gas in the soybean-biodiesel plant. 
+bBagasse is burned to generate steam, so no natural gas is used in the sugarcane processing plant. 
+Figure 4. Biofuel unit production costs from soybean, normal sugarcane, and lipid-cane. 19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+309
+Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane H Huang, S Long, V Singh
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+presented. For all processes, raw material costs constituted 
+the largest portion of the total operating cost, and of the 
+raw material costs, the feedstock costs (i.e., soybeans, sug-
+arcane, and lipid-cane) accounted for the largest portion. 
+Th erefore, feedstock costs are the main contributor to the 
+biodiesel and ethanol production costs. Similar estimates 
+that the feedstock cost was the greatest contribution to 
+the biodiesel production cost were reported in other stud-
+ies.2,11,49 Due to the lower feedstock cost, the biodiesel pro-
+duction cost from the lipid-cane process is lower than that 
+from the soybean process.
+Profi tability analysis
+Because the lipid-cane process has a much higher total 
+capital investment than the soy-biodiesel process does, 
+the lower biofuel unit production cost of the lipid-cane 
+process may not necessary indicate a better economic 
+performance. Th erefore, the IRR was calculated to evalu-
+ate the economic performance of each scenario (Fig. 5). 
+Despite the lower unit biodiesel production cost compared 
+with the conventional soy-biodiesel process, the process of 
+lipid-cane with 2% lipid content had a lower IRR due to its 
+higher total capital investment. However, it has a slightly 
+higher IRR than the normal sugarcane process. Th e IRR 
+value of the lipid-cane process increases as the lipid con-
+tent increases. When the lipid content increases to 5%, the 
+IRR value of the lipid-cane process becomes comparable 
+to that of the soy-biodiesel process. For the 20% lipid cane, 
+there was no sugar left  in the stem; thus, no sugar separa-
+tion, fermentation, or distillation was needed in the pro-
+cess, which signifi cantly reduced the related capital and 
+energy costs. Th erefore, when the lipid content in the lipid-
+cane increased from 10 to 20%, the IRR value of the pro-
+cess increased remarkably from 17.5 to 24.0%. Th e IRR of 
+the 20% lipid content lipid-cane process was much higher 
+than that of the soybean process.
+Sensitivity analysis
+Senstivity analyses were performed to test variables that 
+were uncertain and those were found to signifi cantly aff ect 
+Table 8. Annual production and unit cost for the processes of soybeans and sugarcane (0, 10, and 20% 
+lipids).
+Item Soybean Sugarcane (0% lipid) Lipid-cane (10% lipid) Lipid-cane (20% lipid)
+Production (million liter/yr)
+Biodiesel production 96.0 - 48.0 96.0
+Ethanol production - 141.0 70.0 -
+Raw Material cost (million $/yr)
+Feedstock 266.1 55.3 55.3 55.3
+Other chemicals 6.5 3.7 6.2 7.8
+Utilities 4.0 - 0.2 0.5
+Labor 3.5 3.5 3.5 3.5
+Supplies 1.3 2.0 2.4 2.4
+General works 0.9 1.7 2.0 2.1
+Capital charges (Depreciation) 4.0 7.5 9.3 9.5
+Co-product credit -182.7 -6.5 -14.6 -24.3
+Total operating cost 103.5 67.2 64.3 56.8
+Operating cost allocationa (million $/yr)
+Biodiesel 103.5 - 36.5 56.8
+Ethanol - 67.2 27.8 -
+Unit production cost ($/liter)
+Biodiesel 1.08 - 0.76 0.59
+Ethanol - 0.48 0.40 -
+aThe operation cost is proportionally allocated to each of the main products with respect to their marketing values, if there are two main 
+products in the process. The marketing value of each product is determined by the annual production multiplied by its selling price. In this 
+study, the selling prices of biodiesel and ethanol are set to be $1.22/liter and $0.62 /liter, respectively, based on the average price in the 
+USA in 2013.  19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+310
+H Huang, S Long, V Singh Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+Figure 5. Internal rate of return of the soybean, normal sugarcane and lipid-cane processes.
+the biodiesel production cost (Fig. 6). Two cases were ana-
+lyzed. Th e fi rst case was the process of lipid-cane with 10% 
+lipid concentrations, and the second case was the soybean-
+biodiesel process. In both cases, low and high points were 
+chosen, which were then combined to give an estimate of 
+the accumulated eff ect of the various parameters changes 
+on the biodiesel production costs (Fig. 7). 
+First, we varied the cost of lipid-cane price, as there 
+is signifi cant uncertainty regarding lipid-cane costs 
+and these have a very large infl uence on the biodiesel 
+production cost. Th e cost of lipid-cane price was based 
+on the average sugarcane price in 2013. It is possible that 
+the genetically modifi ed lipid-cane would have a higher 
+price compared to normal suagrcane, due to its higher 
+lipid content and research investment. Th e uncertainties 
+in biomass yield of the lipid-cane would also infl uence 
+its price. Th e lower biomass yield would probably cause 
+the increase of lipid-cane price to balance farmer’s 
+income. However, it would also be very possible that 
+biomass might increase due to the synergy eff ect of lipid 
+accumulation and carbon assimilation20, 50 and current 
+research on photosynthesis improvements of crops.51 
+Th erefore, a larage variation of lipid-cane price ($25 to 
+$45/MT) was selected for sensivitiy analysis. As the cane 
+price variates between $25/MT and $45/MT, the biodiesel 
+production costs change broadly between $0.57/liter and 
+$0.95/liter. 
+Besides the lipid-cane price, the lipid extraction effi  -
+ciency is also of importance. Since the lipid-cane is a new 
+engineered crop to produce lipid, there is a signifi cant 
+unceratinty redarding extraction effi  ciency. Th erefore, a 
+range of extraction effi  ciency from a low point (70%) to 
+a high point (95%) was selected for sensitivity analysis. 
+Interstingly, its infl uence was not as large as other vari-
+ables, such as lipid-cane prices, annual operating days and 
+annual cursh capacity. Th is is mainly because the unex-
+tracted lipids were burned to produce electricity, which 
+increased the coproduct credits. Furthermore, glycerol 
+selling prices had little infl uence on the biodiesel produc-
+tion costs. 
+In the case of the soybean biodiesel process, the soy-
+bean prices and soybean meals were the main targets for 
+sensitivity analysis, since these two parameters had the 
+largest infl uence on the biodiesel production cost. Both 
+parameters are uncertain due to the large fl uctuations of 
+marketing prices of soybean and soybean meals. In 2013, 
+the monthly average prices for soybean fl uctuated between 
+$470 and $560 per MT, and the monthly average prices 
+for soybean meal fl uctuated between $450 and $520 per 
+MT.52 By excluding the extreme prices, the soybean price 
+between $490 and $550 per MT and the soybean meal 
+price between $450 and $500 per MT were conducted for 
+sensitivity analysis. Compared to the above two variables, 
+other variables (i.e., soybean hull prices, glycerol price,  19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+311
+Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane H Huang, S Long, V Singh
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+and natural gas prices) did not have large infl uence on the 
+biodiesel production cost. 
+Figure 7 shows the combined eff ect of parameter varia-
+tions on the biodiesel production cost. Th e range of bio-
+diesel production cost for both cases were wide because of 
+the uncertainty in these variables. Th e wide range of the 
+estimated cost could become narrow as technology devel-
+ops, because some varibales would become consistent, 
+such as lipid extraction effi  ciency. However, some param-
+eters, such as soybean price, remain uncertain, since they 
+are more market-driven. 
+Biofuel yield per unit land area
+Th ough it is important to understand the biofuel produc-
+tion costs and the IRR for the soybean and lipid-cane pro-
+cesses, it is equally important to evaluate the amount of 
+biofuel production from each hectare of land use because 
+the limited land resource is one of the main barriers for 
+the wide replacement of petroleum fuel with biofuel. 
+Sugarcane has advantages of higher productivity versus 
+Figure 6. Sensitivity of biodiesel production cost to different parameters. (a) Lipid-cane process; (b) 
+Soybean process. The numbers in brackets in Y-axis are the potential low, base and high  values of 
+each parameter.
+0.88 0.98 1.08 1.18 1.28
+Glycerol Price (220 : 170 : 120 $/MT)
+Soybean Hull Price (150 : 120 : 90 $/MT)
+Soybean Meal Price (500 : 475 : 450 $/MT)
+Natural Gas Price (170 : 220 : 270 $/MT)
+Annual Crush Capacity (1.0 M : 0.5 M : 0.25 M MT/yr)
+Soybean Prices (490 : 520 : 550 $/MT)
+Biodiesel Production Cost ($/liter)
+0.56 0.66 0.76 0.86 0.96
+Glycerol Selling Price (220 : 170 : 120 $/MT)
+Electricity Selling  Price (0.08 : 0.065 : 0.05 $/Kwh)
+Annual Crush Capacity (3.2 M : 1.6 M : 0.8 M TC/yr)
+Annual Operating Days (300 : 200 : 120 days/yr)
+Lipid Extraction Rate (95% : 90% : 70%)
+Sugarcane Price (25 : 35 : 45 $/MT)
+Biodiesel Production Cost ($/liter)
+(a)
+(b)
+Figure 7. Accumulated uncertainties of the sensitivity 
+parameters on the biodiesel production cost. The base val-
+ues are included for reference as a vertical bar.
+oilseed crops (e.g., soybean and canola). In the USA, the 
+average yield of soybean is approximately 2.8 MT/ha.24 
+Th e normal sugarcane yield in the most productive zone 
+of the USA (Hawaii) can be as high as 180—220 MT/ha, 
+though this value decreases to 75‒110 MT/ha in the south- 19321031, 2016, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bbb.1640 by Test, Wiley Online Library on [02/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+312
+H Huang, S Long, V Singh Modeling and Analysis: Biodiesel and ethanol co-production from lipid-producing sugarcane
+© 2016 The Authors. Biofuels, Bioproducts, Biorefining published by Society of Chemical Industry and John Wiley & Sons, Ltd. 
+|  Biofuels, Bioprod. Bioref. 10:299–315 (2016); DOI: 10.1002/bbb
+ern states of the USA (Florida, Louisiana, and Texas). 
+In this study, the lipid-cane yield was assumed to be the 
+same as that of conventional sugarcane at 110 MT/ha, 
+with 70% moisture content. Using the biofuel yields from 
+each MT of sugarcane and lipid-cane, the biofuel produc-
+tion per hectare of land use can be determined. Figure 
+8 shows that the biodiesel yield from soybeans is only 
+approximately 500 liters per hectare of land use. For the 
+lipid-cane, even with 2% lipid content, the biodiesel yield 
+was already higher than that from soybean. Meanwhile, it 
+can produce nearly 10 000 liters of ethanol by fermenting 
+the remaining sugars. Upon increasing the lipid content 
+from 2 to 20%, the biodiesel yield increases, where as the 
+ethanol yield decreases because the sugar in the lipid-cane 
+was replaced with the lipids. For the lipid-cane with 20% 
+lipid content, planting lipid-cane on one hectare of land 
+can produce more than 6700 liters of biodiesel, which 
+is more than 10 times that of soybean. With such high 
+biodiesel production from each hectare of land, it only 
+needs about 0.76 Mha of land to meet the current US bio-
+diesel requirement (5.1 billion liters). Given a total current 
+managed farm land area of 370 Mha with an additional 
+11 Mha in conservation reserve, 0.76 Mha is a realistic 
+target.53
+Conclusions
+A techno-economic model of lipid-cane processes to pro-
+duce ethanol and biodiesel was developed and compared 
+with a soybean-based process model to assess lipid-cane’s 
+economic competitiveness. By increasing the lipid content 
+in lipid-cane from 2% to 20%, the biodiesel production 
+costs decreased from $0.86/L to $0.59/L, which is lower 
+than the production cost from soybeans, $1.08/L. Th e IRR 
+values of the lipid-cane processes are dependent on the 
+lipid content in lipid-cane: as lipid content increased from 
+2 to 20%, the IRR values increased from 13.5 to 24.0%. 
+Th erefore, it is important to increase the lipid content to 
+make the lipid-cane more competitive. Due to its high pro-
+ductivity, lipid-cane can produce more than 10 times the 
+amount of biodiesel per hectare than soybeans. Overall, 
+the techno-economic model shows that lipid-cane could be 
+a promising alternative feedstock for biodiesel and ethanol 
+production.

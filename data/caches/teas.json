@@ -1,0 +1,245 @@
+{
+    "https://doi.org/10.1002/bbb.1640": [],
+    "https://doi.org/10.1186/s13068-020-01837-2": [
+        {
+            "level": 1,
+            "result": {
+                "production_costs": 2000000.3,
+                "minimal_selling_price": 0.33000000005122276,
+                "minimal_selling_price_per_unit": 0.30271757830636187,
+                "target_selling_price_per_unit": 1.5,
+                "irr": 0.09012500000000001,
+                "npv": -1999998.7426785715
+            },
+            "input_maml": {
+                "id": "https://doi.org/10.1186/s13068-020-01837-2",
+                "paper_id": "https://doi.org/10.1186/s13068-020-01837-2",
+                "title": "Variation in sugarcane biomass composition and enzymatic saccharification of leaves, internodes and roots",
+                "process_feedstock": "sugarcane",
+                "process_flow": [
+                    {
+                        "type": "pretreatment_hot_water_pretreatment",
+                        "description": "Hot water pretreatment, also recognized as hydrothermal treatment or autohydrolysis, is a commonly used method in the bio-industrial process to make biomass more amenable to subsequent enzymatic saccharification for biofuel production. This treatment involves exposing biomass to water at high temperatures without the addition of chemicals, which leads to the hydrolysis of hemicellulose into soluble sugars and the alteration of lignin structure. Through these modifications, the cell wall's recalcitrance is reduced, enhancing the accessibility of cellulose to enzymes. This pretreatment is particularly appealing due to its relatively low cost, simplicity, and absence of toxic chemicals, making it environmentally friendly. It acts by utilizing the self-ionization of water under high temperature and pressure conditions to catalyze the hydrolysis of the biomass. However, the study described does not introduce any novel insights specifically about hot water pretreatment itself but focuses on the variation in sugarcane biomass composition and its effects on enzymatic saccharification efficiency across different plant tissues, namely leaves, internodes, and roots. It demonstrates how organ-specific compositional differences affect the biomass's response to enzymatic breakdown, highlighting the importance of understanding biomass composition in optimizing bio-refinery processes for biofuel and biomaterial production.",
+                        "options": {},
+                        "parameters": [
+                            {
+                                "name": "solids_loading",
+                                "unit": "weight_percentage"
+                            }
+                        ],
+                        "output": {
+                            "name": "soluble_sugars",
+                            "unit": "tonne/day"
+                        }
+                    },
+                    {
+                        "type": "fermentation_saccharification",
+                        "description": "The study by Mason et al. (2020) evaluated the variability in biomass composition and enzymatic saccharification across different sugarcane tissues: leaves, internodes (immature and mature), and roots, from two commercial sugarcane genotypes. The research identified significant variations in the composition of alcohol-soluble components, soluble sugars, cellulose, hemicellulose, lignin, and other cell wall components among the different plant tissues, which in turn impacted their enzymatic saccharification efficiency. Notably, mature internodes exhibited a higher alcohol-soluble component, primarily constituting sucrose, compared to leaves and roots. Additionally, distinct differences in hemicellulose and lignin compositions were observed across the tissue types, suggesting differential control of these fractions in each organ type. The study underscores the influence of tissue-specific biomass composition on the efficiency of saccharification, which is critical for optimizing sugarcane as a feedstock for biofuels and other bioproducts within a biorefinery context. The novelty of this research lies in its comprehensive analysis of saccharification efficiency across different sugarcane tissues, highlighting the potential for targeted genetic manipulation or breeding strategies to enhance biomass conversion efficiency by optimizing the composition of specific sugarcane tissues.",
+                        "options": {
+                            "fermentation_method": null
+                        },
+                        "parameters": [
+                            {
+                                "name": "conversion_rate",
+                                "unit": "%"
+                            }
+                        ],
+                        "output": {
+                            "name": "soluble_sugars",
+                            "unit": "tonne/day"
+                        }
+                    },
+                    {
+                        "type": "separation.ethanol_purification",
+                        "description": "A separation process where ethanol is purified from the fermentation broth, often involving distillation and other purification techniques.",
+                        "options": {},
+                        "parameters": [
+                            {
+                                "name": "distillation_extraction_rate",
+                                "unit": "%"
+                            },
+                            {
+                                "name": "distillation_efficiency",
+                                "unit": "%"
+                            }
+                        ],
+                        "output": {
+                            "name": "ethanol",
+                            "unit": "tonne/day"
+                        }
+                    }
+                ],
+                "process_target": "ethanol"
+            },
+            "input_params": {
+                "prices": {
+                    "sugarcane": 0.03
+                },
+                "target_product_price": 1.5,
+                "input_product_price": 0.03,
+                "input_product_amount": 10,
+                "cap_ex": 2000000,
+                "solids_loading": 15,
+                "conversion_rate": 90,
+                "distillation_extraction_rate": 95,
+                "distillation_efficiency": 85
+            },
+            "exec_history": [
+                {
+                    "fn_name": "process_function_output_num_soluble_sugars",
+                    "fn_str": "\ndef process_function_output_num_soluble_sugars(input_product_amount: float, solids_loading: float) -> float:\n    '''\n    Calculate the amount of soluble sugars produced based on the input product amount and the solids loading factor.\n    \n    :param input_product_amount: Amount of biomass input to the process (tonne/day), typically as received from the field or storage.\n    :param solids_loading: The fraction of the input product mass that is considered solid content relevant for sugar production, as a weight percentage (i.e., the percent of the input biomass that is solid rather than water or other non-contributing masses).\n    :return: The amount of soluble sugars produced (tonne/day), assuming that all solids are converted to soluble sugars.\n    \n    This simplistic model assumes 100% conversion efficiency of solids to soluble sugars, which may not be realistic in practical scenarios but provides a baseline for theoretical maximum output. Adjustments can be made for specific conversion efficiencies by incorporating additional parameters in more complex models.\n    '''\n    # Convert solids loading from percentage to a decimal fraction for calculation\n    solids_loading_decimal = solids_loading / 100\n    \n    # Calculate the amount of soluble sugars produced by applying the solids loading factor to the input product amount\n    soluble_sugars_output = input_product_amount * solids_loading_decimal\n    \n    return soluble_sugars_output\n",
+                    "fn_args": {
+                        "solids_loading": 15
+                    },
+                    "output": 1.5,
+                    "costs": 0
+                },
+                {
+                    "fn_name": "process_function_output_num_soluble_sugars",
+                    "fn_str": "\ndef process_function_output_num_soluble_sugars(input_product_amount: float, conversion_rate: float) -> float:\n    '''\n    Calculate the output of soluble sugars from input biomass considering the conversion rate.\n    \n    This function takes into account the amount of biomass input to a process and its conversion rate to soluble sugars.\n    The conversion rate should be provided as a percentage. The output is the amount of soluble sugars generated from\n    the given amount of biomass.\n    \n    :param input_product_amount: Amount of biomass input to the process (tonne/day).\n    :param conversion_rate: Conversion rate of biomass to soluble sugars (%).\n    :return: The amount of soluble sugars produced (tonne/day).\n    \n    The calculation is straightforward, requiring only the multiplication of the input product amount by the\n    conversion rate (after converting the percentage to a decimal). This approach assumes that all provided\n    rates and amounts are accurate and applicable to the conditions under which the process operates.\n    '''\n    soluble_sugars_output = input_product_amount * (conversion_rate / 100)\n    return soluble_sugars_output\n",
+                    "fn_args": {
+                        "conversion_rate": 90
+                    },
+                    "output": 1.35,
+                    "costs": 0
+                },
+                {
+                    "fn_name": "process_function_output_num_ethanol",
+                    "fn_str": "\ndef process_function_output_num_ethanol(input_product_amount: float, distillation_extraction_rate: float, distillation_efficiency: float) -> float:\n    '''\n    This function calculates the net output of ethanol considering both the specified extraction rate during distillation\n    and the overall efficiency of the distillation process.\n    \n    The extraction rate represents the proportion of ethanol successfully extracted during the distillation process,\n    while the efficiency accounts for losses and inefficiencies inherent to the distillation equipment or method used.\n    The final ethanol output is determined by applying both these factors to the input amount of ethanol.\n    \n    Parameters:\n    :param input_product_amount: The amount of ethanol before purification and loss adjustments, expressed in tonne/day.\n    :param distillations_extraction_rate: The extraction rate of the distillation process expressed as a percentage (%) \n                                          that signifies the portion of ethanol successfully extracted from the mixture.\n    :param distillation_efficiency: The overall efficiency of the distillation process, also expressed as a percentage (%),\n                                    accounting for thermal and mechanical losses, among others.\n\n    Returns:\n    :return: The net amount of ethanol output after accounting for the extraction rate and efficiency of the distillation,\n             expressed in tonne/day.\n    '''\n    # Calculate the amount of ethanol extracted by applying the distillation extraction rate\n    extracted_ethanol = input_product_amount * (distillation_extraction_rate / 100)\n\n    # Further adjust the extracted amount by the efficiency of the distillation process\n    final_ethanol_output = extracted_ethanol * (distillation_efficiency / 100)\n\n    return final_ethanol_output\n",
+                    "fn_args": {
+                        "distillation_extraction_rate": 95,
+                        "distillation_efficiency": 85
+                    },
+                    "output": 1.090125,
+                    "costs": 0
+                }
+            ],
+            "created_at": "1717620765.303259"
+        }
+    ],
+    "https://doi.org/10.1016/j.biortech.2017.12.041": [],
+    "https://doi.org/10.3389/fenrg.2018.00129": [
+        {
+            "level": 1,
+            "result": {
+                "production_costs": 5000300.0,
+                "minimal_selling_price": 330.0,
+                "minimal_selling_price_per_unit": 0.21568627450980393,
+                "target_selling_price_per_unit": 2.5,
+                "irr": 1529.0,
+                "npv": -4996657.142857143
+            },
+            "input_maml": {
+                "id": "https://doi.org/10.3389/fenrg.2018.00129",
+                "paper_id": "https://doi.org/10.3389/fenrg.2018.00129",
+                "title": "Bioconversion of Pelletized Big Bluestem, Switchgrass, and Low-Diversity Grass Mixtures Into Sugars and Bioethanol",
+                "process_feedstock": "switchgrass",
+                "process_flow": [
+                    {
+                        "type": "pretreatment_low_moisture_ammonium_hydroxide_pretreatment",
+                        "description": "The bio-industrial process described in the original research focuses on the bioconversion of pelletized big bluestem, switchgrass, and low-diversity grass mixtures into sugars and bioethanol, highlighting the potential for these biomass sources in sustainable energy production. This process notably includes low-moisture ammonium hydroxide (LMA) pretreatment. Pelletizing the biomass effectively increased bulk density, facilitating easier handling and processing. The LMA pretreatment, a novel approach within this context, involves treating low-moisture biomass with ammonium hydroxide, offering benefits over traditional pretreatments through its operation under mild conditions and its avoidance of excessive water use. Following pretreatment, the biomass underwent hydrolysis with cellulases to break down into fermentable sugars, with subsequent fermentation converting these sugars into ethanol. The use of LMA pretreatment stands out as an innovation in this process, aimed at improving the efficiency of biomass conversion to biofuels by enhancing the digestibility of the biomass while potentially reducing the energy input and environmental impact associated with biomass pretreatment.",
+                        "options": {},
+                        "parameters": [
+                            {
+                                "name": "ammonia_loading",
+                                "unit": "g NH3 per gram biomass"
+                            }
+                        ],
+                        "output": {
+                            "name": "dry_biomass",
+                            "unit": "tonne/day"
+                        }
+                    },
+                    {
+                        "type": "fermentation_cellulosic_fermentation",
+                        "description": "The bioconversion of pelletized big bluestem, switchgrass, and low-diversity grass mixtures into sugars and bioethanol explores an innovative approach in the bio-industrial fermentation process, particularly focusing on cellulosic fermentation. This original research conducted by Dien et al. and published in Frontiers in Energy Research, elucidates the potential of these warm-season grasses harvested from marginal farmland for biomass production for ethanol. The novelty of this processing step lies in the pelletization of harvested biomass without the addition of binders at a commercial feed operation, increasing the bulk density significantly (by 407% on average) across all biomass samples, effectively facilitating storage, handling, and transportation logistics. Furthermore, the study embarks on comparing chemical characteristics and the bioconversion efficiencies post-pelletizing, indicating slight reductions in glucan and xylan contents, yet maintaining or improving overall sugar yields from enzymatically hydrolyzed pellets versus non-pellets, regardless of the pre-treatment method employed (liquid hot water or low-moisture ammonium hydroxide). Another pivotal aspect of this study is the utilization of these pelletized grass mixtures without compromising the theoretical ethanol yield, hence presenting an appealing avenue for bioethanol production from lignocellulosic biomass.",
+                        "options": {
+                            "fermentation_method": null
+                        },
+                        "parameters": [
+                            {
+                                "name": "conversion_rate",
+                                "unit": "%"
+                            }
+                        ],
+                        "output": {
+                            "name": "ethanol",
+                            "unit": "tonne/day"
+                        }
+                    },
+                    {
+                        "type": "separation.ethanol_purification",
+                        "description": "A separation process where ethanol is purified from the fermentation broth, often involving distillation and other purification techniques.",
+                        "options": {},
+                        "parameters": [
+                            {
+                                "name": "distillation_extraction_rate",
+                                "unit": "%"
+                            },
+                            {
+                                "name": "distillation_efficiency",
+                                "unit": "%"
+                            },
+                            {
+                                "name": "distillation_extraction_rate",
+                                "unit": "%"
+                            },
+                            {
+                                "name": "distillation_extraction_rate",
+                                "unit": "%"
+                            }
+                        ],
+                        "output": {
+                            "name": "ethanol",
+                            "unit": "tonne/day"
+                        }
+                    }
+                ],
+                "process_target": "ethanol"
+            },
+            "input_params": {
+                "prices": {
+                    "switchgrass": 75
+                },
+                "target_product_price": 2.5,
+                "input_product_price": 0.15,
+                "input_product_amount": 2000,
+                "cap_ex": 5000000,
+                "ammonia_loading": 20,
+                "conversion_rate": 90,
+                "distillation_extraction_rate": 99,
+                "distillation_efficiency": 85
+            },
+            "exec_history": [
+                {
+                    "fn_name": "process_function_output_num_dry_biomass",
+                    "fn_str": "\ndef process_function_output_num_dry_biomass(input_product_amount: float, ammonia_loading: float) -> float:\n    '''\n    Calculate the output of dry biomass after applying a certain amount of ammonia loading for pretreatment.\n    \n    This function assumes the sole effect of ammonia loading is to prepare the biomass for further processing without \n    loss of mass. Therefore, the output of dry biomass in tonnes/day is equivalent to the input biomass. This simplification \n    is made under the assumption that ammonia loading does not significantly change the total mass of the biomass, but \n    rather prepares it for the subsequent process by affecting its chemical composition or physical structure.\n    \n    :param input_product_amount: Amount of biomass input to the process (tonne/day).\n    :param ammonia_loading: Ammonia loading in grams NH3 per gram of biomass.\n    :return: The amount of dry biomass after ammonia loading (tonne/day).\n    '''\n    # Output is directly proportional to input as no mass is added or taken away in this step.\n    dry_biomass_output = input_product_amount\n    return dry_biomass_output\n",
+                    "fn_args": {
+                        "ammonia_loading": 20
+                    },
+                    "output": 2000,
+                    "costs": 0
+                },
+                {
+                    "fn_name": "process_function_output_num_ethanol",
+                    "fn_str": "\ndef process_function_output_num_ethanol(input_product_amount: float, conversion_rate: float) -> float:\n    '''\n    Calculate the amount of ethanol produced from the fermentation process.\n    \n    :param input_product_mesosolids: Amount of soluble sugars provided for the fermentation process (tonne/day).\n    :param conversion_rate: Efficiency rate of converting soluble sugars to ethanol (%).\n    :return: The amount of ethanol produced from the fermentation process (tonne/day).\n    \n    This function takes into account the given conversion rate to assess how efficiently soluble sugars are converted into ethanol.\n    It is assumed that the conversion rate directly translates to the proportion of input product that is successfully converted to ethanol.\n    '''\n    ethanol_output = input_product_amount * (conversion_rate / 100)\n    return ethanol_output\n",
+                    "fn_args": {
+                        "conversion_rate": 90
+                    },
+                    "output": 1800.0,
+                    "costs": 0
+                },
+                {
+                    "fn_name": "process_function_output_num_ethanol",
+                    "fn_str": "\ndef process_function_output_num_ethanol(input_product_amount: float, distillation_efficiency: float) -> float:\n    '''\n    Calculate the corrected amount of ethanol considering distillation efficiency.\n    \n    It appears there was a repetition in the provided parameters, with distillation_extraction_rate mentioned multiple times but likely refers to a single concept, hence simplified.\n\n    :param input_product_amount: The initial amount of ethanol available for distillation (tonne/day).\n    :param distillation_efficiency: The overall efficiency of the distillation process in extracting ethanol (%).\n    :return: The corrected amount of ethanol after accounting for distillation efficiency (tonne/day).\n    '''\n    # Apply the distillation efficiency to the input ethanol amount\n    corrected_ethanol_output = input_product_amount * (distillation_efficiency / 100)\n    \n    return corrected_ethanol_output\n",
+                    "fn_args": {
+                        "distillation_efficiency": 85
+                    },
+                    "output": 1530.0,
+                    "costs": 0
+                }
+            ],
+            "created_at": "1717620848.948834"
+        }
+    ]
+}
