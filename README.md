@@ -63,3 +63,13 @@ The TEA "level 7s" utilize chemical engineering simulation packages, in our case
 To tackle that variability, we setup the varying "levels" of TEA analysis, but deep technical analysis at chemical engineering levels still requires many assumptions.
 
 **Future Explorations**: Bringing together generative tooling and chemical engineering packages, can open up a new way to explore and industrial processing flows. We see a future where an iterative process with the researcher in the loop can both enrich TEA analysis and help guide users to new ideas.
+
+## Explore: MaML/TEA Viewer
+
+![Viewing MaMLs and TEAs](./docs/webview.png)
+
+**Overview:** With structured data and encoded representations about industrial processes, we can start to build graphs and relationships between known knowledge. To showcase this possibility, we built a web application for viewing this data and the relationships between processes.
+
+**Learnings:** While the LLM community has focused on encoded representations of text useful, we found increasing value in the process steps for finding overlaps and branching points of processes. Structured data and enums remain important than other heavy hand approaches of encoding large swathes of text.
+
+**Future Explorations**: There is an immense opportunity for iterative explorations and a UI that can sollicit feedback in the process. We're excited to explore guided co-pilot interfaces.
