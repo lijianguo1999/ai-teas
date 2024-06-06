@@ -1,5 +1,8 @@
 ### AI-TEAs
+
 # Automated Techno-Economic Analysis (TEA) using Manufacturing MarkUp Language (MaML)
+
+##### [Homeworld Collective](https://homeworld.bio/) -- Kyle Barnes, Daniel Goodwin, Mark Hansen
 
 ![Parsing papers into manufacturing markup/process flow for running technoeconomic analysis](./docs/diagram-full.png)
 
