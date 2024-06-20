@@ -51,7 +51,7 @@ We also think that the process of generating a MaML can be an interactive and cy
 
 **Example MaML:** Here is an example generated process flow for one of the papers we analyzed.
 
-```json
+```
 {
   "paper_id": "https://doi.org/10.1016/j.cej.2022.138886",
   "title": "Rewiring yeast metabolism for producing 2,3-butanediol and two downstream applications: Techno-economic analysis and life cycle assessment of methyl ethyl ketone (MEK) and agricultural biostimulant production",
@@ -139,7 +139,7 @@ To tackle that variability, we setup the varying "levels" of TEA analysis, but d
 
 **Simulation Results & History:** Here is an example of LLM driven python function writing using the MaML processing flow and descriptions with input parameters from the user. In this first version we ballpark step outputs, but we experimented with product output and cost as an expected tuple output of each function.
 
-```json
+```
 {
     "level": 1,
     "result": {
