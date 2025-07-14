@@ -1,12 +1,14 @@
 import json
 from ai_maml_builder.maml import MAML
-from .clients import openai_client
+from .clients import get_llm_client, get_llm_model
 
 
 def generate_simulator_parameters(maml: MAML, params_template: dict):
     print(f"[generate_simulator_parameters] filling ", params_template)
-    response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+    client = get_llm_client()
+    model = get_llm_model()
+    response = client.chat.completions.create(
+        model=model,
         response_format={ "type": "json_object" },
         messages=[
             {

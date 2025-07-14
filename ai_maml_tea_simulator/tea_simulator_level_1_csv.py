@@ -1,6 +1,6 @@
 import os
 from ai_maml_builder.maml import MAML
-from .clients import openai_client
+from .clients import get_llm_client, get_llm_model
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -9,10 +9,12 @@ DIR = os.path.dirname(os.path.abspath(__file__))
 def prompt_maml_to_csv_worksheet(maml: MAML) -> str:
     """Turn a MAML process flow and convert it to a CSV worksheet that includes formulas feeding into each step for a simple technoeconomic analysis"""
     print(f"[prompt_maml_to_csv_worksheet] start")
-    response = openai_client.chat.completions.create(
-        model="gpt-4-1106-preview",
+    client = get_llm_client()
+    model = get_llm_model("gpt-4-1106-preview")
+    response = client.chat.completions.create(
+        model=model,
         messages=[
-            { "role": "system", "content": """You are an assistant trained in biochemical process engineering and analyst.""" },
+            { "role": "system", "content": "You are an assistant trained in biochemical process engineering and analyst." },
             { "role": "user", "content": f"""
                 You must write CSV worksheets for a simple calculations across a process flow steps. Do not give an explanatory answer. Your response must be CSV compatable.
                 Do your best and I will give you a $200 tip.
@@ -52,7 +54,9 @@ def prompt_maml_to_csv_worksheet(maml: MAML) -> str:
                 MAML TO CONVERT:
              
                 {maml}
-            """}
+
+                ---
+            """ },
         ],
         max_tokens=2000)
     response_text = response.choices[0].message.content

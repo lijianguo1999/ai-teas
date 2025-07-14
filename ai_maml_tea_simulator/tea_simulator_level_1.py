@@ -2,7 +2,7 @@ import inspect
 import numpy_financial as npf
 from pydash import omit, snake_case
 from ai_maml_builder.maml import MAML
-from .clients import openai_client
+from .clients import get_llm_client, get_llm_model
 
 
 # ##########################################
@@ -115,8 +115,10 @@ def ethanol_purification(input_product_amount: float, distillation_extraction_ra
 
 def generate_python_fn_process_flow_step(fn_name: str, process_flow_step: dict):
     print(f"[generate_python_fn_process_flow_step] creating: {fn_name}")
-    response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+    client = get_llm_client()
+    model = get_llm_model()
+    response = client.chat.completions.create(
+        model=model,
         messages=[
             {
                 "role": "system",
