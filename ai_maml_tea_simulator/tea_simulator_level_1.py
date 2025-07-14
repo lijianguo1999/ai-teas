@@ -116,7 +116,7 @@ def ethanol_purification(input_product_amount: float, distillation_extraction_ra
 def generate_python_fn_process_flow_step(fn_name: str, process_flow_step: dict):
     print(f"[generate_python_fn_process_flow_step] creating: {fn_name}")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         messages=[
             {
                 "role": "system",

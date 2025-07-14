@@ -6,7 +6,7 @@ from .clients import openai_client
 def generate_simulator_parameters(maml: MAML, params_template: dict):
     print(f"[generate_simulator_parameters] filling ", params_template)
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             {

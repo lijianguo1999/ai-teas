@@ -8,7 +8,7 @@ from .clients import openai_client
 def prompt_figure_description(figure_title_caption_text: str, figure_image_url: str) -> str:
     print("[prompt_figure_description]")
     response = openai_client.chat.completions.create(
-        model="gpt-4-vision-preview",
+        model="deepseek-chat",
         messages=[{
             "role": "user", "content": [
                 { "type": "text", "text": "Explain this figure taken from an academic paper, with the title/description provided for context. Then if appropriate, provide structured JSON data in a markdown code block. Ex) ```json {{ \"a\": 1 }}```" },
@@ -26,7 +26,7 @@ def prompt_figure_description(figure_title_caption_text: str, figure_image_url: 
 def prompt_detail_extraction(paper_text: str, question: str) -> str:
     print("[prompt_detail_extraction]")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[{
             "role": "user", "content": f"""
@@ -47,7 +47,7 @@ def prompt_detail_extraction(paper_text: str, question: str) -> str:
 def prompt_paper_meta(paper_text: str) -> str:
     print("[prompt_paper_meta_abstract]")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": "You are an assistant trained in biochemical process engineering. Your responses to the follow questions need to be in a JSON object." },
@@ -89,7 +89,7 @@ def prompt_assess_paper_type(paper_text: str) -> str:
 
     print("[prompt_assess_paper_type]")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": "You are an AI assistant trained in biochemical process engineering. You have a broad base of knowledge and operate at the level of a senior process engineer familiar with practice and literature. Your responses to the follow questions need to be in a JSON object." },
@@ -289,7 +289,7 @@ doe_tags_list = """
 def prompt_tags_from_paper(paper_text: str) -> str:
     print("[prompt_describe_process_flows]")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering compiling data. Your output JSON schema is {{ "tags_doe": string[], "tags_feedstocks": string[], "tags_target_product": string[] }}""" }, 

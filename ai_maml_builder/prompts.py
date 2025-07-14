@@ -10,7 +10,7 @@ from .clients import openai_client
 def prompt_maml_choice(content: str, prompt: str, key: str, choices: List[str]):
     print(f"[prompt_maml_choice] {prompt}, choices: {choices}")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering. Provide a JSON response, within {{ '{key}': str }}""" },
@@ -43,7 +43,7 @@ def prompt_maml_choice(content: str, prompt: str, key: str, choices: List[str]):
 def prompt_process_step_output(content: str, process_step_analyzed, next_process_step_name):
     print(f"[prompt_process_step_output] {process_step_analyzed.type} -> {next_process_step_name}")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering. Provide a JSON response, within {{ 'output_name': str, 'output_unit': str }}""" },
@@ -82,7 +82,7 @@ def prompt_process_step_output(content: str, process_step_analyzed, next_process
 def prompt_process_novelty_parameters(content: str, process_step_analyzed):
     print(f"[prompt_process_novelty_parameters] {process_step_analyzed.type}")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering. Provide a JSON response, within {{ 'parameter_name': str, 'parameter_unit': str }}""" },
@@ -121,7 +121,7 @@ def prompt_process_novelty_parameters(content: str, process_step_analyzed):
 def prompt_simple_response(content: str, prompt: str):
     print(f"[prompt_simple_response] {prompt}")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering.""" },
             {
@@ -149,7 +149,7 @@ def prompt_simple_response(content: str, prompt: str):
 def prompt_process_novelty_parameters(content: str, process_step_analyzed):
     print(f"[prompt_process_novelty_parameters] {process_step_analyzed.type}")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering. Provide a JSON response, within {{ 'parameter_name': str, 'parameter_unit': str }}""" },
@@ -188,7 +188,7 @@ def prompt_process_novelty_parameters(content: str, process_step_analyzed):
 def prompt_process_flow_list_types(content: str, feedstock: str, output_target: str):
     print(f"[prompt_process_flow_list_types]")
     response = openai_client.chat.completions.create(
-        model="gpt-4-turbo-preview",
+        model="deepseek-chat",
         response_format={ "type": "json_object" },
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering. Provide a JSON response, within {{ 'process_flow_types': List[str] }}""" },

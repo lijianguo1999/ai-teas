@@ -10,7 +10,7 @@ def prompt_maml_to_csv_worksheet(maml: MAML) -> str:
     """Turn a MAML process flow and convert it to a CSV worksheet that includes formulas feeding into each step for a simple technoeconomic analysis"""
     print(f"[prompt_maml_to_csv_worksheet] start")
     response = openai_client.chat.completions.create(
-        model="gpt-4-1106-preview",
+        model="deepseek-chat",
         messages=[
             { "role": "system", "content": """You are an assistant trained in biochemical process engineering and analyst.""" },
             { "role": "user", "content": f"""
